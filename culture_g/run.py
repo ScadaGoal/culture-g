@@ -78,7 +78,10 @@ def _site_url() -> str:
     repo = os.environ.get("GITHUB_REPOSITORY")
     if repo and "/" in repo:
         owner, name = repo.split("/", 1)
-        return f"https://{owner}.github.io/{name}"
+        # Le nom de compte GitHub conserve sa casse, pas le sous-domaine Pages. Les
+        # applications de podcast comparent les URL a la lettre : une majuscule ici
+        # peut leur faire voir deux flux distincts.
+        return f"https://{owner.lower()}.github.io/{name}"
     return config.SITE_URL.rstrip("/")
 
 
