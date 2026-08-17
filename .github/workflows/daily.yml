@@ -2,9 +2,13 @@ name: Episode quotidien
 
 on:
   schedule:
-    # 04:00 UTC = 06:00 Paris en heure d'ete, 05:00 en heure d'hiver.
-    # L'episode est pret avant le premier trajet du matin.
-    - cron: "0 4 * * *"
+    # 03:23 UTC = 05:23 Paris en heure d'ete, 04:23 en hiver. Avec ~15 min de
+    # generation, l'episode est publie vers 05:40, largement avant le premier trajet.
+    #
+    # La minute n'est pas ronde a dessein : GitHub execute les taches planifiees au
+    # mieux, et la file d'attente est encombree a chaque heure pile, ou tout le monde
+    # planifie. Une minute decalee reduit nettement le retard constate.
+    - cron: "23 3 * * *"
   workflow_dispatch:
     inputs:
       since:
