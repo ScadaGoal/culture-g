@@ -1,0 +1,12 @@
+[
+  {
+    "slug": "2026-08-17",
+    "title": "Claude tatoué, Qwen qui surchauffe et Stripe s'offre l'IA",
+    "teaser": "Anthropic intègre un filigrane invisible dans les textes de Claude et déclenche la fronde des utilisateurs. Pendant ce temps, le nouveau modèle d'Alibaba passe vingt minutes à réfléchir sur un cercle en SVG, et Stripe met sept milliards sur la table pour OpenRouter.",
+    "notes": "Sources de cet episode :\n\n- Tatouage numérique : Anthropic révèle le fonctionnement du filigrane de Claude et suscite la fronde\n    Next.ink : https://next.ink/251980/anthropic-le-tatouage-de-claude-se-niche-dans-le-choix-des-mots/\n    Numerama : https://www.numerama.com/tech/2312505-la-fronde-contre-le-marquage-des-textes-de-claude-sorganise-ces-outils-traquent-deja-les-failles-du-filigrane.html\n    Hacker News : https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing\n- Qwen 3.8 27B : d'excellentes performances, mais un biais d'« overthinking »\n    Hacker News : https://artificialanalysis.ai/models/qwen3-8-27b\n    Hacker News : https://simonwillison.net/2026/Aug/16/qwen-38-27b/\n- Stripe s'apprête à racheter OpenRouter pour 7 milliards de dollars\n    Next.ink : https://next.ink/251881/stripe-sapprete-a-racheter-openrouter-pour-7-milliards-de-dollars/\n    Hacker News : https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/\n- La traque du texte inédit : quand les géants de l'IA pillent les librairies d'occasion\n    Ars Technica : https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/\n    Next.ink : https://next.ink/251888/ia-series-dachats-bizarres-aupres-de-librairies-doccasion-anglaises-et-irlandaises/\n- Histoire & Science : la seule victime connue d'un tir de trébuchet médiéval\n    Ars Technica : https://arstechnica.com/science/2026/08/meet-the-only-known-trebuchet-casualty-in-history/\n\nGenere automatiquement par Culture G.",
+    "audio": "2026-08-17.mp3",
+    "bytes": 5140653,
+    "duration": 642.52,
+    "published": "2026-08-17T21:25:48.206285+00:00"
+  }
+]

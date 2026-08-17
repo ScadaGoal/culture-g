@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Culture G</title>
+    <link>https://ScadaGoal.github.io/culture-g/</link>
+    <atom:link href="https://ScadaGoal.github.io/culture-g/feed.xml" rel="self" type="application/rss+xml"/>
+    <language>fr-FR</language>
+    <description>Un condense quotidien de l'actualite de l'intelligence artificielle, de la tech et de la science, monte en dialogue et genere automatiquement. L'IA en fil rouge, mais on ouvre large : histoire, sciences dures, societe.</description>
+    <lastBuildDate>Mon, 17 Aug 2026 21:30:24 +0000</lastBuildDate>
+    <generator>Culture G</generator>
+    <itunes:author>Culture G</itunes:author>
+    <itunes:subtitle>Votre veille IA, tech et science, chaque matin</itunes:subtitle>
+    <itunes:summary>Un condense quotidien de l'actualite de l'intelligence artificielle, de la tech et de la science, monte en dialogue et genere automatiquement. L'IA en fil rouge, mais on ouvre large : histoire, sciences dures, societe.</itunes:summary>
+    <itunes:type>episodic</itunes:type>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://ScadaGoal.github.io/culture-g/cover.png"/>
+    <itunes:category text="Technology"/>
+    <itunes:owner>
+      <itunes:name>Culture G</itunes:name>
+    </itunes:owner>
+    <item>
+      <title>Claude tatoué, Qwen qui surchauffe et Stripe s'offre l'IA</title>
+      <link>https://ScadaGoal.github.io/culture-g/</link>
+      <guid isPermaLink="false">culture-g-2026-08-17</guid>
+      <pubDate>Mon, 17 Aug 2026 21:25:48 +0000</pubDate>
+      <description>Anthropic intègre un filigrane invisible dans les textes de Claude et déclenche la fronde des utilisateurs. Pendant ce temps, le nouveau modèle d'Alibaba passe vingt minutes à réfléchir sur un cercle en SVG, et Stripe met sept milliards sur la table pour OpenRouter.
+
+Sources de cet episode :
+
+- Tatouage numérique : Anthropic révèle le fonctionnement du filigrane de Claude et suscite la fronde
+    Next.ink : https://next.ink/251980/anthropic-le-tatouage-de-claude-se-niche-dans-le-choix-des-mots/
+    Numerama : https://www.numerama.com/tech/2312505-la-fronde-contre-le-marquage-des-textes-de-claude-sorganise-ces-outils-traquent-deja-les-failles-du-filigrane.html
+    Hacker News : https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing
+- Qwen 3.8 27B : d'excellentes performances, mais un biais d'« overthinking »
+    Hacker News : https://artificialanalysis.ai/models/qwen3-8-27b
+    Hacker News : https://simonwillison.net/2026/Aug/16/qwen-38-27b/
+- Stripe s'apprête à racheter OpenRouter pour 7 milliards de dollars
+    Next.ink : https://next.ink/251881/stripe-sapprete-a-racheter-openrouter-pour-7-milliards-de-dollars/
+    Hacker News : https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/
+- La traque du texte inédit : quand les géants de l'IA pillent les librairies d'occasion
+    Ars Technica : https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/
+    Next.ink : https://next.ink/251888/ia-series-dachats-bizarres-aupres-de-librairies-doccasion-anglaises-et-irlandaises/
+- Histoire &amp; Science : la seule victime connue d'un tir de trébuchet médiéval
+    Ars Technica : https://arstechnica.com/science/2026/08/meet-the-only-known-trebuchet-casualty-in-history/
+
+Genere automatiquement par Culture G.</description>
+      <itunes:summary>Anthropic intègre un filigrane invisible dans les textes de Claude et déclenche la fronde des utilisateurs. Pendant ce temps, le nouveau modèle d'Alibaba passe vingt minutes à réfléchir sur un cercle en SVG, et Stripe met sept milliards sur la table pour OpenRouter.
+
+Sources de cet episode :
+
+- Tatouage numérique : Anthropic révèle le fonctionnement du filigrane de Claude et suscite la fronde
+    Next.ink : https://next.ink/251980/anthropic-le-tatouage-de-claude-se-niche-dans-le-choix-des-mots/
+    Numerama : https://www.numerama.com/tech/2312505-la-fronde-contre-le-marquage-des-textes-de-claude-sorganise-ces-outils-traquent-deja-les-failles-du-filigrane.html
+    Hacker News : https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing
+- Qwen 3.8 27B : d'excellentes performances, mais un biais d'« overthinking »
+    Hacker News : https://artificialanalysis.ai/models/qwen3-8-27b
+    Hacker News : https://simonwillison.net/2026/Aug/16/qwen-38-27b/
+- Stripe s'apprête à racheter OpenRouter pour 7 milliards de dollars
+    Next.ink : https://next.ink/251881/stripe-sapprete-a-racheter-openrouter-pour-7-milliards-de-dollars/
+    Hacker News : https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/
+- La traque du texte inédit : quand les géants de l'IA pillent les librairies d'occasion
+    Ars Technica : https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/
+    Next.ink : https://next.ink/251888/ia-series-dachats-bizarres-aupres-de-librairies-doccasion-anglaises-et-irlandaises/
+- Histoire &amp; Science : la seule victime connue d'un tir de trébuchet médiéval
+    Ars Technica : https://arstechnica.com/science/2026/08/meet-the-only-known-trebuchet-casualty-in-history/
+
+Genere automatiquement par Culture G.</itunes:summary>
+      <itunes:subtitle>Anthropic intègre un filigrane invisible dans les textes de Claude et déclenche la fronde des utilisateurs. Pendant ce temps, le nouveau modèle d'Alibaba passe vingt minutes à réfléchir sur un cercle en SVG, et Stripe met sept milliards sur la table pour </itunes:subtitle>
+      <itunes:duration>00:10:43</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://ScadaGoal.github.io/culture-g/episodes/2026-08-17.mp3" length="5140653" type="audio/mpeg"/>
+    </item>
+  </channel>
+</rss>
