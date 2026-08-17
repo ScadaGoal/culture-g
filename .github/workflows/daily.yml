@@ -1,0 +1,82 @@
+name: Episode quotidien
+
+on:
+  schedule:
+    # 04:00 UTC = 06:00 Paris en heure d'ete, 05:00 en heure d'hiver.
+    # L'episode est pret avant le premier trajet du matin.
+    - cron: "0 4 * * *"
+  workflow_dispatch:
+    inputs:
+      since:
+        description: "Fenetre de collecte (ex. 26h, 7d)"
+        required: false
+        default: "26h"
+      dry_run:
+        description: "Generer le script sans audio"
+        type: boolean
+        required: false
+        default: false
+
+# Un seul episode a la fois : deux runs concurrents se marcheraient dessus au commit.
+concurrency:
+  group: episode
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  episode:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Installer les dependances
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Installer ffmpeg
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
+
+      - name: Generer l'episode
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+        run: |
+          python -m culture_g.run \
+            --since "${{ inputs.since || '26h' }}" \
+            ${{ inputs.dry_run && '--dry-run' || '' }}
+
+      - name: Publier
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs state
+          # Rien a committer les jours sans nouveaute : ce n'est pas une erreur.
+          if git diff --staged --quiet; then
+            echo "Aucun changement, rien a publier."
+            exit 0
+          fi
+          git commit -m "Episode du $(date -u +%Y-%m-%d)"
+          # Le depot a pu bouger pendant la generation (~10 min).
+          git pull --rebase --autostash origin "${GITHUB_REF_NAME}"
+          git push
+
+      - name: Archiver le script en cas d'echec
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: diagnostic
+          path: |
+            state/script-*.txt
+            state/models.json
+          retention-days: 7
+          if-no-files-found: ignore

@@ -1,0 +1,7 @@
+{
+  "curate": "gemini-3.6-flash",
+  "digest": "gemini-3.6-flash",
+  "script": "gemini-3.7-flash",
+  "verify": "gemini-3.6-flash",
+  "tts": "gemini-3.1-flash-tts-preview"
+}

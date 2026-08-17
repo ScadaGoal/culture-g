@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+
+# Artefacts de travail : utiles en local pour relire ou auditer un episode,
+# sans interet en depot.
+state/script-*.txt
+state/notes-*.txt
+state/corrections-*.txt
+
+# Essais de voix
+docs/episodes/essai-*.mp3
+
+# Artefacts OneDrive
+desktop.ini
