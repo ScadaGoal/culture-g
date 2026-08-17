@@ -26,7 +26,7 @@ PODCAST_CATEGORY = "Technology"
 # Sert a construire les URL absolues du flux RSS : les lecteurs de podcast refusent
 # les chemins relatifs. En execution GitHub Actions, l'URL est deduite automatiquement
 # du depot ; cette valeur ne sert qu'aux executions locales.
-SITE_URL = "https://scadagoal.github.io/Podcast"
+SITE_URL = "https://scadagoal.github.io/culture-g"
 
 
 # --------------------------------------------------------------------------
