@@ -1,5 +1,15 @@
 [
   {
+    "slug": "2026-08-18",
+    "title": "Guerre d'influence sur les IA et baisses de prix chez OpenAI",
+    "teaser": "Des opérations d'influence conçoivent désormais de faux contenus académiques pour manipuler les réponses des chatbots. Dans le même temps, OpenAI divise par deux les tarifs d'inférence de GPT-5.6 Sol.",
+    "notes": "Sources de cet episode :\n\n- Désinformation ciblée : quand un État crée de faux sites pour duper les LLM\n    Hacker News : https://responsiblestatecraft.org/israel-influence-chatgpt/\n- OpenAI réduit de 50 % le coût d'inférence de GPT-5.6 Sol\n    Hacker News : https://openrouter.ai/openai/gpt-5.6-sol\n- Espace : La sortie spatiale historique de l'astronaute française Sophie Adenot\n    Numerama : https://www.numerama.com/sciences/2312351-sophie-adenot-suivez-en-direct-sa-sortie-spatiale-historique-hors-de-liss-aujourdhui.html\n- Physique quantique : le vide spatial n'est pas vraiment vide\n    ScienceDaily : https://www.sciencedaily.com/releases/2026/08/260815065007.htm\n\nGenere automatiquement par Culture G.",
+    "audio": "2026-08-18.mp3",
+    "bytes": 5540589,
+    "duration": 692.52,
+    "published": "2026-08-18T08:28:05.684937+00:00"
+  },
+  {
     "slug": "2026-08-17",
     "title": "Claude tatoué, Qwen qui surchauffe et Stripe s'offre l'IA",
     "teaser": "Anthropic intègre un filigrane invisible dans les textes de Claude et déclenche la fronde des utilisateurs. Pendant ce temps, le nouveau modèle d'Alibaba passe vingt minutes à réfléchir sur un cercle en SVG, et Stripe met sept milliards sur la table pour OpenRouter.",

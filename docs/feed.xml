@@ -4,25 +4,64 @@
      xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Culture G</title>
-    <link>https://ScadaGoal.github.io/culture-g/</link>
-    <atom:link href="https://ScadaGoal.github.io/culture-g/feed.xml" rel="self" type="application/rss+xml"/>
+    <link>https://scadagoal.github.io/culture-g/</link>
+    <atom:link href="https://scadagoal.github.io/culture-g/feed.xml" rel="self" type="application/rss+xml"/>
     <language>fr-FR</language>
     <description>Un condense quotidien de l'actualite de l'intelligence artificielle, de la tech et de la science, monte en dialogue et genere automatiquement. L'IA en fil rouge, mais on ouvre large : histoire, sciences dures, societe.</description>
-    <lastBuildDate>Mon, 17 Aug 2026 21:30:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 08:33:04 +0000</lastBuildDate>
     <generator>Culture G</generator>
     <itunes:author>Culture G</itunes:author>
     <itunes:subtitle>Votre veille IA, tech et science, chaque matin</itunes:subtitle>
     <itunes:summary>Un condense quotidien de l'actualite de l'intelligence artificielle, de la tech et de la science, monte en dialogue et genere automatiquement. L'IA en fil rouge, mais on ouvre large : histoire, sciences dures, societe.</itunes:summary>
     <itunes:type>episodic</itunes:type>
     <itunes:explicit>false</itunes:explicit>
-    <itunes:image href="https://ScadaGoal.github.io/culture-g/cover.png"/>
+    <itunes:image href="https://scadagoal.github.io/culture-g/cover.png"/>
     <itunes:category text="Technology"/>
     <itunes:owner>
       <itunes:name>Culture G</itunes:name>
     </itunes:owner>
     <item>
+      <title>Guerre d'influence sur les IA et baisses de prix chez OpenAI</title>
+      <link>https://scadagoal.github.io/culture-g/</link>
+      <guid isPermaLink="false">culture-g-2026-08-18</guid>
+      <pubDate>Tue, 18 Aug 2026 08:28:05 +0000</pubDate>
+      <description>Des opérations d'influence conçoivent désormais de faux contenus académiques pour manipuler les réponses des chatbots. Dans le même temps, OpenAI divise par deux les tarifs d'inférence de GPT-5.6 Sol.
+
+Sources de cet episode :
+
+- Désinformation ciblée : quand un État crée de faux sites pour duper les LLM
+    Hacker News : https://responsiblestatecraft.org/israel-influence-chatgpt/
+- OpenAI réduit de 50 % le coût d'inférence de GPT-5.6 Sol
+    Hacker News : https://openrouter.ai/openai/gpt-5.6-sol
+- Espace : La sortie spatiale historique de l'astronaute française Sophie Adenot
+    Numerama : https://www.numerama.com/sciences/2312351-sophie-adenot-suivez-en-direct-sa-sortie-spatiale-historique-hors-de-liss-aujourdhui.html
+- Physique quantique : le vide spatial n'est pas vraiment vide
+    ScienceDaily : https://www.sciencedaily.com/releases/2026/08/260815065007.htm
+
+Genere automatiquement par Culture G.</description>
+      <itunes:summary>Des opérations d'influence conçoivent désormais de faux contenus académiques pour manipuler les réponses des chatbots. Dans le même temps, OpenAI divise par deux les tarifs d'inférence de GPT-5.6 Sol.
+
+Sources de cet episode :
+
+- Désinformation ciblée : quand un État crée de faux sites pour duper les LLM
+    Hacker News : https://responsiblestatecraft.org/israel-influence-chatgpt/
+- OpenAI réduit de 50 % le coût d'inférence de GPT-5.6 Sol
+    Hacker News : https://openrouter.ai/openai/gpt-5.6-sol
+- Espace : La sortie spatiale historique de l'astronaute française Sophie Adenot
+    Numerama : https://www.numerama.com/sciences/2312351-sophie-adenot-suivez-en-direct-sa-sortie-spatiale-historique-hors-de-liss-aujourdhui.html
+- Physique quantique : le vide spatial n'est pas vraiment vide
+    ScienceDaily : https://www.sciencedaily.com/releases/2026/08/260815065007.htm
+
+Genere automatiquement par Culture G.</itunes:summary>
+      <itunes:subtitle>Des opérations d'influence conçoivent désormais de faux contenus académiques pour manipuler les réponses des chatbots. Dans le même temps, OpenAI divise par deux les tarifs d'inférence de GPT-5.6 Sol.</itunes:subtitle>
+      <itunes:duration>00:11:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://scadagoal.github.io/culture-g/episodes/2026-08-18.mp3" length="5540589" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Claude tatoué, Qwen qui surchauffe et Stripe s'offre l'IA</title>
-      <link>https://ScadaGoal.github.io/culture-g/</link>
+      <link>https://scadagoal.github.io/culture-g/</link>
       <guid isPermaLink="false">culture-g-2026-08-17</guid>
       <pubDate>Mon, 17 Aug 2026 21:25:48 +0000</pubDate>
       <description>Anthropic intègre un filigrane invisible dans les textes de Claude et déclenche la fronde des utilisateurs. Pendant ce temps, le nouveau modèle d'Alibaba passe vingt minutes à réfléchir sur un cercle en SVG, et Stripe met sept milliards sur la table pour OpenRouter.
@@ -71,7 +110,7 @@ Genere automatiquement par Culture G.</itunes:summary>
       <itunes:duration>00:10:43</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
-      <enclosure url="https://ScadaGoal.github.io/culture-g/episodes/2026-08-17.mp3" length="5140653" type="audio/mpeg"/>
+      <enclosure url="https://scadagoal.github.io/culture-g/episodes/2026-08-17.mp3" length="5140653" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
