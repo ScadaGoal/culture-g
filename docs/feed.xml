@@ -8,7 +8,7 @@
     <atom:link href="https://scadagoal.github.io/culture-g/feed.xml" rel="self" type="application/rss+xml"/>
     <language>fr-FR</language>
     <description>Un condense quotidien de l'actualite de l'intelligence artificielle, de la tech et de la science, monte en dialogue et genere automatiquement. L'IA en fil rouge, mais on ouvre large : histoire, sciences dures, societe.</description>
-    <lastBuildDate>Tue, 18 Aug 2026 08:33:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 08:04:37 +0000</lastBuildDate>
     <generator>Culture G</generator>
     <itunes:author>Culture G</itunes:author>
     <itunes:subtitle>Votre veille IA, tech et science, chaque matin</itunes:subtitle>
@@ -20,6 +20,61 @@
     <itunes:owner>
       <itunes:name>Culture G</itunes:name>
     </itunes:owner>
+    <item>
+      <title>L'IA dévore la mémoire des faillites et des livres rares</title>
+      <link>https://scadagoal.github.io/culture-g/</link>
+      <guid isPermaLink="false">culture-g-2026-08-19</guid>
+      <pubDate>Wed, 19 Aug 2026 07:59:10 +0000</pubDate>
+      <description>Des archives de compagnies aériennes rachetées par Google aux livres anciens détruits par Amazon, enquête sur la grande traque des données d'entraînement réelles. Découvrez aussi la stratégie des faux think-tanks pour empoisonner les chatbots et pourquoi les robots échouent toujours dans l'espace.
+
+Sources de cet episode :
+
+- La grande braderie des données : quand l'IA dévore les faillites et les livres anciens
+    Next.ink : https://next.ink/252219/google-entraine-son-ia-avec-les-donnees-dune-compagnie-aerienne-en-faillite/
+    Numerama : https://www.numerama.com/tech/2313373-nourrir-lia-avec-les-cadavres-dentreprises-google-pose-10-millions-de-dollars-pour-racheter-les-mails-dune-compagnie-aerienne-morte.html
+    Hacker News : https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962
+    Numerama : https://www.numerama.com/tech/2313051-un-airtag-revele-ou-finissent-les-livres-quamazon-achete-et-detruit-en-masse.html
+- Infiltration d'IA : la création d'un faux think-tank pour orienter les chatbots
+    Next.ink : https://next.ink/252028/pour-israel-des-agences-de-com-creent-un-faux-think-tank-pour-influencer-les-chatbots/
+- OpenAI lance ChatGPT pour les ados et fait valoir l'impact de Codex
+    OpenAI : https://openai.com/index/chatgpt-for-teens
+    OpenAI : https://openai.com/index/asana
+    Next.ink : https://next.ink/252113/apres-avoir-mis-sur-pause-la-version-adulte-de-chatgpt-openai-lance-sa-version-ado/
+- Sortie spatiale de Sophie Adenot : pourquoi les robots n'ont toujours pas remplacé les astronautes
+    Numerama : https://www.numerama.com/sciences/2312351-sophie-adenot-est-en-combinaison-suivez-en-direct-sa-sortie-spatiale-historique-hors-de-liss.html
+    Numerama : https://www.numerama.com/sciences/2313219-sophie-adenot-remplacee-par-un-robot-pour-sa-sortie-dans-lespace-lhistoire-du-projet-avorte-de-la-nasa.html
+- Sciences : une nouvelle espèce animale découverte grâce à une vidéo TikTok
+    Numerama : https://www.numerama.com/sciences/2313411-on-a-decouvert-un-poisson-souterrain-inconnu-et-cest-grace-a-une-video-sur-tiktok.html
+
+Genere automatiquement par Culture G.</description>
+      <itunes:summary>Des archives de compagnies aériennes rachetées par Google aux livres anciens détruits par Amazon, enquête sur la grande traque des données d'entraînement réelles. Découvrez aussi la stratégie des faux think-tanks pour empoisonner les chatbots et pourquoi les robots échouent toujours dans l'espace.
+
+Sources de cet episode :
+
+- La grande braderie des données : quand l'IA dévore les faillites et les livres anciens
+    Next.ink : https://next.ink/252219/google-entraine-son-ia-avec-les-donnees-dune-compagnie-aerienne-en-faillite/
+    Numerama : https://www.numerama.com/tech/2313373-nourrir-lia-avec-les-cadavres-dentreprises-google-pose-10-millions-de-dollars-pour-racheter-les-mails-dune-compagnie-aerienne-morte.html
+    Hacker News : https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962
+    Numerama : https://www.numerama.com/tech/2313051-un-airtag-revele-ou-finissent-les-livres-quamazon-achete-et-detruit-en-masse.html
+- Infiltration d'IA : la création d'un faux think-tank pour orienter les chatbots
+    Next.ink : https://next.ink/252028/pour-israel-des-agences-de-com-creent-un-faux-think-tank-pour-influencer-les-chatbots/
+- OpenAI lance ChatGPT pour les ados et fait valoir l'impact de Codex
+    OpenAI : https://openai.com/index/chatgpt-for-teens
+    OpenAI : https://openai.com/index/asana
+    Next.ink : https://next.ink/252113/apres-avoir-mis-sur-pause-la-version-adulte-de-chatgpt-openai-lance-sa-version-ado/
+- Sortie spatiale de Sophie Adenot : pourquoi les robots n'ont toujours pas remplacé les astronautes
+    Numerama : https://www.numerama.com/sciences/2312351-sophie-adenot-est-en-combinaison-suivez-en-direct-sa-sortie-spatiale-historique-hors-de-liss.html
+    Numerama : https://www.numerama.com/sciences/2313219-sophie-adenot-remplacee-par-un-robot-pour-sa-sortie-dans-lespace-lhistoire-du-projet-avorte-de-la-nasa.html
+- Sciences : une nouvelle espèce animale découverte grâce à une vidéo TikTok
+    Numerama : https://www.numerama.com/sciences/2313411-on-a-decouvert-un-poisson-souterrain-inconnu-et-cest-grace-a-une-video-sur-tiktok.html
+
+Genere automatiquement par Culture G.</itunes:summary>
+      <itunes:subtitle>Des archives de compagnies aériennes rachetées par Google aux livres anciens détruits par Amazon, enquête sur la grande traque des données d'entraînement réelles. Découvrez aussi la stratégie des faux think-tanks pour empoisonner les chatbots et pourquoi </itunes:subtitle>
+      <itunes:duration>00:12:30</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://scadagoal.github.io/culture-g/episodes/2026-08-19.mp3" length="5999853" type="audio/mpeg"/>
+    </item>
     <item>
       <title>Guerre d'influence sur les IA et baisses de prix chez OpenAI</title>
       <link>https://scadagoal.github.io/culture-g/</link>

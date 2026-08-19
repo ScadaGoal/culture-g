@@ -1,5 +1,15 @@
 [
   {
+    "slug": "2026-08-19",
+    "title": "L'IA dévore la mémoire des faillites et des livres rares",
+    "teaser": "Des archives de compagnies aériennes rachetées par Google aux livres anciens détruits par Amazon, enquête sur la grande traque des données d'entraînement réelles. Découvrez aussi la stratégie des faux think-tanks pour empoisonner les chatbots et pourquoi les robots échouent toujours dans l'espace.",
+    "notes": "Sources de cet episode :\n\n- La grande braderie des données : quand l'IA dévore les faillites et les livres anciens\n    Next.ink : https://next.ink/252219/google-entraine-son-ia-avec-les-donnees-dune-compagnie-aerienne-en-faillite/\n    Numerama : https://www.numerama.com/tech/2313373-nourrir-lia-avec-les-cadavres-dentreprises-google-pose-10-millions-de-dollars-pour-racheter-les-mails-dune-compagnie-aerienne-morte.html\n    Hacker News : https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962\n    Numerama : https://www.numerama.com/tech/2313051-un-airtag-revele-ou-finissent-les-livres-quamazon-achete-et-detruit-en-masse.html\n- Infiltration d'IA : la création d'un faux think-tank pour orienter les chatbots\n    Next.ink : https://next.ink/252028/pour-israel-des-agences-de-com-creent-un-faux-think-tank-pour-influencer-les-chatbots/\n- OpenAI lance ChatGPT pour les ados et fait valoir l'impact de Codex\n    OpenAI : https://openai.com/index/chatgpt-for-teens\n    OpenAI : https://openai.com/index/asana\n    Next.ink : https://next.ink/252113/apres-avoir-mis-sur-pause-la-version-adulte-de-chatgpt-openai-lance-sa-version-ado/\n- Sortie spatiale de Sophie Adenot : pourquoi les robots n'ont toujours pas remplacé les astronautes\n    Numerama : https://www.numerama.com/sciences/2312351-sophie-adenot-est-en-combinaison-suivez-en-direct-sa-sortie-spatiale-historique-hors-de-liss.html\n    Numerama : https://www.numerama.com/sciences/2313219-sophie-adenot-remplacee-par-un-robot-pour-sa-sortie-dans-lespace-lhistoire-du-projet-avorte-de-la-nasa.html\n- Sciences : une nouvelle espèce animale découverte grâce à une vidéo TikTok\n    Numerama : https://www.numerama.com/sciences/2313411-on-a-decouvert-un-poisson-souterrain-inconnu-et-cest-grace-a-une-video-sur-tiktok.html\n\nGenere automatiquement par Culture G.",
+    "audio": "2026-08-19.mp3",
+    "bytes": 5999853,
+    "duration": 749.92,
+    "published": "2026-08-19T07:59:10.471515+00:00"
+  },
+  {
     "slug": "2026-08-18",
     "title": "Guerre d'influence sur les IA et baisses de prix chez OpenAI",
     "teaser": "Des opérations d'influence conçoivent désormais de faux contenus académiques pour manipuler les réponses des chatbots. Dans le même temps, OpenAI divise par deux les tarifs d'inférence de GPT-5.6 Sol.",
