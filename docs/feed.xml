@@ -8,7 +8,7 @@
     <atom:link href="https://scadagoal.github.io/culture-g/feed.xml" rel="self" type="application/rss+xml"/>
     <language>fr-FR</language>
     <description>Un condense quotidien de l'actualite de l'intelligence artificielle, de la tech et de la science, monte en dialogue et genere automatiquement. L'IA en fil rouge, mais on ouvre large : histoire, sciences dures, societe.</description>
-    <lastBuildDate>Wed, 19 Aug 2026 08:04:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 04:15:58 +0000</lastBuildDate>
     <generator>Culture G</generator>
     <itunes:author>Culture G</itunes:author>
     <itunes:subtitle>Votre veille IA, tech et science, chaque matin</itunes:subtitle>
@@ -20,6 +20,57 @@
     <itunes:owner>
       <itunes:name>Culture G</itunes:name>
     </itunes:owner>
+    <item>
+      <title>OpenAI suspend Astra : coup de frein sur la cyberdéfense</title>
+      <link>https://scadagoal.github.io/culture-g/</link>
+      <guid isPermaLink="false">culture-g-2026-08-20</guid>
+      <pubDate>Thu, 20 Aug 2026 04:10:14 +0000</pubDate>
+      <description>OpenAI interrompt l'entraînement de son prochain modèle de pointe face à des capacités cyberoffensives émergentes. Nous revenons également sur la victoire clinique du premier vaccin à ARNm contre le mélanome et l'autonomie accordée à Claude dans Gmail.
+
+Sources de cet episode :
+
+- OpenAI suspend l'entraînement de son futur modèle Astra pour des raisons de sécurité cyber
+    Numerama : https://www.numerama.com/tech/2313749-nous-suspendons-certains-entrainements-de-nos-modeles-dia-de-pointe-openai-met-un-coup-de-frein-dans-la-course-aux-capacites-apres-laffaire-hugging-face.html
+- Victoire majeure pour le premier vaccin à ARNm contre le cancer en Phase 3
+    Numerama : https://www.numerama.com/sciences/2314221-cancer-de-la-peau-le-premier-vaccin-a-base-darnm-franchit-une-phase-decisive.html
+    Ars Technica : https://arstechnica.com/health/2026/08/mrna-cancer-vaccine-succeeded-in-phase-3-melanoma-trial-moderna-and-merck-say/
+    Hacker News : https://twitter.com/NoubarAfeyan/status/2090050162441752787
+- Claude passe à l'action : Anthropic intègre son assistant directement dans Gmail
+    Numerama : https://www.numerama.com/tech/2313921-claude-peut-desormais-envoyer-des-mails-a-votre-place-meme-sans-validation.html
+- Cartes bancaires « zombies » : la faille de sécurité qui ressuscite des puces Visa expirées
+    Numerama : https://www.numerama.com/cyberguerre/2314109-les-cartes-zombies-sont-de-retour-en-ligne-comment-une-faille-visa-permet-de-ressusciter-des-cartes-expirees.html
+    Next.ink : https://next.ink/252238/des-chercheurs-ont-fait-revivre-des-cartes-visa-sans-contact-apres-expiration/
+- Espace : la fusée chinoise LandSpace réussit son premier atterrissage vertical
+    Numerama : https://www.numerama.com/sciences/2313903-il-y-a-huit-mois-cette-fusee-chinoise-explosait-au-sol-aujourdhui-elle-atterrit-comme-une-falcon-9.html
+    Ars Technica : https://arstechnica.com/space/2026/08/the-floodgates-are-open-after-another-chinese-company-lands-a-reusable-rocket/
+
+Genere automatiquement par Culture G.</description>
+      <itunes:summary>OpenAI interrompt l'entraînement de son prochain modèle de pointe face à des capacités cyberoffensives émergentes. Nous revenons également sur la victoire clinique du premier vaccin à ARNm contre le mélanome et l'autonomie accordée à Claude dans Gmail.
+
+Sources de cet episode :
+
+- OpenAI suspend l'entraînement de son futur modèle Astra pour des raisons de sécurité cyber
+    Numerama : https://www.numerama.com/tech/2313749-nous-suspendons-certains-entrainements-de-nos-modeles-dia-de-pointe-openai-met-un-coup-de-frein-dans-la-course-aux-capacites-apres-laffaire-hugging-face.html
+- Victoire majeure pour le premier vaccin à ARNm contre le cancer en Phase 3
+    Numerama : https://www.numerama.com/sciences/2314221-cancer-de-la-peau-le-premier-vaccin-a-base-darnm-franchit-une-phase-decisive.html
+    Ars Technica : https://arstechnica.com/health/2026/08/mrna-cancer-vaccine-succeeded-in-phase-3-melanoma-trial-moderna-and-merck-say/
+    Hacker News : https://twitter.com/NoubarAfeyan/status/2090050162441752787
+- Claude passe à l'action : Anthropic intègre son assistant directement dans Gmail
+    Numerama : https://www.numerama.com/tech/2313921-claude-peut-desormais-envoyer-des-mails-a-votre-place-meme-sans-validation.html
+- Cartes bancaires « zombies » : la faille de sécurité qui ressuscite des puces Visa expirées
+    Numerama : https://www.numerama.com/cyberguerre/2314109-les-cartes-zombies-sont-de-retour-en-ligne-comment-une-faille-visa-permet-de-ressusciter-des-cartes-expirees.html
+    Next.ink : https://next.ink/252238/des-chercheurs-ont-fait-revivre-des-cartes-visa-sans-contact-apres-expiration/
+- Espace : la fusée chinoise LandSpace réussit son premier atterrissage vertical
+    Numerama : https://www.numerama.com/sciences/2313903-il-y-a-huit-mois-cette-fusee-chinoise-explosait-au-sol-aujourdhui-elle-atterrit-comme-une-falcon-9.html
+    Ars Technica : https://arstechnica.com/space/2026/08/the-floodgates-are-open-after-another-chinese-company-lands-a-reusable-rocket/
+
+Genere automatiquement par Culture G.</itunes:summary>
+      <itunes:subtitle>OpenAI interrompt l'entraînement de son prochain modèle de pointe face à des capacités cyberoffensives émergentes. Nous revenons également sur la victoire clinique du premier vaccin à ARNm contre le mélanome et l'autonomie accordée à Claude dans Gmail.</itunes:subtitle>
+      <itunes:duration>00:12:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://scadagoal.github.io/culture-g/episodes/2026-08-20.mp3" length="5802093" type="audio/mpeg"/>
+    </item>
     <item>
       <title>L'IA dévore la mémoire des faillites et des livres rares</title>
       <link>https://scadagoal.github.io/culture-g/</link>
