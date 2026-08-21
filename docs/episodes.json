@@ -1,5 +1,15 @@
 [
   {
+    "slug": "2026-08-21",
+    "title": "Mistral Agentic Search, Qwen débridé et l'arbre d'Homo",
+    "teaser": "Mistral dévoile une recherche agentique pour en finir avec les hallucinations sur les documents complexes. De son côté, la paléoanthropologie propose de réécrire cinq millions d'années d'évolution humaine.",
+    "notes": "Sources de cet episode :\n\n- Mistral AI dévoile Agentic Search pour révolutionner la recherche documentaire\n    Mistral AI : https://mistral.ai/news/agentic-search/\n- Les versions débridées de l'IA chinoise Qwen inquiètent la communauté tech\n    Numerama : https://www.numerama.com/cyberguerre/2314343-il-fera-tout-ce-que-vous-lui-demanderez-les-versions-uncensored-du-modele-dia-chinois-qwen-affolent-les-reseaux.html\n- Terence Tao utilise l'humour pour cadrer le vrai rôle de l'IA dans les mathématiques\n    Numerama : https://www.numerama.com/tech/2314973-terence-tao-le-mozart-des-maths-modernes-brandit-un-meme-pour-expliquer-le-souci-des-maths-a-lere-de-lia.html\n- Quand le logiciel espion 'secret défense' de la DGSI s'avère être un simple projet GitHub\n    Next.ink : https://next.ink/252247/le-logiciel-espion-secret-defense-de-la-dgsi-etait-un-fork-dun-exploit-disponible-sur-github/\n- Pourquoi l'arbre généalogique de l'humanité pourrait être entièrement réécrit\n    ScienceDaily : https://www.sciencedaily.com/releases/2026/08/260820002413.htm\n\nGenere automatiquement par Culture G.",
+    "audio": "2026-08-21.mp3",
+    "bytes": 6523437,
+    "duration": 815.36,
+    "published": "2026-08-21T04:13:53.203570+00:00"
+  },
+  {
     "slug": "2026-08-20",
     "title": "OpenAI suspend Astra : coup de frein sur la cyberdéfense",
     "teaser": "OpenAI interrompt l'entraînement de son prochain modèle de pointe face à des capacités cyberoffensives émergentes. Nous revenons également sur la victoire clinique du premier vaccin à ARNm contre le mélanome et l'autonomie accordée à Claude dans Gmail.",

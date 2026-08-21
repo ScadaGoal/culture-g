@@ -8,7 +8,7 @@
     <atom:link href="https://scadagoal.github.io/culture-g/feed.xml" rel="self" type="application/rss+xml"/>
     <language>fr-FR</language>
     <description>Un condense quotidien de l'actualite de l'intelligence artificielle, de la tech et de la science, monte en dialogue et genere automatiquement. L'IA en fil rouge, mais on ouvre large : histoire, sciences dures, societe.</description>
-    <lastBuildDate>Thu, 20 Aug 2026 04:15:58 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 04:19:46 +0000</lastBuildDate>
     <generator>Culture G</generator>
     <itunes:author>Culture G</itunes:author>
     <itunes:subtitle>Votre veille IA, tech et science, chaque matin</itunes:subtitle>
@@ -20,6 +20,49 @@
     <itunes:owner>
       <itunes:name>Culture G</itunes:name>
     </itunes:owner>
+    <item>
+      <title>Mistral Agentic Search, Qwen débridé et l'arbre d'Homo</title>
+      <link>https://scadagoal.github.io/culture-g/</link>
+      <guid isPermaLink="false">culture-g-2026-08-21</guid>
+      <pubDate>Fri, 21 Aug 2026 04:13:53 +0000</pubDate>
+      <description>Mistral dévoile une recherche agentique pour en finir avec les hallucinations sur les documents complexes. De son côté, la paléoanthropologie propose de réécrire cinq millions d'années d'évolution humaine.
+
+Sources de cet episode :
+
+- Mistral AI dévoile Agentic Search pour révolutionner la recherche documentaire
+    Mistral AI : https://mistral.ai/news/agentic-search/
+- Les versions débridées de l'IA chinoise Qwen inquiètent la communauté tech
+    Numerama : https://www.numerama.com/cyberguerre/2314343-il-fera-tout-ce-que-vous-lui-demanderez-les-versions-uncensored-du-modele-dia-chinois-qwen-affolent-les-reseaux.html
+- Terence Tao utilise l'humour pour cadrer le vrai rôle de l'IA dans les mathématiques
+    Numerama : https://www.numerama.com/tech/2314973-terence-tao-le-mozart-des-maths-modernes-brandit-un-meme-pour-expliquer-le-souci-des-maths-a-lere-de-lia.html
+- Quand le logiciel espion 'secret défense' de la DGSI s'avère être un simple projet GitHub
+    Next.ink : https://next.ink/252247/le-logiciel-espion-secret-defense-de-la-dgsi-etait-un-fork-dun-exploit-disponible-sur-github/
+- Pourquoi l'arbre généalogique de l'humanité pourrait être entièrement réécrit
+    ScienceDaily : https://www.sciencedaily.com/releases/2026/08/260820002413.htm
+
+Genere automatiquement par Culture G.</description>
+      <itunes:summary>Mistral dévoile une recherche agentique pour en finir avec les hallucinations sur les documents complexes. De son côté, la paléoanthropologie propose de réécrire cinq millions d'années d'évolution humaine.
+
+Sources de cet episode :
+
+- Mistral AI dévoile Agentic Search pour révolutionner la recherche documentaire
+    Mistral AI : https://mistral.ai/news/agentic-search/
+- Les versions débridées de l'IA chinoise Qwen inquiètent la communauté tech
+    Numerama : https://www.numerama.com/cyberguerre/2314343-il-fera-tout-ce-que-vous-lui-demanderez-les-versions-uncensored-du-modele-dia-chinois-qwen-affolent-les-reseaux.html
+- Terence Tao utilise l'humour pour cadrer le vrai rôle de l'IA dans les mathématiques
+    Numerama : https://www.numerama.com/tech/2314973-terence-tao-le-mozart-des-maths-modernes-brandit-un-meme-pour-expliquer-le-souci-des-maths-a-lere-de-lia.html
+- Quand le logiciel espion 'secret défense' de la DGSI s'avère être un simple projet GitHub
+    Next.ink : https://next.ink/252247/le-logiciel-espion-secret-defense-de-la-dgsi-etait-un-fork-dun-exploit-disponible-sur-github/
+- Pourquoi l'arbre généalogique de l'humanité pourrait être entièrement réécrit
+    ScienceDaily : https://www.sciencedaily.com/releases/2026/08/260820002413.htm
+
+Genere automatiquement par Culture G.</itunes:summary>
+      <itunes:subtitle>Mistral dévoile une recherche agentique pour en finir avec les hallucinations sur les documents complexes. De son côté, la paléoanthropologie propose de réécrire cinq millions d'années d'évolution humaine.</itunes:subtitle>
+      <itunes:duration>00:13:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://scadagoal.github.io/culture-g/episodes/2026-08-21.mp3" length="6523437" type="audio/mpeg"/>
+    </item>
     <item>
       <title>OpenAI suspend Astra : coup de frein sur la cyberdéfense</title>
       <link>https://scadagoal.github.io/culture-g/</link>
