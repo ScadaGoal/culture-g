@@ -8,7 +8,7 @@
     <atom:link href="https://scadagoal.github.io/culture-g/feed.xml" rel="self" type="application/rss+xml"/>
     <language>fr-FR</language>
     <description>Un condense quotidien de l'actualite de l'intelligence artificielle, de la tech et de la science, monte en dialogue et genere automatiquement. L'IA en fil rouge, mais on ouvre large : histoire, sciences dures, societe.</description>
-    <lastBuildDate>Fri, 21 Aug 2026 04:19:46 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 04:15:52 +0000</lastBuildDate>
     <generator>Culture G</generator>
     <itunes:author>Culture G</itunes:author>
     <itunes:subtitle>Votre veille IA, tech et science, chaque matin</itunes:subtitle>
@@ -20,6 +20,49 @@
     <itunes:owner>
       <itunes:name>Culture G</itunes:name>
     </itunes:owner>
+    <item>
+      <title>Vision ultra-rapide, EVE Online et le mystère TRON</title>
+      <link>https://scadagoal.github.io/culture-g/</link>
+      <guid isPermaLink="false">culture-g-2026-08-22</guid>
+      <pubDate>Sat, 22 Aug 2026 04:09:09 +0000</pubDate>
+      <description>DeepSeek bouscule les coûts de la vision par ordinateur pendant que DeepMind installe ses modèles dans l'univers d'EVE Online. Nous explorons aussi une percée en combinatoire vieille de trente ans et la revanche secrète du système d'exploitation japonais TRON.
+
+Sources de cet episode :
+
+- DeepSeek dévoile v4-flash-vision : la course aux modèles multimodaux ultrarapides
+    Hacker News : https://api-docs.deepseek.com/guides/vision/
+- De Atari à EVE Online : 15 ans d'apprentissage par renforcement chez DeepMind
+    Google DeepMind : https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/
+- Un problème mathématique vieux de 30 ans résolu : l'art de l'équilibrage parfait
+    Quanta Magazine : https://www.quantamagazine.org/huge-breakthrough-in-the-math-of-imbalance-20260821/
+- L'histoire méconnue du projet TRON : quand le Japon a voulu créer un système d'exploitation mondial
+    Hacker News : https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/
+- Écouter la Terre grâce à la foudre et aux câbles sous-marins
+    Ars Technica : https://arstechnica.com/science/2026/08/researchers-use-thunderquakes-to-study-structure-of-earths-surface/
+
+Genere automatiquement par Culture G.</description>
+      <itunes:summary>DeepSeek bouscule les coûts de la vision par ordinateur pendant que DeepMind installe ses modèles dans l'univers d'EVE Online. Nous explorons aussi une percée en combinatoire vieille de trente ans et la revanche secrète du système d'exploitation japonais TRON.
+
+Sources de cet episode :
+
+- DeepSeek dévoile v4-flash-vision : la course aux modèles multimodaux ultrarapides
+    Hacker News : https://api-docs.deepseek.com/guides/vision/
+- De Atari à EVE Online : 15 ans d'apprentissage par renforcement chez DeepMind
+    Google DeepMind : https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/
+- Un problème mathématique vieux de 30 ans résolu : l'art de l'équilibrage parfait
+    Quanta Magazine : https://www.quantamagazine.org/huge-breakthrough-in-the-math-of-imbalance-20260821/
+- L'histoire méconnue du projet TRON : quand le Japon a voulu créer un système d'exploitation mondial
+    Hacker News : https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/
+- Écouter la Terre grâce à la foudre et aux câbles sous-marins
+    Ars Technica : https://arstechnica.com/science/2026/08/researchers-use-thunderquakes-to-study-structure-of-earths-surface/
+
+Genere automatiquement par Culture G.</itunes:summary>
+      <itunes:subtitle>DeepSeek bouscule les coûts de la vision par ordinateur pendant que DeepMind installe ses modèles dans l'univers d'EVE Online. Nous explorons aussi une percée en combinatoire vieille de trente ans et la revanche secrète du système d'exploitation japonais </itunes:subtitle>
+      <itunes:duration>00:15:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://scadagoal.github.io/culture-g/episodes/2026-08-22.mp3" length="7611309" type="audio/mpeg"/>
+    </item>
     <item>
       <title>Mistral Agentic Search, Qwen débridé et l'arbre d'Homo</title>
       <link>https://scadagoal.github.io/culture-g/</link>
