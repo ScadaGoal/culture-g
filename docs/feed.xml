@@ -8,7 +8,7 @@
     <atom:link href="https://scadagoal.github.io/culture-g/feed.xml" rel="self" type="application/rss+xml"/>
     <language>fr-FR</language>
     <description>Un condense quotidien de l'actualite de l'intelligence artificielle, de la tech et de la science, monte en dialogue et genere automatiquement. L'IA en fil rouge, mais on ouvre large : histoire, sciences dures, societe.</description>
-    <lastBuildDate>Sat, 22 Aug 2026 04:15:52 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 04:17:17 +0000</lastBuildDate>
     <generator>Culture G</generator>
     <itunes:author>Culture G</itunes:author>
     <itunes:subtitle>Votre veille IA, tech et science, chaque matin</itunes:subtitle>
@@ -20,6 +20,45 @@
     <itunes:owner>
       <itunes:name>Culture G</itunes:name>
     </itunes:owner>
+    <item>
+      <title>Simuler 8 milliards d'humains et sauver sa mémoire</title>
+      <link>https://scadagoal.github.io/culture-g/</link>
+      <guid isPermaLink="false">culture-g-2026-08-23</guid>
+      <pubDate>Sun, 23 Aug 2026 04:12:55 +0000</pubDate>
+      <description>Des chercheurs simulent la population mondiale grâce à des milliards d'agents IA, pendant que le protocole MCP affine sa feuille de route technique. En neurosciences, l'hibernation des souris et la pratique de plusieurs langues bousculent nos certitudes sur la mémoire et l'âge cérébral.
+
+Sources de cet episode :
+
+- Simulation d'agents à grande échelle : quand l'IA modélise les comportements humains
+    Vision IA : https://www.youtube.com/watch?v=kaw65Z2LuH8
+- Standardiser les agents IA : la nouvelle feuille de route du Model Context Protocol (MCP)
+    Hacker News : https://blog.modelcontextprotocol.io/posts/mcp-roadmap/
+- Neurosciences : les souris en hibernation perdent la moitié de leurs synapses, mais gardent leurs souvenirs
+    Ars Technica : https://arstechnica.com/science/2026/08/memories-stick-around-even-after-half-the-synapses-are-gone/
+- Sciences cognitives : le plurilinguisme rajeunirait le cerveau de 13 ans
+    ScienceDaily : https://www.sciencedaily.com/releases/2026/08/260821012226.htm
+
+Genere automatiquement par Culture G.</description>
+      <itunes:summary>Des chercheurs simulent la population mondiale grâce à des milliards d'agents IA, pendant que le protocole MCP affine sa feuille de route technique. En neurosciences, l'hibernation des souris et la pratique de plusieurs langues bousculent nos certitudes sur la mémoire et l'âge cérébral.
+
+Sources de cet episode :
+
+- Simulation d'agents à grande échelle : quand l'IA modélise les comportements humains
+    Vision IA : https://www.youtube.com/watch?v=kaw65Z2LuH8
+- Standardiser les agents IA : la nouvelle feuille de route du Model Context Protocol (MCP)
+    Hacker News : https://blog.modelcontextprotocol.io/posts/mcp-roadmap/
+- Neurosciences : les souris en hibernation perdent la moitié de leurs synapses, mais gardent leurs souvenirs
+    Ars Technica : https://arstechnica.com/science/2026/08/memories-stick-around-even-after-half-the-synapses-are-gone/
+- Sciences cognitives : le plurilinguisme rajeunirait le cerveau de 13 ans
+    ScienceDaily : https://www.sciencedaily.com/releases/2026/08/260821012226.htm
+
+Genere automatiquement par Culture G.</itunes:summary>
+      <itunes:subtitle>Des chercheurs simulent la population mondiale grâce à des milliards d'agents IA, pendant que le protocole MCP affine sa feuille de route technique. En neurosciences, l'hibernation des souris et la pratique de plusieurs langues bousculent nos certitudes s</itunes:subtitle>
+      <itunes:duration>00:10:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://scadagoal.github.io/culture-g/episodes/2026-08-23.mp3" length="5122989" type="audio/mpeg"/>
+    </item>
     <item>
       <title>Vision ultra-rapide, EVE Online et le mystère TRON</title>
       <link>https://scadagoal.github.io/culture-g/</link>

@@ -1,5 +1,15 @@
 [
   {
+    "slug": "2026-08-23",
+    "title": "Simuler 8 milliards d'humains et sauver sa mémoire",
+    "teaser": "Des chercheurs simulent la population mondiale grâce à des milliards d'agents IA, pendant que le protocole MCP affine sa feuille de route technique. En neurosciences, l'hibernation des souris et la pratique de plusieurs langues bousculent nos certitudes sur la mémoire et l'âge cérébral.",
+    "notes": "Sources de cet episode :\n\n- Simulation d'agents à grande échelle : quand l'IA modélise les comportements humains\n    Vision IA : https://www.youtube.com/watch?v=kaw65Z2LuH8\n- Standardiser les agents IA : la nouvelle feuille de route du Model Context Protocol (MCP)\n    Hacker News : https://blog.modelcontextprotocol.io/posts/mcp-roadmap/\n- Neurosciences : les souris en hibernation perdent la moitié de leurs synapses, mais gardent leurs souvenirs\n    Ars Technica : https://arstechnica.com/science/2026/08/memories-stick-around-even-after-half-the-synapses-are-gone/\n- Sciences cognitives : le plurilinguisme rajeunirait le cerveau de 13 ans\n    ScienceDaily : https://www.sciencedaily.com/releases/2026/08/260821012226.htm\n\nGenere automatiquement par Culture G.",
+    "audio": "2026-08-23.mp3",
+    "bytes": 5122989,
+    "duration": 640.32,
+    "published": "2026-08-23T04:12:55.238555+00:00"
+  },
+  {
     "slug": "2026-08-22",
     "title": "Vision ultra-rapide, EVE Online et le mystère TRON",
     "teaser": "DeepSeek bouscule les coûts de la vision par ordinateur pendant que DeepMind installe ses modèles dans l'univers d'EVE Online. Nous explorons aussi une percée en combinatoire vieille de trente ans et la revanche secrète du système d'exploitation japonais TRON.",
