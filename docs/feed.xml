@@ -8,7 +8,7 @@
     <atom:link href="https://scadagoal.github.io/culture-g/feed.xml" rel="self" type="application/rss+xml"/>
     <language>fr-FR</language>
     <description>Un condense quotidien de l'actualite de l'intelligence artificielle, de la tech et de la science, monte en dialogue et genere automatiquement. L'IA en fil rouge, mais on ouvre large : histoire, sciences dures, societe.</description>
-    <lastBuildDate>Sun, 23 Aug 2026 04:17:17 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 04:21:28 +0000</lastBuildDate>
     <generator>Culture G</generator>
     <itunes:author>Culture G</itunes:author>
     <itunes:subtitle>Votre veille IA, tech et science, chaque matin</itunes:subtitle>
@@ -20,6 +20,45 @@
     <itunes:owner>
       <itunes:name>Culture G</itunes:name>
     </itunes:owner>
+    <item>
+      <title>Humanoïdes chinois, standard MCP et crash métrique</title>
+      <link>https://scadagoal.github.io/culture-g/</link>
+      <guid isPermaLink="false">culture-g-2026-08-24</guid>
+      <pubDate>Mon, 24 Aug 2026 04:17:01 +0000</pubDate>
+      <description>Pendant que les milliards pleuvent sur la robotique humanoïde, la Chine prend une avance industrielle décisive sur le matériel. Décryptage également du protocole MCP pour l'IA et d'une bourde spatiale historique à 125 millions de dollars.
+
+Sources de cet episode :
+
+- Course aux humanoïdes : l'envolée des investissements et le rouleau compresseur chinois
+    Grand Angle Nova : https://www.youtube.com/watch?v=6iY2wt-TGow
+- Model Context Protocol : la prise USB-C qui connecte les IA au monde réel
+    Numerama : https://www.numerama.com/tech/2315891-il-est-le-port-usb-c-de-lintelligence-artificielle-on-vous-explique-le-mcp.html
+- Génétique : l'IA décode l'interrupteur caché dans 60 % de notre ADN
+    ScienceDaily : https://www.sciencedaily.com/releases/2026/08/260823014943.htm
+- Espace : le jour où la NASA a perdu une sonde martienne à cause du système métrique
+    Numerama : https://www.numerama.com/sciences/2311639-le-jour-ou-une-mission-martienne-sest-ecrasee-a-cause-du-systeme-metrique.html
+
+Genere automatiquement par Culture G.</description>
+      <itunes:summary>Pendant que les milliards pleuvent sur la robotique humanoïde, la Chine prend une avance industrielle décisive sur le matériel. Décryptage également du protocole MCP pour l'IA et d'une bourde spatiale historique à 125 millions de dollars.
+
+Sources de cet episode :
+
+- Course aux humanoïdes : l'envolée des investissements et le rouleau compresseur chinois
+    Grand Angle Nova : https://www.youtube.com/watch?v=6iY2wt-TGow
+- Model Context Protocol : la prise USB-C qui connecte les IA au monde réel
+    Numerama : https://www.numerama.com/tech/2315891-il-est-le-port-usb-c-de-lintelligence-artificielle-on-vous-explique-le-mcp.html
+- Génétique : l'IA décode l'interrupteur caché dans 60 % de notre ADN
+    ScienceDaily : https://www.sciencedaily.com/releases/2026/08/260823014943.htm
+- Espace : le jour où la NASA a perdu une sonde martienne à cause du système métrique
+    Numerama : https://www.numerama.com/sciences/2311639-le-jour-ou-une-mission-martienne-sest-ecrasee-a-cause-du-systeme-metrique.html
+
+Genere automatiquement par Culture G.</itunes:summary>
+      <itunes:subtitle>Pendant que les milliards pleuvent sur la robotique humanoïde, la Chine prend une avance industrielle décisive sur le matériel. Décryptage également du protocole MCP pour l'IA et d'une bourde spatiale historique à 125 millions de dollars.</itunes:subtitle>
+      <itunes:duration>00:10:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://scadagoal.github.io/culture-g/episodes/2026-08-24.mp3" length="5226477" type="audio/mpeg"/>
+    </item>
     <item>
       <title>Simuler 8 milliards d'humains et sauver sa mémoire</title>
       <link>https://scadagoal.github.io/culture-g/</link>

@@ -1,5 +1,15 @@
 [
   {
+    "slug": "2026-08-24",
+    "title": "Humanoïdes chinois, standard MCP et crash métrique",
+    "teaser": "Pendant que les milliards pleuvent sur la robotique humanoïde, la Chine prend une avance industrielle décisive sur le matériel. Décryptage également du protocole MCP pour l'IA et d'une bourde spatiale historique à 125 millions de dollars.",
+    "notes": "Sources de cet episode :\n\n- Course aux humanoïdes : l'envolée des investissements et le rouleau compresseur chinois\n    Grand Angle Nova : https://www.youtube.com/watch?v=6iY2wt-TGow\n- Model Context Protocol : la prise USB-C qui connecte les IA au monde réel\n    Numerama : https://www.numerama.com/tech/2315891-il-est-le-port-usb-c-de-lintelligence-artificielle-on-vous-explique-le-mcp.html\n- Génétique : l'IA décode l'interrupteur caché dans 60 % de notre ADN\n    ScienceDaily : https://www.sciencedaily.com/releases/2026/08/260823014943.htm\n- Espace : le jour où la NASA a perdu une sonde martienne à cause du système métrique\n    Numerama : https://www.numerama.com/sciences/2311639-le-jour-ou-une-mission-martienne-sest-ecrasee-a-cause-du-systeme-metrique.html\n\nGenere automatiquement par Culture G.",
+    "audio": "2026-08-24.mp3",
+    "bytes": 5226477,
+    "duration": 653.24,
+    "published": "2026-08-24T04:17:01.816876+00:00"
+  },
+  {
     "slug": "2026-08-23",
     "title": "Simuler 8 milliards d'humains et sauver sa mémoire",
     "teaser": "Des chercheurs simulent la population mondiale grâce à des milliards d'agents IA, pendant que le protocole MCP affine sa feuille de route technique. En neurosciences, l'hibernation des souris et la pratique de plusieurs langues bousculent nos certitudes sur la mémoire et l'âge cérébral.",
