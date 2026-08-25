@@ -8,7 +8,7 @@
     <atom:link href="https://scadagoal.github.io/culture-g/feed.xml" rel="self" type="application/rss+xml"/>
     <language>fr-FR</language>
     <description>Un condense quotidien de l'actualite de l'intelligence artificielle, de la tech et de la science, monte en dialogue et genere automatiquement. L'IA en fil rouge, mais on ouvre large : histoire, sciences dures, societe.</description>
-    <lastBuildDate>Mon, 24 Aug 2026 04:21:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 04:20:35 +0000</lastBuildDate>
     <generator>Culture G</generator>
     <itunes:author>Culture G</itunes:author>
     <itunes:subtitle>Votre veille IA, tech et science, chaque matin</itunes:subtitle>
@@ -20,6 +20,57 @@
     <itunes:owner>
       <itunes:name>Culture G</itunes:name>
     </itunes:owner>
+    <item>
+      <title>Bots en société et GPT-5.6 : quand l'IA prend la main</title>
+      <link>https://scadagoal.github.io/culture-g/</link>
+      <guid isPermaLink="false">culture-g-2026-08-25</guid>
+      <pubDate>Tue, 25 Aug 2026 04:15:50 +0000</pubDate>
+      <description>Que fait un agent IA autonome quand on lui laisse carte blanche sur un serveur ? De la création d'un réseau social pour machines au lancement de la gamme GPT-5.6, retour sur les tournants techniques du jour.
+
+Sources de cet episode :
+
+- Agents autonomes : quand Claude crée son propre réseau social et pirate des appareils
+    Numerama : https://www.numerama.com/tech/2316885-il-donne-un-nom-de-domaine-a-claude-en-lui-disant-de-faire-ce-quil-veut-voici-le-resultat.html
+    Numerama : https://www.numerama.com/cyberguerre/2316933-ca-minquiete-pour-plusieurs-raisons-il-laisse-claude-demonter-le-logiciel-interne-de-ses-appareils-et-affiche-un-bilan-effroyable.html
+- OpenAI déploie GPT-5.6 et casse ses prix pour les développeurs
+    OpenAI : https://openai.com/index/gpt-5-6-in-kiro
+    Hacker News : https://developers.openai.com/api/docs/pricing
+- Sciences : pourquoi un enfant apprend sa langue 100 000 fois plus efficacement qu'un LLM
+    MIT Tech Review : https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/
+    MIT Tech Review : https://www.technologyreview.com/2026/08/24/1142863/the-download-kids-outlearning-ai-space-travel-agents/
+- Confidentialité : marquage invisible dans MS Paint et collecte automatique sur Twitch
+    Hacker News : https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/
+    Next.ink : https://next.ink/252963/twitch-accuse-davoir-donne-les-contenus-de-ses-createurs-a-amazon-et-ses-modeles-ia/
+- Physique quantique : la forme d'une molécule imager pour la première fois
+    ScienceDaily : https://www.sciencedaily.com/releases/2026/08/260822015213.htm
+
+Genere automatiquement par Culture G.</description>
+      <itunes:summary>Que fait un agent IA autonome quand on lui laisse carte blanche sur un serveur ? De la création d'un réseau social pour machines au lancement de la gamme GPT-5.6, retour sur les tournants techniques du jour.
+
+Sources de cet episode :
+
+- Agents autonomes : quand Claude crée son propre réseau social et pirate des appareils
+    Numerama : https://www.numerama.com/tech/2316885-il-donne-un-nom-de-domaine-a-claude-en-lui-disant-de-faire-ce-quil-veut-voici-le-resultat.html
+    Numerama : https://www.numerama.com/cyberguerre/2316933-ca-minquiete-pour-plusieurs-raisons-il-laisse-claude-demonter-le-logiciel-interne-de-ses-appareils-et-affiche-un-bilan-effroyable.html
+- OpenAI déploie GPT-5.6 et casse ses prix pour les développeurs
+    OpenAI : https://openai.com/index/gpt-5-6-in-kiro
+    Hacker News : https://developers.openai.com/api/docs/pricing
+- Sciences : pourquoi un enfant apprend sa langue 100 000 fois plus efficacement qu'un LLM
+    MIT Tech Review : https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/
+    MIT Tech Review : https://www.technologyreview.com/2026/08/24/1142863/the-download-kids-outlearning-ai-space-travel-agents/
+- Confidentialité : marquage invisible dans MS Paint et collecte automatique sur Twitch
+    Hacker News : https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/
+    Next.ink : https://next.ink/252963/twitch-accuse-davoir-donne-les-contenus-de-ses-createurs-a-amazon-et-ses-modeles-ia/
+- Physique quantique : la forme d'une molécule imager pour la première fois
+    ScienceDaily : https://www.sciencedaily.com/releases/2026/08/260822015213.htm
+
+Genere automatiquement par Culture G.</itunes:summary>
+      <itunes:subtitle>Que fait un agent IA autonome quand on lui laisse carte blanche sur un serveur ? De la création d'un réseau social pour machines au lancement de la gamme GPT-5.6, retour sur les tournants techniques du jour.</itunes:subtitle>
+      <itunes:duration>00:11:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://scadagoal.github.io/culture-g/episodes/2026-08-25.mp3" length="5433837" type="audio/mpeg"/>
+    </item>
     <item>
       <title>Humanoïdes chinois, standard MCP et crash métrique</title>
       <link>https://scadagoal.github.io/culture-g/</link>
