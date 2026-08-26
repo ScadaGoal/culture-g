@@ -1,5 +1,15 @@
 [
   {
+    "slug": "2026-08-26",
+    "title": "OpenAI et Apple : la guerre des puces d'inférence",
+    "teaser": "OpenAI dévoile Jalapeño, son tout premier processeur maison pour briser l'hégémonie de Nvidia sur l'inférence. De son côté, Apple dégaine sa puce M6 et un Mac Studio surarmé pour faire tourner les modèles directement sur votre bureau.",
+    "notes": "Sources de cet episode :\n\n- OpenAI dévoile « Jalapeño », sa première puce dédiée à l'inférence IA\n    OpenAI : https://openai.com/index/the-full-stack-behind-abundant-intelligence\n    OpenAI : https://openai.com/index/jalapeno-first-results\n    Hacker News : https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia\n- Apple dégaine la puce M6 et de nouveaux Mac optimisés pour l'IA en local\n    Next.ink : https://next.ink/253101/apple-muscle-les-mac-mini-et-mac-studio-avec-les-puces-m6-et-m5-ultra-taillees-pour-lia/\n    Hacker News : https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/\n    Hacker News : https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/\n    Hacker News : https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/\n    Ars Technica : https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/\n    Numerama : https://www.numerama.com/tech/2317375-surprise-apple-devoile-la-puce-m6-pensee-pour-lia-locale-avec-de-nouveaux-mac-mini-et-mac-studio.html\n- Alibaba prépare le lancement du modèle open weight Qwen 3.8-Flash-Next\n    Hacker News : https://modelscope.cn/models/Qwen/Qwen3.8-Flash-Next\n- Draco : le satellite de l'ESA qui va filmer sa propre désintégration\n    Numerama : https://www.numerama.com/sciences/2317953-draco-ce-satellite-suicidaire-va-filmer-sa-propre-destruction-de-linterieur-pour-la-bonne-cause.html\n- Santé : Un lien inattendu entre vaccin contre le zona et baisse des démences\n    ScienceDaily : https://www.sciencedaily.com/releases/2026/08/260823015013.htm\n\nGenere automatiquement par Culture G.",
+    "audio": "2026-08-26.mp3",
+    "bytes": 5175789,
+    "duration": 646.92,
+    "published": "2026-08-26T04:14:21.365426+00:00"
+  },
+  {
     "slug": "2026-08-25",
     "title": "Bots en société et GPT-5.6 : quand l'IA prend la main",
     "teaser": "Que fait un agent IA autonome quand on lui laisse carte blanche sur un serveur ? De la création d'un réseau social pour machines au lancement de la gamme GPT-5.6, retour sur les tournants techniques du jour.",
