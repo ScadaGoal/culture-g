@@ -1,5 +1,15 @@
 [
   {
+    "slug": "2026-08-28",
+    "title": "NVIDIA s'offre Hugging Face et Google accélère sur Gemini",
+    "teaser": "Dans cet épisode, nous décryptons le rachat historique de Hugging Face par NVIDIA et les nouveaux modèles spécialisés de Google. Nous analysons aussi les failles créées par les agents d'IA, la santé des sols mesurée par des slips en Suisse et un collyre capable de restaurer la vue.",
+    "notes": "Sources de cet episode :\n\n- NVIDIA en passe de racheter Hugging Face pour 12,9 milliards de dollars\n    Next.ink : https://next.ink/253379/nvidia-en-passe-de-racheter-hugging-face-pour-129-milliards-de-dollars/\n    Ars Technica : https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/\n- Google muscle sa suite avec Gemini Omni 1.1 Flash et 3.5 Transcribe\n    Google DeepMind : https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/\n    Hacker News : https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/\n    Hacker News : https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/\n- Quand les agents d'IA créent des failles de sécurité en inventant du code\n    Ars Technica : https://arstechnica.com/security/2026/08/claude-codex-and-hermes-installed-unowned-code-inside-corporate-networks/\n- Pourquoi 1 000 volontaires ont enterré leurs slips en coton en Suisse\n    Ars Technica : https://arstechnica.com/science/2026/08/why-did-1000-swiss-citizens-bury-their-underpants/\n    ScienceDaily : https://www.sciencedaily.com/releases/2026/08/260827010501.htm\n- Des gouttes oculaires expérimentales redonnent la vue à des souris aveugles\n    ScienceDaily : https://www.sciencedaily.com/releases/2026/08/260828005224.htm\n\nGenere automatiquement par Culture G.",
+    "audio": "2026-08-28.mp3",
+    "bytes": 6916269,
+    "duration": 864.48,
+    "published": "2026-08-28T15:39:17.220102+00:00"
+  },
+  {
     "slug": "2026-08-26",
     "title": "OpenAI et Apple : la guerre des puces d'inférence",
     "teaser": "OpenAI dévoile Jalapeño, son tout premier processeur maison pour briser l'hégémonie de Nvidia sur l'inférence. De son côté, Apple dégaine sa puce M6 et un Mac Studio surarmé pour faire tourner les modèles directement sur votre bureau.",
