@@ -1,5 +1,15 @@
 [
   {
+    "slug": "2026-08-29",
+    "title": "GLM-5.3 open-weight, le Pentagone débouté et serveurs vivants",
+    "teaser": "Du modèle open-weight GLM-5.3 au revers judiciaire du Pentagone face à Anthropic, cet épisode décrypte les avancées et batailles majeures de l'IA. Découvrez également le premier serveur à neurones humains testé à Singapour et les tensions autour du rachat de Cursor par SpaceX.",
+    "notes": "Sources de cet episode :\n\n- Le modèle GLM-5.3 passe en open-weight\n    Hacker News : https://huggingface.co/zai-org/GLM-5.3\n- Bataille éthique et judiciaire : la justice annule le bannissement d'Anthropic par le gouvernement américain\n    Ars Technica : https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge/\n    Hacker News : https://www.reuters.com/legal/government/us-judge-blocks-pentagons-anthropic-blacklisting-2026-08-28/\n- Singapour teste un serveur hybride alimenté par 16 millions de neurones humains\n    Numerama : https://www.numerama.com/tech/2320745-a-singapour-un-rack-de-serveurs-fonctionne-avec-16-millions-de-neurones-humains-cultives-en-labo.html\n- Le rachat de Cursor par SpaceX et le repositionnement d'OpenAI\n    Hacker News : https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/\n- Australie : de l'hydrogène naturel généré au cœur des roches riches en fer\n    ScienceDaily : https://www.sciencedaily.com/releases/2026/08/260829035214.htm\n\nGenere automatiquement par Culture G.",
+    "audio": "2026-08-29.mp3",
+    "bytes": 5581677,
+    "duration": 697.64,
+    "published": "2026-08-29T10:24:22.520604+00:00"
+  },
+  {
     "slug": "2026-08-28",
     "title": "NVIDIA s'offre Hugging Face et Google accélère sur Gemini",
     "teaser": "Dans cet épisode, nous décryptons le rachat historique de Hugging Face par NVIDIA et les nouveaux modèles spécialisés de Google. Nous analysons aussi les failles créées par les agents d'IA, la santé des sols mesurée par des slips en Suisse et un collyre capable de restaurer la vue.",

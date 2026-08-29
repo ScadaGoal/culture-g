@@ -8,7 +8,7 @@
     <atom:link href="https://scadagoal.github.io/culture-g/feed.xml" rel="self" type="application/rss+xml"/>
     <language>fr-FR</language>
     <description>Un condense quotidien de l'actualite de l'intelligence artificielle, de la tech et de la science, monte en dialogue et genere automatiquement. L'IA en fil rouge, mais on ouvre large : histoire, sciences dures, societe.</description>
-    <lastBuildDate>Fri, 28 Aug 2026 15:45:18 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 10:29:11 +0000</lastBuildDate>
     <generator>Culture G</generator>
     <itunes:author>Culture G</itunes:author>
     <itunes:subtitle>Votre veille IA, tech et science, chaque matin</itunes:subtitle>
@@ -20,6 +20,51 @@
     <itunes:owner>
       <itunes:name>Culture G</itunes:name>
     </itunes:owner>
+    <item>
+      <title>GLM-5.3 open-weight, le Pentagone débouté et serveurs vivants</title>
+      <link>https://scadagoal.github.io/culture-g/</link>
+      <guid isPermaLink="false">culture-g-2026-08-29</guid>
+      <pubDate>Sat, 29 Aug 2026 10:24:22 +0000</pubDate>
+      <description>Du modèle open-weight GLM-5.3 au revers judiciaire du Pentagone face à Anthropic, cet épisode décrypte les avancées et batailles majeures de l'IA. Découvrez également le premier serveur à neurones humains testé à Singapour et les tensions autour du rachat de Cursor par SpaceX.
+
+Sources de cet episode :
+
+- Le modèle GLM-5.3 passe en open-weight
+    Hacker News : https://huggingface.co/zai-org/GLM-5.3
+- Bataille éthique et judiciaire : la justice annule le bannissement d'Anthropic par le gouvernement américain
+    Ars Technica : https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge/
+    Hacker News : https://www.reuters.com/legal/government/us-judge-blocks-pentagons-anthropic-blacklisting-2026-08-28/
+- Singapour teste un serveur hybride alimenté par 16 millions de neurones humains
+    Numerama : https://www.numerama.com/tech/2320745-a-singapour-un-rack-de-serveurs-fonctionne-avec-16-millions-de-neurones-humains-cultives-en-labo.html
+- Le rachat de Cursor par SpaceX et le repositionnement d'OpenAI
+    Hacker News : https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/
+- Australie : de l'hydrogène naturel généré au cœur des roches riches en fer
+    ScienceDaily : https://www.sciencedaily.com/releases/2026/08/260829035214.htm
+
+Genere automatiquement par Culture G.</description>
+      <itunes:summary>Du modèle open-weight GLM-5.3 au revers judiciaire du Pentagone face à Anthropic, cet épisode décrypte les avancées et batailles majeures de l'IA. Découvrez également le premier serveur à neurones humains testé à Singapour et les tensions autour du rachat de Cursor par SpaceX.
+
+Sources de cet episode :
+
+- Le modèle GLM-5.3 passe en open-weight
+    Hacker News : https://huggingface.co/zai-org/GLM-5.3
+- Bataille éthique et judiciaire : la justice annule le bannissement d'Anthropic par le gouvernement américain
+    Ars Technica : https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge/
+    Hacker News : https://www.reuters.com/legal/government/us-judge-blocks-pentagons-anthropic-blacklisting-2026-08-28/
+- Singapour teste un serveur hybride alimenté par 16 millions de neurones humains
+    Numerama : https://www.numerama.com/tech/2320745-a-singapour-un-rack-de-serveurs-fonctionne-avec-16-millions-de-neurones-humains-cultives-en-labo.html
+- Le rachat de Cursor par SpaceX et le repositionnement d'OpenAI
+    Hacker News : https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/
+- Australie : de l'hydrogène naturel généré au cœur des roches riches en fer
+    ScienceDaily : https://www.sciencedaily.com/releases/2026/08/260829035214.htm
+
+Genere automatiquement par Culture G.</itunes:summary>
+      <itunes:subtitle>Du modèle open-weight GLM-5.3 au revers judiciaire du Pentagone face à Anthropic, cet épisode décrypte les avancées et batailles majeures de l'IA. Découvrez également le premier serveur à neurones humains testé à Singapour et les tensions autour du rachat</itunes:subtitle>
+      <itunes:duration>00:11:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://scadagoal.github.io/culture-g/episodes/2026-08-29.mp3" length="5581677" type="audio/mpeg"/>
+    </item>
     <item>
       <title>NVIDIA s'offre Hugging Face et Google accélère sur Gemini</title>
       <link>https://scadagoal.github.io/culture-g/</link>
