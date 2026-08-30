@@ -1,5 +1,15 @@
 [
   {
+    "slug": "2026-08-30",
+    "title": "Puces IA : l'anomalie H100, Tencent Hy4 et le miroir Roman",
+    "teaser": "Alors que Nvidia lance ses nouvelles architectures, la location du GPU H100 bondit de 40 % en raison de goulots d'étranglement énergétiques. Tencent dévoile son modèle Hy4 tandis que la NASA s'apprête à cartographier l'énergie noire.",
+    "notes": "Sources de cet episode :\n\n- Puces IA : l'étrange hausse des prix du GPU H100 malgré l'arrivée des nouvelles générations\n    Grand Angle Nova : https://www.youtube.com/watch?v=zAtdy-ytV_8\n- Modèles et gouvernance : Tencent dévoile Hy4 et Debian réglemente l'IA générative\n    Hacker News : https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/\n    Hacker News : https://lwn.net/Articles/1091231/\n- Télescope spatial Roman : la NASA s'attaque à l'énergie noire avec une vue cent fois supérieure à Hubble\n    Numerama : https://www.numerama.com/sciences/2316881-100-fois-le-champ-de-vision-de-hubble-suivez-en-direct-le-depart-du-telescope-spatial-roman.html\n    ScienceDaily : https://www.sciencedaily.com/releases/2026/08/260828082325.htm\n- Histoire des sciences : des millions de clichés de physique subatomique menacés de disparition\n    Numerama : https://www.numerama.com/sciences/2319995-ces-millions-de-cliches-de-particules-subatomiques-patrimoine-invisible-de-la-physique-sont-menaces-de-disparition.html\n- Cybersécurité : quand Claude autonome démonte des appareils et qu'une centrale subit une cyberattaque\n    Numerama : https://www.numerama.com/cyberguerre/2321065-claude-demonte-cinq-appareils-des-hackers-iraniens-coupent-une-centrale-electrique-et-votre-autoradio-rejoint-un-botnet-on-vous-raconte-la-semaine-cyberguerre.html\n\nGenere automatiquement par Culture G.",
+    "audio": "2026-08-30.mp3",
+    "bytes": 6297837,
+    "duration": 787.16,
+    "published": "2026-08-30T09:28:39.785801+00:00"
+  },
+  {
     "slug": "2026-08-29",
     "title": "GLM-5.3 open-weight, le Pentagone débouté et serveurs vivants",
     "teaser": "Du modèle open-weight GLM-5.3 au revers judiciaire du Pentagone face à Anthropic, cet épisode décrypte les avancées et batailles majeures de l'IA. Découvrez également le premier serveur à neurones humains testé à Singapour et les tensions autour du rachat de Cursor par SpaceX.",
