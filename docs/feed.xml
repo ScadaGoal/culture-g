@@ -8,7 +8,7 @@
     <atom:link href="https://scadagoal.github.io/culture-g/feed.xml" rel="self" type="application/rss+xml"/>
     <language>fr-FR</language>
     <description>Un condense quotidien de l'actualite de l'intelligence artificielle, de la tech et de la science, monte en dialogue et genere automatiquement. L'IA en fil rouge, mais on ouvre large : histoire, sciences dures, societe.</description>
-    <lastBuildDate>Sun, 30 Aug 2026 09:34:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 10:20:23 +0000</lastBuildDate>
     <generator>Culture G</generator>
     <itunes:author>Culture G</itunes:author>
     <itunes:subtitle>Votre veille IA, tech et science, chaque matin</itunes:subtitle>
@@ -20,6 +20,53 @@
     <itunes:owner>
       <itunes:name>Culture G</itunes:name>
     </itunes:owner>
+    <item>
+      <title>Quand la Corée rend l'IA gratuite et les guerrières d'Égypte</title>
+      <link>https://scadagoal.github.io/culture-g/</link>
+      <guid isPermaLink="false">culture-g-2026-08-31</guid>
+      <pubDate>Mon, 31 Aug 2026 10:16:04 +0000</pubDate>
+      <description>La Corée du Sud décrète l'accès gratuit et illimité à l'IA générative pour tous ses citoyens. Pendant ce temps, des robots d'IA saturent les serveurs du noyau Linux et la science redécouvre des princesses guerrières en Égypte antique.
+
+Sources de cet episode :
+
+- La Corée du Sud décrète l'accès gratuit et illimité à l'IA pour tous ses citoyens
+    Next.ink : https://next.ink/253678/en-coree-du-sud-lia-generative-bientot-erigee-en-service-public/
+- Comment les aspirateurs d'IA mettent à genoux les serveurs du noyau Linux
+    Numerama : https://www.numerama.com/cyberguerre/2321555-la-situation-a-vraiment-degenere-un-ingenieur-de-linux-raconte-comment-les-bestioles-de-lia-epuisent-les-serveurs-du-noyau.html
+- Fin de règne chez Apple : le dernier jour de Tim Cook après 15 ans à la tête du géant
+    Numerama : https://www.numerama.com/tech/2321541-cest-le-dernier-jour-de-tim-cook-a-la-tete-dapple-quel-est-son-vrai-bilan.html
+    Next.ink : https://next.ink/brief-article/flock-apple-le-changement-revolutionnaire/
+- Le télescope spatial Nancy Grace Roman s'envole à bord de Falcon Heavy
+    Numerama : https://www.numerama.com/sciences/2321543-falcon-heavy-de-retour-les-plus-belles-photos-du-lancement-du-telescope-nancy-grace-roman.html
+    Numerama : https://www.numerama.com/sciences/2316881-le-falcon-heavy-de-spacex-fait-vrombir-ses-moteurs-suivez-en-direct-le-depart-du-telescope-spatial-roman.html
+- Archéologie : les princesses de l'Égypte antique maniant l'arc et l'épée
+    ScienceDaily : https://www.sciencedaily.com/releases/2026/08/260828082348.htm
+
+Genere automatiquement par Culture G.</description>
+      <itunes:summary>La Corée du Sud décrète l'accès gratuit et illimité à l'IA générative pour tous ses citoyens. Pendant ce temps, des robots d'IA saturent les serveurs du noyau Linux et la science redécouvre des princesses guerrières en Égypte antique.
+
+Sources de cet episode :
+
+- La Corée du Sud décrète l'accès gratuit et illimité à l'IA pour tous ses citoyens
+    Next.ink : https://next.ink/253678/en-coree-du-sud-lia-generative-bientot-erigee-en-service-public/
+- Comment les aspirateurs d'IA mettent à genoux les serveurs du noyau Linux
+    Numerama : https://www.numerama.com/cyberguerre/2321555-la-situation-a-vraiment-degenere-un-ingenieur-de-linux-raconte-comment-les-bestioles-de-lia-epuisent-les-serveurs-du-noyau.html
+- Fin de règne chez Apple : le dernier jour de Tim Cook après 15 ans à la tête du géant
+    Numerama : https://www.numerama.com/tech/2321541-cest-le-dernier-jour-de-tim-cook-a-la-tete-dapple-quel-est-son-vrai-bilan.html
+    Next.ink : https://next.ink/brief-article/flock-apple-le-changement-revolutionnaire/
+- Le télescope spatial Nancy Grace Roman s'envole à bord de Falcon Heavy
+    Numerama : https://www.numerama.com/sciences/2321543-falcon-heavy-de-retour-les-plus-belles-photos-du-lancement-du-telescope-nancy-grace-roman.html
+    Numerama : https://www.numerama.com/sciences/2316881-le-falcon-heavy-de-spacex-fait-vrombir-ses-moteurs-suivez-en-direct-le-depart-du-telescope-spatial-roman.html
+- Archéologie : les princesses de l'Égypte antique maniant l'arc et l'épée
+    ScienceDaily : https://www.sciencedaily.com/releases/2026/08/260828082348.htm
+
+Genere automatiquement par Culture G.</itunes:summary>
+      <itunes:subtitle>La Corée du Sud décrète l'accès gratuit et illimité à l'IA générative pour tous ses citoyens. Pendant ce temps, des robots d'IA saturent les serveurs du noyau Linux et la science redécouvre des princesses guerrières en Égypte antique.</itunes:subtitle>
+      <itunes:duration>00:09:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://scadagoal.github.io/culture-g/episodes/2026-08-31.mp3" length="4525869" type="audio/mpeg"/>
+    </item>
     <item>
       <title>Puces IA : l'anomalie H100, Tencent Hy4 et le miroir Roman</title>
       <link>https://scadagoal.github.io/culture-g/</link>

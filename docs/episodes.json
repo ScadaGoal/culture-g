@@ -1,5 +1,15 @@
 [
   {
+    "slug": "2026-08-31",
+    "title": "Quand la Corée rend l'IA gratuite et les guerrières d'Égypte",
+    "teaser": "La Corée du Sud décrète l'accès gratuit et illimité à l'IA générative pour tous ses citoyens. Pendant ce temps, des robots d'IA saturent les serveurs du noyau Linux et la science redécouvre des princesses guerrières en Égypte antique.",
+    "notes": "Sources de cet episode :\n\n- La Corée du Sud décrète l'accès gratuit et illimité à l'IA pour tous ses citoyens\n    Next.ink : https://next.ink/253678/en-coree-du-sud-lia-generative-bientot-erigee-en-service-public/\n- Comment les aspirateurs d'IA mettent à genoux les serveurs du noyau Linux\n    Numerama : https://www.numerama.com/cyberguerre/2321555-la-situation-a-vraiment-degenere-un-ingenieur-de-linux-raconte-comment-les-bestioles-de-lia-epuisent-les-serveurs-du-noyau.html\n- Fin de règne chez Apple : le dernier jour de Tim Cook après 15 ans à la tête du géant\n    Numerama : https://www.numerama.com/tech/2321541-cest-le-dernier-jour-de-tim-cook-a-la-tete-dapple-quel-est-son-vrai-bilan.html\n    Next.ink : https://next.ink/brief-article/flock-apple-le-changement-revolutionnaire/\n- Le télescope spatial Nancy Grace Roman s'envole à bord de Falcon Heavy\n    Numerama : https://www.numerama.com/sciences/2321543-falcon-heavy-de-retour-les-plus-belles-photos-du-lancement-du-telescope-nancy-grace-roman.html\n    Numerama : https://www.numerama.com/sciences/2316881-le-falcon-heavy-de-spacex-fait-vrombir-ses-moteurs-suivez-en-direct-le-depart-du-telescope-spatial-roman.html\n- Archéologie : les princesses de l'Égypte antique maniant l'arc et l'épée\n    ScienceDaily : https://www.sciencedaily.com/releases/2026/08/260828082348.htm\n\nGenere automatiquement par Culture G.",
+    "audio": "2026-08-31.mp3",
+    "bytes": 4525869,
+    "duration": 565.68,
+    "published": "2026-08-31T10:16:04.639538+00:00"
+  },
+  {
     "slug": "2026-08-30",
     "title": "Puces IA : l'anomalie H100, Tencent Hy4 et le miroir Roman",
     "teaser": "Alors que Nvidia lance ses nouvelles architectures, la location du GPU H100 bondit de 40 % en raison de goulots d'étranglement énergétiques. Tencent dévoile son modèle Hy4 tandis que la NASA s'apprête à cartographier l'énergie noire.",
