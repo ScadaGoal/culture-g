@@ -8,7 +8,7 @@
     <atom:link href="https://scadagoal.github.io/culture-g/feed.xml" rel="self" type="application/rss+xml"/>
     <language>fr-FR</language>
     <description>Un condense quotidien de l'actualite de l'intelligence artificielle, de la tech et de la science, monte en dialogue et genere automatiquement. L'IA en fil rouge, mais on ouvre large : histoire, sciences dures, societe.</description>
-    <lastBuildDate>Mon, 31 Aug 2026 10:20:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 09:06:47 +0000</lastBuildDate>
     <generator>Culture G</generator>
     <itunes:author>Culture G</itunes:author>
     <itunes:subtitle>Votre veille IA, tech et science, chaque matin</itunes:subtitle>
@@ -20,6 +20,53 @@
     <itunes:owner>
       <itunes:name>Culture G</itunes:name>
     </itunes:owner>
+    <item>
+      <title>ChatGPT sous le DSA, le télescope Roman et l'IA en local</title>
+      <link>https://scadagoal.github.io/culture-g/</link>
+      <guid isPermaLink="false">culture-g-2026-09-01</guid>
+      <pubDate>Tue, 01 Sep 2026 09:01:56 +0000</pubDate>
+      <description>Bruxelles place ChatGPT sous sa régulation la plus stricte tandis que la NASA lance son télescope géant pour cartographier l'énergie sombre. Pendant ce temps, l'IA locale crée une pénurie de Mac et les neurosciences enterrent le mythe du cerveau reptilien.
+
+Sources de cet episode :
+
+- ChatGPT entre dans le cercle très restreint du DSA européen
+    Numerama : https://www.numerama.com/tech/2322007-leurope-classe-chatgpt-parmi-ses-services-les-plus-surveilles-voici-les-changements-exiges-par-le-dsa.html
+    Ars Technica : https://arstechnica.com/tech-policy/2026/08/chatgtp-and-reddit-now-face-eus-toughest-online-safety-rules/
+    Next.ink : https://next.ink/brief-article/chatgpt-reddit-et-roblox-entrent-dans-le-club-tres-surveille-du-dsa/
+- Le télescope spatial Nancy-Grace-Roman prend son envol pour cartographier l'énergie sombre
+    Next.ink : https://next.ink/253705/lance-avec-succes-le-telescope-spatial-roman-va-etudier-exoplanetes-et-energie-sombre/
+    Ars Technica : https://arstechnica.com/space/2026/08/nasas-next-great-observatory-begins-mission-to-widen-our-view-of-the-universe/
+    ScienceDaily : https://www.sciencedaily.com/releases/2026/08/260831035213.htm
+- L'engouement pour l'IA en local crée une pénurie inattendue de Mac Mini et Mac Studio
+    Hacker News : https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/
+- Neurosciences : la fin officielle du mythe du « cerveau reptilien »
+    ScienceDaily : https://www.sciencedaily.com/releases/2026/08/260829235958.htm
+
+Genere automatiquement par Culture G.</description>
+      <itunes:summary>Bruxelles place ChatGPT sous sa régulation la plus stricte tandis que la NASA lance son télescope géant pour cartographier l'énergie sombre. Pendant ce temps, l'IA locale crée une pénurie de Mac et les neurosciences enterrent le mythe du cerveau reptilien.
+
+Sources de cet episode :
+
+- ChatGPT entre dans le cercle très restreint du DSA européen
+    Numerama : https://www.numerama.com/tech/2322007-leurope-classe-chatgpt-parmi-ses-services-les-plus-surveilles-voici-les-changements-exiges-par-le-dsa.html
+    Ars Technica : https://arstechnica.com/tech-policy/2026/08/chatgtp-and-reddit-now-face-eus-toughest-online-safety-rules/
+    Next.ink : https://next.ink/brief-article/chatgpt-reddit-et-roblox-entrent-dans-le-club-tres-surveille-du-dsa/
+- Le télescope spatial Nancy-Grace-Roman prend son envol pour cartographier l'énergie sombre
+    Next.ink : https://next.ink/253705/lance-avec-succes-le-telescope-spatial-roman-va-etudier-exoplanetes-et-energie-sombre/
+    Ars Technica : https://arstechnica.com/space/2026/08/nasas-next-great-observatory-begins-mission-to-widen-our-view-of-the-universe/
+    ScienceDaily : https://www.sciencedaily.com/releases/2026/08/260831035213.htm
+- L'engouement pour l'IA en local crée une pénurie inattendue de Mac Mini et Mac Studio
+    Hacker News : https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/
+- Neurosciences : la fin officielle du mythe du « cerveau reptilien »
+    ScienceDaily : https://www.sciencedaily.com/releases/2026/08/260829235958.htm
+
+Genere automatiquement par Culture G.</itunes:summary>
+      <itunes:subtitle>Bruxelles place ChatGPT sous sa régulation la plus stricte tandis que la NASA lance son télescope géant pour cartographier l'énergie sombre. Pendant ce temps, l'IA locale crée une pénurie de Mac et les neurosciences enterrent le mythe du cerveau reptilien</itunes:subtitle>
+      <itunes:duration>00:11:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://scadagoal.github.io/culture-g/episodes/2026-09-01.mp3" length="5367789" type="audio/mpeg"/>
+    </item>
     <item>
       <title>Quand la Corée rend l'IA gratuite et les guerrières d'Égypte</title>
       <link>https://scadagoal.github.io/culture-g/</link>
