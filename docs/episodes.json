@@ -1,5 +1,15 @@
 [
   {
+    "slug": "2026-09-03",
+    "title": "Gemini 3.8 Flash, le piège RAG et le frein de la lumière",
+    "teaser": "Google accélère encore avec Gemini 3.8 Flash et sa version cyberdéfense, tandis que Firefox déploie son IA en France. En physique, une étude révèle qu'à 75 % de la vitesse de la lumière, les voiles solaires sont freinées par leurs propres photons.",
+    "notes": "Sources de cet episode :\n\n- Google dégaine Gemini 3.8 Flash et sa déclinaison Cyber\n    Google DeepMind : https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/\n    Ars Technica : https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks/\n    Hacker News : https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/\n- Firefox déploie sa « Fenêtre intelligente » dopée à l'IA en France\n    Numerama : https://www.numerama.com/tech/2323727-firefox-lance-smart-window-en-france-sa-nouvelle-fenetre-de-navigation-dopee-a-lia.html\n    Next.ink : https://next.ink/254095/firefox-155-apporte-sa-fenetre-intelligente-en-france-la-version-ios-bloque-la-publicite/\n- Trois sites fabriquent 215 000 faux comparatifs pour berner Perplexity\n    Hacker News : https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/\n- BepiColombo se scinde en deux avant son arrivée délicate sur Mercure\n    Numerama : https://www.numerama.com/sciences/2323869-apres-8-ans-et-des-milliards-de-km-la-sonde-bepicolombo-se-separe-en-deux-en-vue-de-sa-delicate-arrivee-sur-mercure.html\n- Voyage interstellaire : quand la lumière devient un frein pour les voiles solaires\n    ScienceDaily : https://www.sciencedaily.com/releases/2026/08/260831015157.htm\n\nGenere automatiquement par Culture G.",
+    "audio": "2026-09-03.mp3",
+    "bytes": 6176109,
+    "duration": 771.96,
+    "published": "2026-09-03T08:36:40.698862+00:00"
+  },
+  {
     "slug": "2026-09-01",
     "title": "ChatGPT sous le DSA, le télescope Roman et l'IA en local",
     "teaser": "Bruxelles place ChatGPT sous sa régulation la plus stricte tandis que la NASA lance son télescope géant pour cartographier l'énergie sombre. Pendant ce temps, l'IA locale crée une pénurie de Mac et les neurosciences enterrent le mythe du cerveau reptilien.",
