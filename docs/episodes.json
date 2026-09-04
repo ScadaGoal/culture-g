@@ -1,5 +1,15 @@
 [
   {
+    "slug": "2026-09-04",
+    "title": "GPT-6 Astra, rachat record chez Nvidia et panne géante",
+    "teaser": "OpenAI dévoile GPT-6 Astra pendant que Nvidia s'offre Hugging Face pour treize milliards de dollars. Retour sur une journée folle marquée aussi par une panne générale des grands modèles et une étrange découverte sur Saturne.",
+    "notes": "Sources de cet episode :\n\n- OpenAI dévoile GPT-6 Astra : bond de capacités et facture salée\n    Hacker News : https://openai.com/index/gpt-6-astra/\n    Next.ink : https://next.ink/254620/gpt-6-astra-quand-openai-annonce-lagi-lapi-presente-la-facture/\n    Hacker News : https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html\n    Numerama : https://www.numerama.com/tech/2324799-openai-devoile-gpt-6-astra-le-nouveau-modele-flagship-de-chatgpt.html\n- Nvidia s'offre Hugging Face pour 13 milliards de dollars\n    Numerama : https://www.numerama.com/politique/2325049-nvidia-rachete-hugging-face-deux-easter-eggs-ont-ete-caches-dans-le-montant-a-13-milliards.html\n    Ars Technica : https://arstechnica.com/ai/2026/09/nvidia-buys-hugging-face-the-github-of-ai-for-13-billion/\n    Hacker News : https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html\n- Panne géante : quand ChatGPT, Claude, Gemini et Grok s'éteignent ensemble\n    Ars Technica : https://arstechnica.com/ai/2026/09/four-major-ai-models-suffer-rare-overlapping-downtime/\n    Hacker News : https://news.ycombinator.com/item?id=49551096\n- Astronomie : un gigantesque décagone découvert au pôle sud de Saturne\n    ScienceDaily : https://www.sciencedaily.com/releases/2026/09/260903064229.htm\n- Google riposte avec Gemini 3.8 Flash et sa déclinaison Cyber\n    Next.ink : https://next.ink/brief-article/google-lance-gemini-3-8-flash-et-sa-declinaison-cyber/\n\nGenere automatiquement par Culture G.",
+    "audio": "2026-09-04.mp3",
+    "bytes": 6328749,
+    "duration": 791.04,
+    "published": "2026-09-04T08:19:12.908797+00:00"
+  },
+  {
     "slug": "2026-09-03",
     "title": "Gemini 3.8 Flash, le piège RAG et le frein de la lumière",
     "teaser": "Google accélère encore avec Gemini 3.8 Flash et sa version cyberdéfense, tandis que Firefox déploie son IA en France. En physique, une étude révèle qu'à 75 % de la vitesse de la lumière, les voiles solaires sont freinées par leurs propres photons.",

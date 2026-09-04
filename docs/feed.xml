@@ -8,7 +8,7 @@
     <atom:link href="https://scadagoal.github.io/culture-g/feed.xml" rel="self" type="application/rss+xml"/>
     <language>fr-FR</language>
     <description>Un condense quotidien de l'actualite de l'intelligence artificielle, de la tech et de la science, monte en dialogue et genere automatiquement. L'IA en fil rouge, mais on ouvre large : histoire, sciences dures, societe.</description>
-    <lastBuildDate>Thu, 03 Sep 2026 08:47:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 08:24:51 +0000</lastBuildDate>
     <generator>Culture G</generator>
     <itunes:author>Culture G</itunes:author>
     <itunes:subtitle>Votre veille IA, tech et science, chaque matin</itunes:subtitle>
@@ -20,6 +20,61 @@
     <itunes:owner>
       <itunes:name>Culture G</itunes:name>
     </itunes:owner>
+    <item>
+      <title>GPT-6 Astra, rachat record chez Nvidia et panne géante</title>
+      <link>https://scadagoal.github.io/culture-g/</link>
+      <guid isPermaLink="false">culture-g-2026-09-04</guid>
+      <pubDate>Fri, 04 Sep 2026 08:19:12 +0000</pubDate>
+      <description>OpenAI dévoile GPT-6 Astra pendant que Nvidia s'offre Hugging Face pour treize milliards de dollars. Retour sur une journée folle marquée aussi par une panne générale des grands modèles et une étrange découverte sur Saturne.
+
+Sources de cet episode :
+
+- OpenAI dévoile GPT-6 Astra : bond de capacités et facture salée
+    Hacker News : https://openai.com/index/gpt-6-astra/
+    Next.ink : https://next.ink/254620/gpt-6-astra-quand-openai-annonce-lagi-lapi-presente-la-facture/
+    Hacker News : https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html
+    Numerama : https://www.numerama.com/tech/2324799-openai-devoile-gpt-6-astra-le-nouveau-modele-flagship-de-chatgpt.html
+- Nvidia s'offre Hugging Face pour 13 milliards de dollars
+    Numerama : https://www.numerama.com/politique/2325049-nvidia-rachete-hugging-face-deux-easter-eggs-ont-ete-caches-dans-le-montant-a-13-milliards.html
+    Ars Technica : https://arstechnica.com/ai/2026/09/nvidia-buys-hugging-face-the-github-of-ai-for-13-billion/
+    Hacker News : https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html
+- Panne géante : quand ChatGPT, Claude, Gemini et Grok s'éteignent ensemble
+    Ars Technica : https://arstechnica.com/ai/2026/09/four-major-ai-models-suffer-rare-overlapping-downtime/
+    Hacker News : https://news.ycombinator.com/item?id=49551096
+- Astronomie : un gigantesque décagone découvert au pôle sud de Saturne
+    ScienceDaily : https://www.sciencedaily.com/releases/2026/09/260903064229.htm
+- Google riposte avec Gemini 3.8 Flash et sa déclinaison Cyber
+    Next.ink : https://next.ink/brief-article/google-lance-gemini-3-8-flash-et-sa-declinaison-cyber/
+
+Genere automatiquement par Culture G.</description>
+      <itunes:summary>OpenAI dévoile GPT-6 Astra pendant que Nvidia s'offre Hugging Face pour treize milliards de dollars. Retour sur une journée folle marquée aussi par une panne générale des grands modèles et une étrange découverte sur Saturne.
+
+Sources de cet episode :
+
+- OpenAI dévoile GPT-6 Astra : bond de capacités et facture salée
+    Hacker News : https://openai.com/index/gpt-6-astra/
+    Next.ink : https://next.ink/254620/gpt-6-astra-quand-openai-annonce-lagi-lapi-presente-la-facture/
+    Hacker News : https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html
+    Numerama : https://www.numerama.com/tech/2324799-openai-devoile-gpt-6-astra-le-nouveau-modele-flagship-de-chatgpt.html
+- Nvidia s'offre Hugging Face pour 13 milliards de dollars
+    Numerama : https://www.numerama.com/politique/2325049-nvidia-rachete-hugging-face-deux-easter-eggs-ont-ete-caches-dans-le-montant-a-13-milliards.html
+    Ars Technica : https://arstechnica.com/ai/2026/09/nvidia-buys-hugging-face-the-github-of-ai-for-13-billion/
+    Hacker News : https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html
+- Panne géante : quand ChatGPT, Claude, Gemini et Grok s'éteignent ensemble
+    Ars Technica : https://arstechnica.com/ai/2026/09/four-major-ai-models-suffer-rare-overlapping-downtime/
+    Hacker News : https://news.ycombinator.com/item?id=49551096
+- Astronomie : un gigantesque décagone découvert au pôle sud de Saturne
+    ScienceDaily : https://www.sciencedaily.com/releases/2026/09/260903064229.htm
+- Google riposte avec Gemini 3.8 Flash et sa déclinaison Cyber
+    Next.ink : https://next.ink/brief-article/google-lance-gemini-3-8-flash-et-sa-declinaison-cyber/
+
+Genere automatiquement par Culture G.</itunes:summary>
+      <itunes:subtitle>OpenAI dévoile GPT-6 Astra pendant que Nvidia s'offre Hugging Face pour treize milliards de dollars. Retour sur une journée folle marquée aussi par une panne générale des grands modèles et une étrange découverte sur Saturne.</itunes:subtitle>
+      <itunes:duration>00:13:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://scadagoal.github.io/culture-g/episodes/2026-09-04.mp3" length="6328749" type="audio/mpeg"/>
+    </item>
     <item>
       <title>Gemini 3.8 Flash, le piège RAG et le frein de la lumière</title>
       <link>https://scadagoal.github.io/culture-g/</link>
