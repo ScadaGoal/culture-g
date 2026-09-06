@@ -8,7 +8,7 @@
     <atom:link href="https://scadagoal.github.io/culture-g/feed.xml" rel="self" type="application/rss+xml"/>
     <language>fr-FR</language>
     <description>Un condense quotidien de l'actualite de l'intelligence artificielle, de la tech et de la science, monte en dialogue et genere automatiquement. L'IA en fil rouge, mais on ouvre large : histoire, sciences dures, societe.</description>
-    <lastBuildDate>Sat, 05 Sep 2026 07:54:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 08:10:10 +0000</lastBuildDate>
     <generator>Culture G</generator>
     <itunes:author>Culture G</itunes:author>
     <itunes:subtitle>Votre veille IA, tech et science, chaque matin</itunes:subtitle>
@@ -20,6 +20,49 @@
     <itunes:owner>
       <itunes:name>Culture G</itunes:name>
     </itunes:owner>
+    <item>
+      <title>Fusion et médecine : l'IA bat la vitesse humaine</title>
+      <link>https://scadagoal.github.io/culture-g/</link>
+      <guid isPermaLink="false">culture-g-2026-09-06</guid>
+      <pubDate>Sun, 06 Sep 2026 08:04:46 +0000</pubDate>
+      <description>De la fusion nucléaire stabilisée en vingt millisecondes aux vaccins à ARN conçus sur mesure contre le cancer, l'intelligence artificielle passe un cap physique. Tour d'horizon des avancées concrètes du jour, de l'orbite européenne aux pointes de flèches vieilles de 80 000 ans.
+
+Sources de cet episode :
+
+- Fusion nucléaire : une IA contrôle le plasma à une vitesse hors de portée humaine
+    ScienceDaily : https://www.sciencedaily.com/releases/2026/09/260903064215.htm
+- L'IA médicale passe du laboratoire au terrain plus vite que prévu
+    Vision IA : https://www.youtube.com/watch?v=ZI8uRhys3tA
+- Le paradoxe de l'automatisation : quand l'IA gère les pannes, les ingénieurs perdent le fil
+    Hacker News : https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems
+- Une fusée privée allemande atteint l'orbite depuis le sol européen
+    Hacker News : https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket
+- Des armatures de flèches de 80 000 ans réécrivent l'histoire de la technologie humaine
+    ScienceDaily : https://www.sciencedaily.com/releases/2026/09/260903064233.htm
+
+Genere automatiquement par Culture G.</description>
+      <itunes:summary>De la fusion nucléaire stabilisée en vingt millisecondes aux vaccins à ARN conçus sur mesure contre le cancer, l'intelligence artificielle passe un cap physique. Tour d'horizon des avancées concrètes du jour, de l'orbite européenne aux pointes de flèches vieilles de 80 000 ans.
+
+Sources de cet episode :
+
+- Fusion nucléaire : une IA contrôle le plasma à une vitesse hors de portée humaine
+    ScienceDaily : https://www.sciencedaily.com/releases/2026/09/260903064215.htm
+- L'IA médicale passe du laboratoire au terrain plus vite que prévu
+    Vision IA : https://www.youtube.com/watch?v=ZI8uRhys3tA
+- Le paradoxe de l'automatisation : quand l'IA gère les pannes, les ingénieurs perdent le fil
+    Hacker News : https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems
+- Une fusée privée allemande atteint l'orbite depuis le sol européen
+    Hacker News : https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket
+- Des armatures de flèches de 80 000 ans réécrivent l'histoire de la technologie humaine
+    ScienceDaily : https://www.sciencedaily.com/releases/2026/09/260903064233.htm
+
+Genere automatiquement par Culture G.</itunes:summary>
+      <itunes:subtitle>De la fusion nucléaire stabilisée en vingt millisecondes aux vaccins à ARN conçus sur mesure contre le cancer, l'intelligence artificielle passe un cap physique. Tour d'horizon des avancées concrètes du jour, de l'orbite européenne aux pointes de flèches </itunes:subtitle>
+      <itunes:duration>00:12:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://scadagoal.github.io/culture-g/episodes/2026-09-06.mp3" length="6121197" type="audio/mpeg"/>
+    </item>
     <item>
       <title>Quand des milliers d'agents IA complotent sur un wiki</title>
       <link>https://scadagoal.github.io/culture-g/</link>
