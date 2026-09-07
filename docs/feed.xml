@@ -8,7 +8,7 @@
     <atom:link href="https://scadagoal.github.io/culture-g/feed.xml" rel="self" type="application/rss+xml"/>
     <language>fr-FR</language>
     <description>Un condense quotidien de l'actualite de l'intelligence artificielle, de la tech et de la science, monte en dialogue et genere automatiquement. L'IA en fil rouge, mais on ouvre large : histoire, sciences dures, societe.</description>
-    <lastBuildDate>Sun, 06 Sep 2026 08:10:10 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 09:07:04 +0000</lastBuildDate>
     <generator>Culture G</generator>
     <itunes:author>Culture G</itunes:author>
     <itunes:subtitle>Votre veille IA, tech et science, chaque matin</itunes:subtitle>
@@ -20,6 +20,55 @@
     <itunes:owner>
       <itunes:name>Culture G</itunes:name>
     </itunes:owner>
+    <item>
+      <title>GPT-6 Astra : le gouffre financier de l'IA</title>
+      <link>https://scadagoal.github.io/culture-g/</link>
+      <guid isPermaLink="false">culture-g-2026-09-07</guid>
+      <pubDate>Mon, 07 Sep 2026 09:02:31 +0000</pubDate>
+      <description>Trente-trois dollars la requête : le modèle GPT-6 Astra illustre l'explosion spectaculaire des coûts de calcul chez OpenAI. Dans le même temps, la start-up allemande Isar Aerospace signe un tir orbital historique depuis le sol européen.
+
+Sources de cet episode :
+
+- GPT-6 Astra : l'explosion des coûts d'inférence pose la question du modèle économique de l'IA
+    Next.ink : https://next.ink/255028/gpt-6-astra-jusqua-33-dollars-pour-un-prompt-et-ce-nest-pas-le-plus-cher-dopenai/
+    OpenAI : https://openai.com/index/research-acceleration-view-inside-openai
+- Espace : la start-up allemande Isar Aerospace entre dans l'histoire spatiale européenne
+    Numerama : https://www.numerama.com/sciences/2326373-cest-historique-pour-leurope-une-fusee-a-reussi-a-rejoindre-lorbite-des-son-2e-vol-et-depuis-le-sol-europeen.html
+    Ars Technica : https://arstechnica.com/space/2026/09/german-company-becomes-first-in-europe-to-launch-fully-commercial-orbital-rocket/
+    Hacker News : https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight
+- L'envers du décor de l'IA : serveurs Linux saturés par le web scraping et marché noir d'accès Claude
+    Numerama : https://www.numerama.com/cyberguerre/2325799-des-pacemakers-coupes-du-suivi-medical-linux-etouffe-par-les-ia-et-des-comptes-claude-pirates-et-revendus-on-vous-raconte-la-semaine-cyberguerre.html
+- Des data centers spatiaux armés de canons à micro-ondes pour contrer l'espionnage
+    Numerama : https://www.numerama.com/tech/2322197-des-data-centers-dans-lespace-seront-proteges-par-des-armes-a-micro-ondes-pour-griller-les-satellites-trop-curieux.html
+- Santé : la tyrosine, ce nootropique populaire lié à une réduction de la longévité masculine
+    ScienceDaily : https://www.sciencedaily.com/releases/2026/09/260904000330.htm
+
+Genere automatiquement par Culture G.</description>
+      <itunes:summary>Trente-trois dollars la requête : le modèle GPT-6 Astra illustre l'explosion spectaculaire des coûts de calcul chez OpenAI. Dans le même temps, la start-up allemande Isar Aerospace signe un tir orbital historique depuis le sol européen.
+
+Sources de cet episode :
+
+- GPT-6 Astra : l'explosion des coûts d'inférence pose la question du modèle économique de l'IA
+    Next.ink : https://next.ink/255028/gpt-6-astra-jusqua-33-dollars-pour-un-prompt-et-ce-nest-pas-le-plus-cher-dopenai/
+    OpenAI : https://openai.com/index/research-acceleration-view-inside-openai
+- Espace : la start-up allemande Isar Aerospace entre dans l'histoire spatiale européenne
+    Numerama : https://www.numerama.com/sciences/2326373-cest-historique-pour-leurope-une-fusee-a-reussi-a-rejoindre-lorbite-des-son-2e-vol-et-depuis-le-sol-europeen.html
+    Ars Technica : https://arstechnica.com/space/2026/09/german-company-becomes-first-in-europe-to-launch-fully-commercial-orbital-rocket/
+    Hacker News : https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight
+- L'envers du décor de l'IA : serveurs Linux saturés par le web scraping et marché noir d'accès Claude
+    Numerama : https://www.numerama.com/cyberguerre/2325799-des-pacemakers-coupes-du-suivi-medical-linux-etouffe-par-les-ia-et-des-comptes-claude-pirates-et-revendus-on-vous-raconte-la-semaine-cyberguerre.html
+- Des data centers spatiaux armés de canons à micro-ondes pour contrer l'espionnage
+    Numerama : https://www.numerama.com/tech/2322197-des-data-centers-dans-lespace-seront-proteges-par-des-armes-a-micro-ondes-pour-griller-les-satellites-trop-curieux.html
+- Santé : la tyrosine, ce nootropique populaire lié à une réduction de la longévité masculine
+    ScienceDaily : https://www.sciencedaily.com/releases/2026/09/260904000330.htm
+
+Genere automatiquement par Culture G.</itunes:summary>
+      <itunes:subtitle>Trente-trois dollars la requête : le modèle GPT-6 Astra illustre l'explosion spectaculaire des coûts de calcul chez OpenAI. Dans le même temps, la start-up allemande Isar Aerospace signe un tir orbital historique depuis le sol européen.</itunes:subtitle>
+      <itunes:duration>00:10:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://scadagoal.github.io/culture-g/episodes/2026-09-07.mp3" length="5080557" type="audio/mpeg"/>
+    </item>
     <item>
       <title>Fusion et médecine : l'IA bat la vitesse humaine</title>
       <link>https://scadagoal.github.io/culture-g/</link>

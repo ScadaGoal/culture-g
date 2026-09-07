@@ -1,5 +1,15 @@
 [
   {
+    "slug": "2026-09-07",
+    "title": "GPT-6 Astra : le gouffre financier de l'IA",
+    "teaser": "Trente-trois dollars la requête : le modèle GPT-6 Astra illustre l'explosion spectaculaire des coûts de calcul chez OpenAI. Dans le même temps, la start-up allemande Isar Aerospace signe un tir orbital historique depuis le sol européen.",
+    "notes": "Sources de cet episode :\n\n- GPT-6 Astra : l'explosion des coûts d'inférence pose la question du modèle économique de l'IA\n    Next.ink : https://next.ink/255028/gpt-6-astra-jusqua-33-dollars-pour-un-prompt-et-ce-nest-pas-le-plus-cher-dopenai/\n    OpenAI : https://openai.com/index/research-acceleration-view-inside-openai\n- Espace : la start-up allemande Isar Aerospace entre dans l'histoire spatiale européenne\n    Numerama : https://www.numerama.com/sciences/2326373-cest-historique-pour-leurope-une-fusee-a-reussi-a-rejoindre-lorbite-des-son-2e-vol-et-depuis-le-sol-europeen.html\n    Ars Technica : https://arstechnica.com/space/2026/09/german-company-becomes-first-in-europe-to-launch-fully-commercial-orbital-rocket/\n    Hacker News : https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight\n- L'envers du décor de l'IA : serveurs Linux saturés par le web scraping et marché noir d'accès Claude\n    Numerama : https://www.numerama.com/cyberguerre/2325799-des-pacemakers-coupes-du-suivi-medical-linux-etouffe-par-les-ia-et-des-comptes-claude-pirates-et-revendus-on-vous-raconte-la-semaine-cyberguerre.html\n- Des data centers spatiaux armés de canons à micro-ondes pour contrer l'espionnage\n    Numerama : https://www.numerama.com/tech/2322197-des-data-centers-dans-lespace-seront-proteges-par-des-armes-a-micro-ondes-pour-griller-les-satellites-trop-curieux.html\n- Santé : la tyrosine, ce nootropique populaire lié à une réduction de la longévité masculine\n    ScienceDaily : https://www.sciencedaily.com/releases/2026/09/260904000330.htm\n\nGenere automatiquement par Culture G.",
+    "audio": "2026-09-07.mp3",
+    "bytes": 5080557,
+    "duration": 635.0,
+    "published": "2026-09-07T09:02:31.868701+00:00"
+  },
+  {
     "slug": "2026-09-06",
     "title": "Fusion et médecine : l'IA bat la vitesse humaine",
     "teaser": "De la fusion nucléaire stabilisée en vingt millisecondes aux vaccins à ARN conçus sur mesure contre le cancer, l'intelligence artificielle passe un cap physique. Tour d'horizon des avancées concrètes du jour, de l'orbite européenne aux pointes de flèches vieilles de 80 000 ans.",
