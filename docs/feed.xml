@@ -8,7 +8,7 @@
     <atom:link href="https://scadagoal.github.io/culture-g/feed.xml" rel="self" type="application/rss+xml"/>
     <language>fr-FR</language>
     <description>Un condense quotidien de l'actualite de l'intelligence artificielle, de la tech et de la science, monte en dialogue et genere automatiquement. L'IA en fil rouge, mais on ouvre large : histoire, sciences dures, societe.</description>
-    <lastBuildDate>Mon, 07 Sep 2026 09:07:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 08:24:40 +0000</lastBuildDate>
     <generator>Culture G</generator>
     <itunes:author>Culture G</itunes:author>
     <itunes:subtitle>Votre veille IA, tech et science, chaque matin</itunes:subtitle>
@@ -20,6 +20,51 @@
     <itunes:owner>
       <itunes:name>Culture G</itunes:name>
     </itunes:owner>
+    <item>
+      <title>Mistral pèse 21 milliards, OpenAI face à l'Alien Mind</title>
+      <link>https://scadagoal.github.io/culture-g/</link>
+      <guid isPermaLink="false">culture-g-2026-09-08</guid>
+      <pubDate>Tue, 08 Sep 2026 08:19:20 +0000</pubDate>
+      <description>Mistral AI boucle une levée historique de trois milliards d'euros pendant qu'OpenAI peine à déchiffrer la logique interne de ses modèles de réflexion. Tour d'horizon complet des secousses de l'IA et de la tech.
+
+Sources de cet episode :
+
+- Mistral AI lève 3 milliards d'euros et franchit un cap de valorisation à 21 milliards
+    Hacker News : https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/
+- OpenAI avoue ne plus réussir à décoder le raisonnement de ses puces de réflexion
+    Numerama : https://www.numerama.com/tech/2326859-le-directeur-scientifique-dopenai-indique-perdre-le-controle-sur-le-raisonnement-de-ses-ia.html
+- L'effet de boucle de NVIDIA : 99 milliards de dollars réinvestis chez ses propres clients
+    Next.ink : https://next.ink/255220/ia-nvidia-a-investi-99-milliards-de-dollars-pour-lessentiel-chez-ses-clients/
+- Ce que l'IA change concrètement au métier de développeur dans une boîte tech
+    Underscore_ : https://www.youtube.com/watch?v=AiytemqB_F0
+- La physique au service de l'urinoir sans éclaboussures récompensée par un Ig Nobel
+    Numerama : https://www.numerama.com/sciences/2326525-99-declaboussures-en-moins-lurinoir-parfait-existe-et-la-recherche-en-physique-a-aide-a-le-denicher.html
+    Hacker News : https://academic.oup.com/pnasnexus/article/4/4/pgaf087/8098745?login=false
+
+Genere automatiquement par Culture G.</description>
+      <itunes:summary>Mistral AI boucle une levée historique de trois milliards d'euros pendant qu'OpenAI peine à déchiffrer la logique interne de ses modèles de réflexion. Tour d'horizon complet des secousses de l'IA et de la tech.
+
+Sources de cet episode :
+
+- Mistral AI lève 3 milliards d'euros et franchit un cap de valorisation à 21 milliards
+    Hacker News : https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/
+- OpenAI avoue ne plus réussir à décoder le raisonnement de ses puces de réflexion
+    Numerama : https://www.numerama.com/tech/2326859-le-directeur-scientifique-dopenai-indique-perdre-le-controle-sur-le-raisonnement-de-ses-ia.html
+- L'effet de boucle de NVIDIA : 99 milliards de dollars réinvestis chez ses propres clients
+    Next.ink : https://next.ink/255220/ia-nvidia-a-investi-99-milliards-de-dollars-pour-lessentiel-chez-ses-clients/
+- Ce que l'IA change concrètement au métier de développeur dans une boîte tech
+    Underscore_ : https://www.youtube.com/watch?v=AiytemqB_F0
+- La physique au service de l'urinoir sans éclaboussures récompensée par un Ig Nobel
+    Numerama : https://www.numerama.com/sciences/2326525-99-declaboussures-en-moins-lurinoir-parfait-existe-et-la-recherche-en-physique-a-aide-a-le-denicher.html
+    Hacker News : https://academic.oup.com/pnasnexus/article/4/4/pgaf087/8098745?login=false
+
+Genere automatiquement par Culture G.</itunes:summary>
+      <itunes:subtitle>Mistral AI boucle une levée historique de trois milliards d'euros pendant qu'OpenAI peine à déchiffrer la logique interne de ses modèles de réflexion. Tour d'horizon complet des secousses de l'IA et de la tech.</itunes:subtitle>
+      <itunes:duration>00:12:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://scadagoal.github.io/culture-g/episodes/2026-09-08.mp3" length="6109293" type="audio/mpeg"/>
+    </item>
     <item>
       <title>GPT-6 Astra : le gouffre financier de l'IA</title>
       <link>https://scadagoal.github.io/culture-g/</link>

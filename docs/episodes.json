@@ -1,5 +1,15 @@
 [
   {
+    "slug": "2026-09-08",
+    "title": "Mistral pèse 21 milliards, OpenAI face à l'Alien Mind",
+    "teaser": "Mistral AI boucle une levée historique de trois milliards d'euros pendant qu'OpenAI peine à déchiffrer la logique interne de ses modèles de réflexion. Tour d'horizon complet des secousses de l'IA et de la tech.",
+    "notes": "Sources de cet episode :\n\n- Mistral AI lève 3 milliards d'euros et franchit un cap de valorisation à 21 milliards\n    Hacker News : https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/\n- OpenAI avoue ne plus réussir à décoder le raisonnement de ses puces de réflexion\n    Numerama : https://www.numerama.com/tech/2326859-le-directeur-scientifique-dopenai-indique-perdre-le-controle-sur-le-raisonnement-de-ses-ia.html\n- L'effet de boucle de NVIDIA : 99 milliards de dollars réinvestis chez ses propres clients\n    Next.ink : https://next.ink/255220/ia-nvidia-a-investi-99-milliards-de-dollars-pour-lessentiel-chez-ses-clients/\n- Ce que l'IA change concrètement au métier de développeur dans une boîte tech\n    Underscore_ : https://www.youtube.com/watch?v=AiytemqB_F0\n- La physique au service de l'urinoir sans éclaboussures récompensée par un Ig Nobel\n    Numerama : https://www.numerama.com/sciences/2326525-99-declaboussures-en-moins-lurinoir-parfait-existe-et-la-recherche-en-physique-a-aide-a-le-denicher.html\n    Hacker News : https://academic.oup.com/pnasnexus/article/4/4/pgaf087/8098745?login=false\n\nGenere automatiquement par Culture G.",
+    "audio": "2026-09-08.mp3",
+    "bytes": 6109293,
+    "duration": 763.6,
+    "published": "2026-09-08T08:19:20.010182+00:00"
+  },
+  {
     "slug": "2026-09-07",
     "title": "GPT-6 Astra : le gouffre financier de l'IA",
     "teaser": "Trente-trois dollars la requête : le modèle GPT-6 Astra illustre l'explosion spectaculaire des coûts de calcul chez OpenAI. Dans le même temps, la start-up allemande Isar Aerospace signe un tir orbital historique depuis le sol européen.",
