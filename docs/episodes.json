@@ -1,5 +1,15 @@
 [
   {
+    "slug": "2026-09-11",
+    "title": "SWE-2, crise chez les mathématiciens et physique sous IA",
+    "teaser": "Des modèles de code plus rapides et économiques secouent le secteur, tandis que l'infiltration de l'IA dans la recherche suscite autant d'exploits en physique que de controverses chez les mathématiciens. Entre détection massive de failles et débats d'attribution, voyage au cœur d'une science en plein saut technologique.",
+    "notes": "Sources de cet episode :\n\n- Nouvelle vague de modèles : DeepSeek v4.1 Flash et Cognition SWE-2 secouent l'IA\n    Hacker News : https://twitter.com/deepseek_ai/status/2097930608790167907\n    Hacker News : https://cognition.com/blog/swe-2\n- Une avancée majeure en physique décryptée\n    Vision IA : https://www.youtube.com/watch?v=XCRU3MU03Lw\n- OpenAI accusée de pillage scientifique par des mathématiciens\n    Next.ink : https://next.ink/255578/openai-accusee-de-mauvaises-pratiques-scientifiques-pour-resoudre-un-probleme-de-maths/\n    Hacker News : https://mathstodon.xyz/@andreasthom/117240535270608201\n- Le théorème des quatre couleurs s'offre une nouvelle démonstration\n    Quanta Magazine : https://www.quantamagazine.org/the-four-color-theorem-gets-a-rare-new-proof-20260910/\n- Claude Mythos et la cybersécurité : 26 000 failles trouvées, mais l'humain ne suit pas\n    Numerama : https://www.numerama.com/cyberguerre/2330439-bilan-apres-5-mois-claude-mythos-a-repere-26-000-failles-mais-moins-de-1-ont-ete-reparees.html\n    Next.ink : https://next.ink/brief-article/lagence-de-cybersecurite-de-la-commission-europeenne-peut-maintenant-utiliser-mythos/\n\nGenere automatiquement par Culture G.",
+    "audio": "2026-09-11.mp3",
+    "bytes": 6145197,
+    "duration": 768.08,
+    "published": "2026-09-11T08:20:31.900919+00:00"
+  },
+  {
     "slug": "2026-09-08",
     "title": "Mistral pèse 21 milliards, OpenAI face à l'Alien Mind",
     "teaser": "Mistral AI boucle une levée historique de trois milliards d'euros pendant qu'OpenAI peine à déchiffrer la logique interne de ses modèles de réflexion. Tour d'horizon complet des secousses de l'IA et de la tech.",

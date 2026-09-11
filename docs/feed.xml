@@ -8,7 +8,7 @@
     <atom:link href="https://scadagoal.github.io/culture-g/feed.xml" rel="self" type="application/rss+xml"/>
     <language>fr-FR</language>
     <description>Un condense quotidien de l'actualite de l'intelligence artificielle, de la tech et de la science, monte en dialogue et genere automatiquement. L'IA en fil rouge, mais on ouvre large : histoire, sciences dures, societe.</description>
-    <lastBuildDate>Tue, 08 Sep 2026 08:24:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 08:25:52 +0000</lastBuildDate>
     <generator>Culture G</generator>
     <itunes:author>Culture G</itunes:author>
     <itunes:subtitle>Votre veille IA, tech et science, chaque matin</itunes:subtitle>
@@ -20,6 +20,55 @@
     <itunes:owner>
       <itunes:name>Culture G</itunes:name>
     </itunes:owner>
+    <item>
+      <title>SWE-2, crise chez les mathématiciens et physique sous IA</title>
+      <link>https://scadagoal.github.io/culture-g/</link>
+      <guid isPermaLink="false">culture-g-2026-09-11</guid>
+      <pubDate>Fri, 11 Sep 2026 08:20:31 +0000</pubDate>
+      <description>Des modèles de code plus rapides et économiques secouent le secteur, tandis que l'infiltration de l'IA dans la recherche suscite autant d'exploits en physique que de controverses chez les mathématiciens. Entre détection massive de failles et débats d'attribution, voyage au cœur d'une science en plein saut technologique.
+
+Sources de cet episode :
+
+- Nouvelle vague de modèles : DeepSeek v4.1 Flash et Cognition SWE-2 secouent l'IA
+    Hacker News : https://twitter.com/deepseek_ai/status/2097930608790167907
+    Hacker News : https://cognition.com/blog/swe-2
+- Une avancée majeure en physique décryptée
+    Vision IA : https://www.youtube.com/watch?v=XCRU3MU03Lw
+- OpenAI accusée de pillage scientifique par des mathématiciens
+    Next.ink : https://next.ink/255578/openai-accusee-de-mauvaises-pratiques-scientifiques-pour-resoudre-un-probleme-de-maths/
+    Hacker News : https://mathstodon.xyz/@andreasthom/117240535270608201
+- Le théorème des quatre couleurs s'offre une nouvelle démonstration
+    Quanta Magazine : https://www.quantamagazine.org/the-four-color-theorem-gets-a-rare-new-proof-20260910/
+- Claude Mythos et la cybersécurité : 26 000 failles trouvées, mais l'humain ne suit pas
+    Numerama : https://www.numerama.com/cyberguerre/2330439-bilan-apres-5-mois-claude-mythos-a-repere-26-000-failles-mais-moins-de-1-ont-ete-reparees.html
+    Next.ink : https://next.ink/brief-article/lagence-de-cybersecurite-de-la-commission-europeenne-peut-maintenant-utiliser-mythos/
+
+Genere automatiquement par Culture G.</description>
+      <itunes:summary>Des modèles de code plus rapides et économiques secouent le secteur, tandis que l'infiltration de l'IA dans la recherche suscite autant d'exploits en physique que de controverses chez les mathématiciens. Entre détection massive de failles et débats d'attribution, voyage au cœur d'une science en plein saut technologique.
+
+Sources de cet episode :
+
+- Nouvelle vague de modèles : DeepSeek v4.1 Flash et Cognition SWE-2 secouent l'IA
+    Hacker News : https://twitter.com/deepseek_ai/status/2097930608790167907
+    Hacker News : https://cognition.com/blog/swe-2
+- Une avancée majeure en physique décryptée
+    Vision IA : https://www.youtube.com/watch?v=XCRU3MU03Lw
+- OpenAI accusée de pillage scientifique par des mathématiciens
+    Next.ink : https://next.ink/255578/openai-accusee-de-mauvaises-pratiques-scientifiques-pour-resoudre-un-probleme-de-maths/
+    Hacker News : https://mathstodon.xyz/@andreasthom/117240535270608201
+- Le théorème des quatre couleurs s'offre une nouvelle démonstration
+    Quanta Magazine : https://www.quantamagazine.org/the-four-color-theorem-gets-a-rare-new-proof-20260910/
+- Claude Mythos et la cybersécurité : 26 000 failles trouvées, mais l'humain ne suit pas
+    Numerama : https://www.numerama.com/cyberguerre/2330439-bilan-apres-5-mois-claude-mythos-a-repere-26-000-failles-mais-moins-de-1-ont-ete-reparees.html
+    Next.ink : https://next.ink/brief-article/lagence-de-cybersecurite-de-la-commission-europeenne-peut-maintenant-utiliser-mythos/
+
+Genere automatiquement par Culture G.</itunes:summary>
+      <itunes:subtitle>Des modèles de code plus rapides et économiques secouent le secteur, tandis que l'infiltration de l'IA dans la recherche suscite autant d'exploits en physique que de controverses chez les mathématiciens. Entre détection massive de failles et débats d'attr</itunes:subtitle>
+      <itunes:duration>00:12:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://scadagoal.github.io/culture-g/episodes/2026-09-11.mp3" length="6145197" type="audio/mpeg"/>
+    </item>
     <item>
       <title>Mistral pèse 21 milliards, OpenAI face à l'Alien Mind</title>
       <link>https://scadagoal.github.io/culture-g/</link>
