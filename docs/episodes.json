@@ -1,5 +1,15 @@
 [
   {
+    "slug": "2026-09-12",
+    "title": "GPT-6 Astra, piratage par essaim et robotaxis à Zagreb",
+    "teaser": "OpenAI promet l'autonomie totale du code avec son modèle GPT-6 Astra, mais les tests indépendants révèlent un gaspillage massif de ressources sans valeur produite. Pendant que des essaims d'agents IA s'attaquent au web et que l'Europe teste ses premiers robotaxis sans conducteur, les scientifiques découvrent dans un caca de dinosaure le secret de la survie des oiseaux.",
+    "notes": "Sources de cet episode :\n\n- GPT-6 Astra : OpenAI pousse l'autonomie des agents de programmation\n    OpenAI : https://openai.com/index/perplexity-improving-accuracy-with-astra\n    OpenAI : https://openai.com/index/cognition-devin-testing-with-astra\n    Hacker News : https://lucumr.pocoo.org/2026/9/7/astra-why/\n- Quand des essaims d'agents IA s'attaquent en meute aux infrastructures web\n    Numerama : https://www.numerama.com/cyberguerre/2331261-un-essaim-dagents-ia-sacharne-sur-ce-logiciel-et-pirate-395-organisations-dans-48-pays.html\n    Hacker News : https://www.rubyhack.ai/\n- Véhicules autonomes : Première européenne sans aucun superviseur à Zagreb\n    Numerama : https://www.numerama.com/vroom/2331067-a-zagreb-des-robotaxis-roulent-sans-personne-a-bord-pour-la-premiere-fois-en-europe.html\n- Histoire & Science : Une plume dans un caca de dinosaure explique la survie des oiseaux\n    ScienceDaily : https://www.sciencedaily.com/releases/2026/09/260911003849.htm\n\nGenere automatiquement par Culture G.",
+    "audio": "2026-09-12.mp3",
+    "bytes": 5505837,
+    "duration": 688.16,
+    "published": "2026-09-12T08:34:38.361554+00:00"
+  },
+  {
     "slug": "2026-09-11",
     "title": "SWE-2, crise chez les mathématiciens et physique sous IA",
     "teaser": "Des modèles de code plus rapides et économiques secouent le secteur, tandis que l'infiltration de l'IA dans la recherche suscite autant d'exploits en physique que de controverses chez les mathématiciens. Entre détection massive de failles et débats d'attribution, voyage au cœur d'une science en plein saut technologique.",
