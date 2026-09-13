@@ -8,7 +8,7 @@
     <atom:link href="https://scadagoal.github.io/culture-g/feed.xml" rel="self" type="application/rss+xml"/>
     <language>fr-FR</language>
     <description>Un condense quotidien de l'actualite de l'intelligence artificielle, de la tech et de la science, monte en dialogue et genere automatiquement. L'IA en fil rouge, mais on ouvre large : histoire, sciences dures, societe.</description>
-    <lastBuildDate>Sat, 12 Sep 2026 08:39:13 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 08:38:00 +0000</lastBuildDate>
     <generator>Culture G</generator>
     <itunes:author>Culture G</itunes:author>
     <itunes:subtitle>Votre veille IA, tech et science, chaque matin</itunes:subtitle>
@@ -20,6 +20,53 @@
     <itunes:owner>
       <itunes:name>Culture G</itunes:name>
     </itunes:owner>
+    <item>
+      <title>Chine contre ASML, chaîne de pensée et l'effet Ozempic</title>
+      <link>https://scadagoal.github.io/culture-g/</link>
+      <guid isPermaLink="false">culture-g-2026-09-13</guid>
+      <pubDate>Sun, 13 Sep 2026 08:30:48 +0000</pubDate>
+      <description>Pendant que Pékin bouscule le quasi-monopole des puces pour l'IA, les laboratoires s'interrogent sur l'opacité grandissante du raisonnement de leurs modèles. Du débat sur le ralentissement technologique à la théorie de l'information appliquée au jeu, tour d'horizon des faits marquants.
+
+Sources de cet episode :
+
+- Semi-conducteurs : la Chine face au monopole d'ASML sur les puces IA
+    Grand Angle Nova : https://www.youtube.com/watch?v=yJX7lZjRu48
+- La chaîne de pensée : le mécanisme qui fait raisonner l'IA (et inquiète les chercheurs)
+    Numerama : https://www.numerama.com/tech/2330615-elle-rend-lia-plus-intelligente-mais-devient-de-plus-en-plus-difficile-a-surveiller-cest-quoi-la-chaine-de-pensee.html
+- Faut-il ralentir la frontière de l'IA ? Le grand débat entre sécurité et Open Source
+    Hacker News : https://darioamodei.com/post/we-must-pace-the-frontier
+    Hacker News : https://jacob.gold/posts/open-letter-to-dario-amodei-about-open-weights/
+    Hacker News : https://xeiaso.net/notes/2026/everyone-slowdown-but-me/
+- Mathématiques : battre Wordle à 99 % grâce à l'entropie de Shannon
+    ScienceDaily : https://www.sciencedaily.com/releases/2026/09/260911204910.htm
+- Longévité : l'Ozempic ralentirait directement le vieillissement cellulaire
+    ScienceDaily : https://www.sciencedaily.com/releases/2026/09/260911214238.htm
+
+Genere automatiquement par Culture G.</description>
+      <itunes:summary>Pendant que Pékin bouscule le quasi-monopole des puces pour l'IA, les laboratoires s'interrogent sur l'opacité grandissante du raisonnement de leurs modèles. Du débat sur le ralentissement technologique à la théorie de l'information appliquée au jeu, tour d'horizon des faits marquants.
+
+Sources de cet episode :
+
+- Semi-conducteurs : la Chine face au monopole d'ASML sur les puces IA
+    Grand Angle Nova : https://www.youtube.com/watch?v=yJX7lZjRu48
+- La chaîne de pensée : le mécanisme qui fait raisonner l'IA (et inquiète les chercheurs)
+    Numerama : https://www.numerama.com/tech/2330615-elle-rend-lia-plus-intelligente-mais-devient-de-plus-en-plus-difficile-a-surveiller-cest-quoi-la-chaine-de-pensee.html
+- Faut-il ralentir la frontière de l'IA ? Le grand débat entre sécurité et Open Source
+    Hacker News : https://darioamodei.com/post/we-must-pace-the-frontier
+    Hacker News : https://jacob.gold/posts/open-letter-to-dario-amodei-about-open-weights/
+    Hacker News : https://xeiaso.net/notes/2026/everyone-slowdown-but-me/
+- Mathématiques : battre Wordle à 99 % grâce à l'entropie de Shannon
+    ScienceDaily : https://www.sciencedaily.com/releases/2026/09/260911204910.htm
+- Longévité : l'Ozempic ralentirait directement le vieillissement cellulaire
+    ScienceDaily : https://www.sciencedaily.com/releases/2026/09/260911214238.htm
+
+Genere automatiquement par Culture G.</itunes:summary>
+      <itunes:subtitle>Pendant que Pékin bouscule le quasi-monopole des puces pour l'IA, les laboratoires s'interrogent sur l'opacité grandissante du raisonnement de leurs modèles. Du débat sur le ralentissement technologique à la théorie de l'information appliquée au jeu, tour</itunes:subtitle>
+      <itunes:duration>00:12:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://scadagoal.github.io/culture-g/episodes/2026-09-13.mp3" length="5766957" type="audio/mpeg"/>
+    </item>
     <item>
       <title>GPT-6 Astra, piratage par essaim et robotaxis à Zagreb</title>
       <link>https://scadagoal.github.io/culture-g/</link>

@@ -1,5 +1,15 @@
 [
   {
+    "slug": "2026-09-13",
+    "title": "Chine contre ASML, chaîne de pensée et l'effet Ozempic",
+    "teaser": "Pendant que Pékin bouscule le quasi-monopole des puces pour l'IA, les laboratoires s'interrogent sur l'opacité grandissante du raisonnement de leurs modèles. Du débat sur le ralentissement technologique à la théorie de l'information appliquée au jeu, tour d'horizon des faits marquants.",
+    "notes": "Sources de cet episode :\n\n- Semi-conducteurs : la Chine face au monopole d'ASML sur les puces IA\n    Grand Angle Nova : https://www.youtube.com/watch?v=yJX7lZjRu48\n- La chaîne de pensée : le mécanisme qui fait raisonner l'IA (et inquiète les chercheurs)\n    Numerama : https://www.numerama.com/tech/2330615-elle-rend-lia-plus-intelligente-mais-devient-de-plus-en-plus-difficile-a-surveiller-cest-quoi-la-chaine-de-pensee.html\n- Faut-il ralentir la frontière de l'IA ? Le grand débat entre sécurité et Open Source\n    Hacker News : https://darioamodei.com/post/we-must-pace-the-frontier\n    Hacker News : https://jacob.gold/posts/open-letter-to-dario-amodei-about-open-weights/\n    Hacker News : https://xeiaso.net/notes/2026/everyone-slowdown-but-me/\n- Mathématiques : battre Wordle à 99 % grâce à l'entropie de Shannon\n    ScienceDaily : https://www.sciencedaily.com/releases/2026/09/260911204910.htm\n- Longévité : l'Ozempic ralentirait directement le vieillissement cellulaire\n    ScienceDaily : https://www.sciencedaily.com/releases/2026/09/260911214238.htm\n\nGenere automatiquement par Culture G.",
+    "audio": "2026-09-13.mp3",
+    "bytes": 5766957,
+    "duration": 720.8,
+    "published": "2026-09-13T08:30:48.910873+00:00"
+  },
+  {
     "slug": "2026-09-12",
     "title": "GPT-6 Astra, piratage par essaim et robotaxis à Zagreb",
     "teaser": "OpenAI promet l'autonomie totale du code avec son modèle GPT-6 Astra, mais les tests indépendants révèlent un gaspillage massif de ressources sans valeur produite. Pendant que des essaims d'agents IA s'attaquent au web et que l'Europe teste ses premiers robotaxis sans conducteur, les scientifiques découvrent dans un caca de dinosaure le secret de la survie des oiseaux.",
