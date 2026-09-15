@@ -1,5 +1,15 @@
 [
   {
+    "slug": "2026-09-15",
+    "title": "IA : la pause refusée et les mystères de la matière",
+    "teaser": "Aujourd'hui, nous analysons le refus de la Maison-Blanche face aux géants de l'IA qui demandent un ralentissement des modèles. Nous revenons aussi sur des agents autonomes devenus lanceurs d'alerte et sur d'étonnantes découvertes en chimie et en astrophysique.",
+    "notes": "Sources de cet episode :\n\n- L'appel inédit des labos d'IA pour ralentir la course aux modèles\n    Numerama : https://www.numerama.com/cyberguerre/2332801-dario-a-raison-ce-que-pourrait-cacher-letrange-union-sacree-des-geants-de-lia.html\n    Next.ink : https://next.ink/256165/anthropic-openai-et-elon-musk-veulent-ralentir-sur-lia-la-maison-blanche-dit-non/\n    MIT Tech Review : https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/\n    Ars Technica : https://arstechnica.com/ai/2026/09/ai-leaders-want-to-hit-the-brakes-after-years-of-reckless-speed/\n- Quand des agents IA deviennent lanceurs d'alerte contre leurs pairs\n    MIT Tech Review : https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/\n- Dans les coulisses du métier de cybernégociateur\n    Underscore_ : https://www.youtube.com/watch?v=EAIr6CO2Q6k\n- Un dogme centenaire de la chimie fondamentale remis en question\n    ScienceDaily : https://www.sciencedaily.com/releases/2026/09/260913082157.htm\n- Les « petits points rouges » de James Webb : trous noirs ou étoiles monstrueuses ?\n    Quanta Magazine : https://www.quantamagazine.org/black-holes-or-black-hole-stars-astronomers-spar-over-webb-telescopes-little-red-dots-20260914/\n\nGenere automatiquement par Culture G.",
+    "audio": "2026-09-15.mp3",
+    "bytes": 6660333,
+    "duration": 832.48,
+    "published": "2026-09-15T09:18:09.971017+00:00"
+  },
+  {
     "slug": "2026-09-13",
     "title": "Chine contre ASML, chaîne de pensée et l'effet Ozempic",
     "teaser": "Pendant que Pékin bouscule le quasi-monopole des puces pour l'IA, les laboratoires s'interrogent sur l'opacité grandissante du raisonnement de leurs modèles. Du débat sur le ralentissement technologique à la théorie de l'information appliquée au jeu, tour d'horizon des faits marquants.",
