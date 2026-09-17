@@ -1,5 +1,15 @@
 [
   {
+    "slug": "2026-09-17",
+    "title": "Mistral s'invite dans Firefox et OpenAI active la pub interactive",
+    "teaser": "Mistral AI s'associe à Mozilla pour équiper 200 millions d'utilisateurs de Firefox. Pendant ce temps, OpenAI teste des chatbots publicitaires et la communauté open source se révolta contre le code généré par IA.",
+    "notes": "Sources de cet episode :\n\n- Mistral AI et Mozilla intègrent l'IA privée au cœur du navigateur Firefox\n    Hacker News : https://mistral.ai/news/mistral-x-mozilla/\n    Next.ink : https://next.ink/brief-article/mistral-et-mozilla-officialisent-leur-partenariat-dans-la-fenetre-intelligente-de-firefox/\n- OpenAI esquisse son modèle publicitaire avec les « agents sponsorisés »\n    OpenAI : https://openai.com/index/reimagining-advertising-with-ai\n    Next.ink : https://next.ink/brief-article/openai-teste-les-chatbots-publicitaires-dans-chatgpt/\n- Mathématiciens et développeurs en colère contre le « parasitisme » des LLM\n    Next.ink : https://next.ink/256363/lia-menace-la-pratique-scientifique-deplorent-des-milliers-de-mathematiciens/\n    Hacker News : https://frvr.com/blog/news/ps5-linux-lead-quits-as-open-source-projects-have-become-a-bunch-of-noobs-using-llms-that-they-dont-even-understand/\n- Nvidia adopte Rust pour programmer ses processeurs graphiques\n    Hacker News : https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/\n\nGenere automatiquement par Culture G.",
+    "audio": "2026-09-17.mp3",
+    "bytes": 4646253,
+    "duration": 580.72,
+    "published": "2026-09-17T08:56:38.927799+00:00"
+  },
+  {
     "slug": "2026-09-15",
     "title": "IA : la pause refusée et les mystères de la matière",
     "teaser": "Aujourd'hui, nous analysons le refus de la Maison-Blanche face aux géants de l'IA qui demandent un ralentissement des modèles. Nous revenons aussi sur des agents autonomes devenus lanceurs d'alerte et sur d'étonnantes découvertes en chimie et en astrophysique.",

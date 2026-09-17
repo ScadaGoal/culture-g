@@ -8,7 +8,7 @@
     <atom:link href="https://scadagoal.github.io/culture-g/feed.xml" rel="self" type="application/rss+xml"/>
     <language>fr-FR</language>
     <description>Un condense quotidien de l'actualite de l'intelligence artificielle, de la tech et de la science, monte en dialogue et genere automatiquement. L'IA en fil rouge, mais on ouvre large : histoire, sciences dures, societe.</description>
-    <lastBuildDate>Tue, 15 Sep 2026 09:23:57 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 09:00:57 +0000</lastBuildDate>
     <generator>Culture G</generator>
     <itunes:author>Culture G</itunes:author>
     <itunes:subtitle>Votre veille IA, tech et science, chaque matin</itunes:subtitle>
@@ -20,6 +20,51 @@
     <itunes:owner>
       <itunes:name>Culture G</itunes:name>
     </itunes:owner>
+    <item>
+      <title>Mistral s'invite dans Firefox et OpenAI active la pub interactive</title>
+      <link>https://scadagoal.github.io/culture-g/</link>
+      <guid isPermaLink="false">culture-g-2026-09-17</guid>
+      <pubDate>Thu, 17 Sep 2026 08:56:38 +0000</pubDate>
+      <description>Mistral AI s'associe à Mozilla pour équiper 200 millions d'utilisateurs de Firefox. Pendant ce temps, OpenAI teste des chatbots publicitaires et la communauté open source se révolta contre le code généré par IA.
+
+Sources de cet episode :
+
+- Mistral AI et Mozilla intègrent l'IA privée au cœur du navigateur Firefox
+    Hacker News : https://mistral.ai/news/mistral-x-mozilla/
+    Next.ink : https://next.ink/brief-article/mistral-et-mozilla-officialisent-leur-partenariat-dans-la-fenetre-intelligente-de-firefox/
+- OpenAI esquisse son modèle publicitaire avec les « agents sponsorisés »
+    OpenAI : https://openai.com/index/reimagining-advertising-with-ai
+    Next.ink : https://next.ink/brief-article/openai-teste-les-chatbots-publicitaires-dans-chatgpt/
+- Mathématiciens et développeurs en colère contre le « parasitisme » des LLM
+    Next.ink : https://next.ink/256363/lia-menace-la-pratique-scientifique-deplorent-des-milliers-de-mathematiciens/
+    Hacker News : https://frvr.com/blog/news/ps5-linux-lead-quits-as-open-source-projects-have-become-a-bunch-of-noobs-using-llms-that-they-dont-even-understand/
+- Nvidia adopte Rust pour programmer ses processeurs graphiques
+    Hacker News : https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/
+
+Genere automatiquement par Culture G.</description>
+      <itunes:summary>Mistral AI s'associe à Mozilla pour équiper 200 millions d'utilisateurs de Firefox. Pendant ce temps, OpenAI teste des chatbots publicitaires et la communauté open source se révolta contre le code généré par IA.
+
+Sources de cet episode :
+
+- Mistral AI et Mozilla intègrent l'IA privée au cœur du navigateur Firefox
+    Hacker News : https://mistral.ai/news/mistral-x-mozilla/
+    Next.ink : https://next.ink/brief-article/mistral-et-mozilla-officialisent-leur-partenariat-dans-la-fenetre-intelligente-de-firefox/
+- OpenAI esquisse son modèle publicitaire avec les « agents sponsorisés »
+    OpenAI : https://openai.com/index/reimagining-advertising-with-ai
+    Next.ink : https://next.ink/brief-article/openai-teste-les-chatbots-publicitaires-dans-chatgpt/
+- Mathématiciens et développeurs en colère contre le « parasitisme » des LLM
+    Next.ink : https://next.ink/256363/lia-menace-la-pratique-scientifique-deplorent-des-milliers-de-mathematiciens/
+    Hacker News : https://frvr.com/blog/news/ps5-linux-lead-quits-as-open-source-projects-have-become-a-bunch-of-noobs-using-llms-that-they-dont-even-understand/
+- Nvidia adopte Rust pour programmer ses processeurs graphiques
+    Hacker News : https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/
+
+Genere automatiquement par Culture G.</itunes:summary>
+      <itunes:subtitle>Mistral AI s'associe à Mozilla pour équiper 200 millions d'utilisateurs de Firefox. Pendant ce temps, OpenAI teste des chatbots publicitaires et la communauté open source se révolta contre le code généré par IA.</itunes:subtitle>
+      <itunes:duration>00:09:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://scadagoal.github.io/culture-g/episodes/2026-09-17.mp3" length="4646253" type="audio/mpeg"/>
+    </item>
     <item>
       <title>IA : la pause refusée et les mystères de la matière</title>
       <link>https://scadagoal.github.io/culture-g/</link>
