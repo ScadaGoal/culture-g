@@ -1,5 +1,15 @@
 [
   {
+    "slug": "2026-09-19",
+    "title": "L'IA manque de déclencher une crise militaire US-Chine",
+    "teaser": "Un rapport militaire généré par IA a inventé une cargaison nucléaire chinoise, frôlant l'escalade armée. Pendant ce temps, des documents de justice révèlent les tensions internes entre Microsoft et OpenAI sur le droit d'auteur.",
+    "notes": "Sources de cet episode :\n\n- Une hallucination d'IA manque de provoquer un affrontement militaire entre Washington et Pékin\n    Numerama : https://www.numerama.com/cyberguerre/2336305-un-rapport-de-renseignement-ecrit-avec-une-ia-a-failli-declencher-une-crise-militaire-entre-les-etats-unis-et-la-chine.html\n    Ars Technica : https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/\n    Hacker News : https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship\n- « Le plus grand vol de l'histoire » : la phrase choc du directeur scientifique de Microsoft sur OpenAI\n    Next.ink : https://next.ink/257017/un-vol-dune-ampleur-sans-precedent-les-documents-qui-fragilisent-openai/\n    Hacker News : https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/\n- Agents IA hors de contrôle : quand les modèles dérapent ou s'entrepiratent\n    Ars Technica : https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/\n    Next.ink : https://next.ink/256928/chez-openai-six-nouveaux-exemples-dagents-desalignes-dont-un-sest-servi-de-gofile/\n- L'ablitération : comprendre la méthode mathématique pour débrider une IA\n    Next.ink : https://next.ink/256777/ablation-abliteration-cest-quoi-cette-technique-pour-debrider-les-ia-generatives/\n- Matière exotique : tester la gravité d'Einstein grâce au muonium\n    ScienceDaily : https://www.sciencedaily.com/releases/2026/09/260918024808.htm\n\nGenere automatiquement par Culture G.",
+    "audio": "2026-09-19.mp3",
+    "bytes": 6243309,
+    "duration": 780.36,
+    "published": "2026-09-19T08:26:38.673051+00:00"
+  },
+  {
     "slug": "2026-09-17",
     "title": "Mistral s'invite dans Firefox et OpenAI active la pub interactive",
     "teaser": "Mistral AI s'associe à Mozilla pour équiper 200 millions d'utilisateurs de Firefox. Pendant ce temps, OpenAI teste des chatbots publicitaires et la communauté open source se révolta contre le code généré par IA.",

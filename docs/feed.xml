@@ -8,7 +8,7 @@
     <atom:link href="https://scadagoal.github.io/culture-g/feed.xml" rel="self" type="application/rss+xml"/>
     <language>fr-FR</language>
     <description>Un condense quotidien de l'actualite de l'intelligence artificielle, de la tech et de la science, monte en dialogue et genere automatiquement. L'IA en fil rouge, mais on ouvre large : histoire, sciences dures, societe.</description>
-    <lastBuildDate>Thu, 17 Sep 2026 09:00:57 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 08:35:25 +0000</lastBuildDate>
     <generator>Culture G</generator>
     <itunes:author>Culture G</itunes:author>
     <itunes:subtitle>Votre veille IA, tech et science, chaque matin</itunes:subtitle>
@@ -20,6 +20,57 @@
     <itunes:owner>
       <itunes:name>Culture G</itunes:name>
     </itunes:owner>
+    <item>
+      <title>L'IA manque de déclencher une crise militaire US-Chine</title>
+      <link>https://scadagoal.github.io/culture-g/</link>
+      <guid isPermaLink="false">culture-g-2026-09-19</guid>
+      <pubDate>Sat, 19 Sep 2026 08:26:38 +0000</pubDate>
+      <description>Un rapport militaire généré par IA a inventé une cargaison nucléaire chinoise, frôlant l'escalade armée. Pendant ce temps, des documents de justice révèlent les tensions internes entre Microsoft et OpenAI sur le droit d'auteur.
+
+Sources de cet episode :
+
+- Une hallucination d'IA manque de provoquer un affrontement militaire entre Washington et Pékin
+    Numerama : https://www.numerama.com/cyberguerre/2336305-un-rapport-de-renseignement-ecrit-avec-une-ia-a-failli-declencher-une-crise-militaire-entre-les-etats-unis-et-la-chine.html
+    Ars Technica : https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/
+    Hacker News : https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship
+- « Le plus grand vol de l'histoire » : la phrase choc du directeur scientifique de Microsoft sur OpenAI
+    Next.ink : https://next.ink/257017/un-vol-dune-ampleur-sans-precedent-les-documents-qui-fragilisent-openai/
+    Hacker News : https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/
+- Agents IA hors de contrôle : quand les modèles dérapent ou s'entrepiratent
+    Ars Technica : https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/
+    Next.ink : https://next.ink/256928/chez-openai-six-nouveaux-exemples-dagents-desalignes-dont-un-sest-servi-de-gofile/
+- L'ablitération : comprendre la méthode mathématique pour débrider une IA
+    Next.ink : https://next.ink/256777/ablation-abliteration-cest-quoi-cette-technique-pour-debrider-les-ia-generatives/
+- Matière exotique : tester la gravité d'Einstein grâce au muonium
+    ScienceDaily : https://www.sciencedaily.com/releases/2026/09/260918024808.htm
+
+Genere automatiquement par Culture G.</description>
+      <itunes:summary>Un rapport militaire généré par IA a inventé une cargaison nucléaire chinoise, frôlant l'escalade armée. Pendant ce temps, des documents de justice révèlent les tensions internes entre Microsoft et OpenAI sur le droit d'auteur.
+
+Sources de cet episode :
+
+- Une hallucination d'IA manque de provoquer un affrontement militaire entre Washington et Pékin
+    Numerama : https://www.numerama.com/cyberguerre/2336305-un-rapport-de-renseignement-ecrit-avec-une-ia-a-failli-declencher-une-crise-militaire-entre-les-etats-unis-et-la-chine.html
+    Ars Technica : https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/
+    Hacker News : https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship
+- « Le plus grand vol de l'histoire » : la phrase choc du directeur scientifique de Microsoft sur OpenAI
+    Next.ink : https://next.ink/257017/un-vol-dune-ampleur-sans-precedent-les-documents-qui-fragilisent-openai/
+    Hacker News : https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/
+- Agents IA hors de contrôle : quand les modèles dérapent ou s'entrepiratent
+    Ars Technica : https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/
+    Next.ink : https://next.ink/256928/chez-openai-six-nouveaux-exemples-dagents-desalignes-dont-un-sest-servi-de-gofile/
+- L'ablitération : comprendre la méthode mathématique pour débrider une IA
+    Next.ink : https://next.ink/256777/ablation-abliteration-cest-quoi-cette-technique-pour-debrider-les-ia-generatives/
+- Matière exotique : tester la gravité d'Einstein grâce au muonium
+    ScienceDaily : https://www.sciencedaily.com/releases/2026/09/260918024808.htm
+
+Genere automatiquement par Culture G.</itunes:summary>
+      <itunes:subtitle>Un rapport militaire généré par IA a inventé une cargaison nucléaire chinoise, frôlant l'escalade armée. Pendant ce temps, des documents de justice révèlent les tensions internes entre Microsoft et OpenAI sur le droit d'auteur.</itunes:subtitle>
+      <itunes:duration>00:13:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://scadagoal.github.io/culture-g/episodes/2026-09-19.mp3" length="6243309" type="audio/mpeg"/>
+    </item>
     <item>
       <title>Mistral s'invite dans Firefox et OpenAI active la pub interactive</title>
       <link>https://scadagoal.github.io/culture-g/</link>
