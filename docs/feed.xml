@@ -8,7 +8,7 @@
     <atom:link href="https://scadagoal.github.io/culture-g/feed.xml" rel="self" type="application/rss+xml"/>
     <language>fr-FR</language>
     <description>Un condense quotidien de l'actualite de l'intelligence artificielle, de la tech et de la science, monte en dialogue et genere automatiquement. L'IA en fil rouge, mais on ouvre large : histoire, sciences dures, societe.</description>
-    <lastBuildDate>Sat, 19 Sep 2026 08:35:25 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 08:58:54 +0000</lastBuildDate>
     <generator>Culture G</generator>
     <itunes:author>Culture G</itunes:author>
     <itunes:subtitle>Votre veille IA, tech et science, chaque matin</itunes:subtitle>
@@ -20,6 +20,49 @@
     <itunes:owner>
       <itunes:name>Culture G</itunes:name>
     </itunes:owner>
+    <item>
+      <title>Code de 1918 cassé par l'IA et révolution sous le capot d'Apple</title>
+      <link>https://scadagoal.github.io/culture-g/</link>
+      <guid isPermaLink="false">culture-g-2026-09-20</guid>
+      <pubDate>Sun, 20 Sep 2026 08:50:59 +0000</pubDate>
+      <description>Un modèle d'IA perce un cryptogramme militaire vieux d'un siècle tandis qu'Apple transforme l'iPhone en majordome universel. Tour d'horizon complet avec la découverte du 47e système de groupe sanguin et les pièges mathématiques du Loto.
+
+Sources de cet episode :
+
+- GPT-6 Astra casse un code secret de la Première Guerre mondiale
+    Hacker News : https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio
+- L'iPhone s'efface devant l'agent IA : le pari de l'OS-majordome
+    Grand Angle Nova : https://www.youtube.com/watch?v=AuNt6JEo5P8
+- Agents IA déviants et 'AI Doomers' : les nouveaux défis de l'alignement
+    Numerama : https://www.numerama.com/cyberguerre/2336053-un-agent-openai-sinvente-un-personnage-libre-revolut-piegee-par-un-faux-mail-et-les-geants-de-lia-qui-veulent-ralentir-on-vous-raconte-la-semaine-cyberguerre.html
+- Mystère résolu après 50 ans : la découverte d'un nouveau groupe sanguin
+    ScienceDaily : https://www.sciencedaily.com/releases/2026/09/260918024828.htm
+- La grille 1-2-3-4-5-6 au Loto : pourquoi notre cerveau refuse de comprendre le hasard
+    Numerama : https://www.numerama.com/sciences/2335765-notre-cerveau-refuse-de-ladmettre-et-se-trompe-completement-mais-au-loto-la-grille-1-2-3-4-5-6-na-rien-de-special.html
+
+Genere automatiquement par Culture G.</description>
+      <itunes:summary>Un modèle d'IA perce un cryptogramme militaire vieux d'un siècle tandis qu'Apple transforme l'iPhone en majordome universel. Tour d'horizon complet avec la découverte du 47e système de groupe sanguin et les pièges mathématiques du Loto.
+
+Sources de cet episode :
+
+- GPT-6 Astra casse un code secret de la Première Guerre mondiale
+    Hacker News : https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio
+- L'iPhone s'efface devant l'agent IA : le pari de l'OS-majordome
+    Grand Angle Nova : https://www.youtube.com/watch?v=AuNt6JEo5P8
+- Agents IA déviants et 'AI Doomers' : les nouveaux défis de l'alignement
+    Numerama : https://www.numerama.com/cyberguerre/2336053-un-agent-openai-sinvente-un-personnage-libre-revolut-piegee-par-un-faux-mail-et-les-geants-de-lia-qui-veulent-ralentir-on-vous-raconte-la-semaine-cyberguerre.html
+- Mystère résolu après 50 ans : la découverte d'un nouveau groupe sanguin
+    ScienceDaily : https://www.sciencedaily.com/releases/2026/09/260918024828.htm
+- La grille 1-2-3-4-5-6 au Loto : pourquoi notre cerveau refuse de comprendre le hasard
+    Numerama : https://www.numerama.com/sciences/2335765-notre-cerveau-refuse-de-ladmettre-et-se-trompe-completement-mais-au-loto-la-grille-1-2-3-4-5-6-na-rien-de-special.html
+
+Genere automatiquement par Culture G.</itunes:summary>
+      <itunes:subtitle>Un modèle d'IA perce un cryptogramme militaire vieux d'un siècle tandis qu'Apple transforme l'iPhone en majordome universel. Tour d'horizon complet avec la découverte du 47e système de groupe sanguin et les pièges mathématiques du Loto.</itunes:subtitle>
+      <itunes:duration>00:12:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://scadagoal.github.io/culture-g/episodes/2026-09-20.mp3" length="5759469" type="audio/mpeg"/>
+    </item>
     <item>
       <title>L'IA manque de déclencher une crise militaire US-Chine</title>
       <link>https://scadagoal.github.io/culture-g/</link>
