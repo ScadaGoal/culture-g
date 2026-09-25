@@ -8,7 +8,7 @@
     <atom:link href="https://scadagoal.github.io/culture-g/feed.xml" rel="self" type="application/rss+xml"/>
     <language>fr-FR</language>
     <description>Un condense quotidien de l'actualite de l'intelligence artificielle, de la tech et de la science, monte en dialogue et genere automatiquement. L'IA en fil rouge, mais on ouvre large : histoire, sciences dures, societe.</description>
-    <lastBuildDate>Wed, 23 Sep 2026 08:59:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 09:37:10 +0000</lastBuildDate>
     <generator>Culture G</generator>
     <itunes:author>Culture G</itunes:author>
     <itunes:subtitle>Votre veille IA, tech et science, chaque matin</itunes:subtitle>
@@ -20,6 +20,51 @@
     <itunes:owner>
       <itunes:name>Culture G</itunes:name>
     </itunes:owner>
+    <item>
+      <title>Gemini 3.8 Live, Claude génétique et puces spatiales</title>
+      <link>https://scadagoal.github.io/culture-g/</link>
+      <guid isPermaLink="false">culture-g-2026-09-25</guid>
+      <pubDate>Fri, 25 Sep 2026 09:32:16 +0000</pubDate>
+      <description>Google DeepMind dévoile des avatars animés en temps réel pendant que le modèle Claude découvre une structure génétique inédite chez des virus. On fait aussi le point sur les premières puces IA envoyées dans l'espace et sur ces bactéries qui prolongent la vie de vers.
+
+Sources de cet episode :
+
+- Google DeepMind dévoile Gemini 3.8 Live et ses avatars interactifs
+    Google DeepMind : https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/
+- Quand Claude découvre un système génétique inconnu dans l'ADN des phages
+    Numerama : https://www.numerama.com/tech/2339397-anthropic-a-trouve-un-systeme-inconnu-dans-ladn-de-bacteriophages-mais-ne-sait-pas-trop-ce-quil-fait-vraiment.html
+- Project Suncatcher : Google teste ses premières puces IA en orbite
+    Numerama : https://www.numerama.com/tech/2340107-google-envoie-ses-premieres-puces-ia-dans-lespace-avec-spacex-pour-tester-son-projet-de-data-center-orbital.html
+    Ars Technica : https://arstechnica.com/google/2026/09/googles-first-suncatcher-orbital-data-center-test-launches-october-1/
+- Des évaluateurs d'OpenAI licenciés... pour avoir sous-traité leur travail à l'IA
+    Numerama : https://www.numerama.com/tech/2340111-ils-devaient-ameliorer-lia-dopenai-mais-ont-ete-vires-pour-avoir-utilise-de-lia.html
+- Des bactéries magnétiques prolongent la vie de vers de 43 %
+    ScienceDaily : https://www.sciencedaily.com/releases/2026/09/260924020357.htm
+
+Genere automatiquement par Culture G.</description>
+      <itunes:summary>Google DeepMind dévoile des avatars animés en temps réel pendant que le modèle Claude découvre une structure génétique inédite chez des virus. On fait aussi le point sur les premières puces IA envoyées dans l'espace et sur ces bactéries qui prolongent la vie de vers.
+
+Sources de cet episode :
+
+- Google DeepMind dévoile Gemini 3.8 Live et ses avatars interactifs
+    Google DeepMind : https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/
+- Quand Claude découvre un système génétique inconnu dans l'ADN des phages
+    Numerama : https://www.numerama.com/tech/2339397-anthropic-a-trouve-un-systeme-inconnu-dans-ladn-de-bacteriophages-mais-ne-sait-pas-trop-ce-quil-fait-vraiment.html
+- Project Suncatcher : Google teste ses premières puces IA en orbite
+    Numerama : https://www.numerama.com/tech/2340107-google-envoie-ses-premieres-puces-ia-dans-lespace-avec-spacex-pour-tester-son-projet-de-data-center-orbital.html
+    Ars Technica : https://arstechnica.com/google/2026/09/googles-first-suncatcher-orbital-data-center-test-launches-october-1/
+- Des évaluateurs d'OpenAI licenciés... pour avoir sous-traité leur travail à l'IA
+    Numerama : https://www.numerama.com/tech/2340111-ils-devaient-ameliorer-lia-dopenai-mais-ont-ete-vires-pour-avoir-utilise-de-lia.html
+- Des bactéries magnétiques prolongent la vie de vers de 43 %
+    ScienceDaily : https://www.sciencedaily.com/releases/2026/09/260924020357.htm
+
+Genere automatiquement par Culture G.</itunes:summary>
+      <itunes:subtitle>Google DeepMind dévoile des avatars animés en temps réel pendant que le modèle Claude découvre une structure génétique inédite chez des virus. On fait aussi le point sur les premières puces IA envoyées dans l'espace et sur ces bactéries qui prolongent la </itunes:subtitle>
+      <itunes:duration>00:11:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://scadagoal.github.io/culture-g/episodes/2026-09-25.mp3" length="5615277" type="audio/mpeg"/>
+    </item>
     <item>
       <title>Modèles bradés, Enigma vaincue et bavure algorithmique</title>
       <link>https://scadagoal.github.io/culture-g/</link>

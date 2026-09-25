@@ -1,5 +1,15 @@
 [
   {
+    "slug": "2026-09-25",
+    "title": "Gemini 3.8 Live, Claude génétique et puces spatiales",
+    "teaser": "Google DeepMind dévoile des avatars animés en temps réel pendant que le modèle Claude découvre une structure génétique inédite chez des virus. On fait aussi le point sur les premières puces IA envoyées dans l'espace et sur ces bactéries qui prolongent la vie de vers.",
+    "notes": "Sources de cet episode :\n\n- Google DeepMind dévoile Gemini 3.8 Live et ses avatars interactifs\n    Google DeepMind : https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/\n- Quand Claude découvre un système génétique inconnu dans l'ADN des phages\n    Numerama : https://www.numerama.com/tech/2339397-anthropic-a-trouve-un-systeme-inconnu-dans-ladn-de-bacteriophages-mais-ne-sait-pas-trop-ce-quil-fait-vraiment.html\n- Project Suncatcher : Google teste ses premières puces IA en orbite\n    Numerama : https://www.numerama.com/tech/2340107-google-envoie-ses-premieres-puces-ia-dans-lespace-avec-spacex-pour-tester-son-projet-de-data-center-orbital.html\n    Ars Technica : https://arstechnica.com/google/2026/09/googles-first-suncatcher-orbital-data-center-test-launches-october-1/\n- Des évaluateurs d'OpenAI licenciés... pour avoir sous-traité leur travail à l'IA\n    Numerama : https://www.numerama.com/tech/2340111-ils-devaient-ameliorer-lia-dopenai-mais-ont-ete-vires-pour-avoir-utilise-de-lia.html\n- Des bactéries magnétiques prolongent la vie de vers de 43 %\n    ScienceDaily : https://www.sciencedaily.com/releases/2026/09/260924020357.htm\n\nGenere automatiquement par Culture G.",
+    "audio": "2026-09-25.mp3",
+    "bytes": 5615277,
+    "duration": 701.84,
+    "published": "2026-09-25T09:32:16.832691+00:00"
+  },
+  {
     "slug": "2026-09-23",
     "title": "Modèles bradés, Enigma vaincue et bavure algorithmique",
     "teaser": "OpenAI et Anthropic déclenchent une guerre des prix inédite sur leurs modèles phares pendant qu'un système d'IA résout une énigme cryptographique vieille de quatre-vingts ans. Nous analyserons aussi le premier rapport officiel du Pentagone admettant une frappe tragique causée par la surconfiance dans un algorithme.",
