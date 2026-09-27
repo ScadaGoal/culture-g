@@ -14,6 +14,7 @@ import logging
 import os
 import re
 import sys
+import time
 from datetime import datetime, timezone
 
 from . import config
@@ -170,16 +171,32 @@ def run(args: argparse.Namespace) -> int:
     if args.from_script:
         return cmd_from_script(paths, args.from_script, args.out)
 
+    slug = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+    if args.skip_if_published and os.path.exists(os.path.join(paths.episodes, f"{slug}.mp3")):
+        # Le workflow se declenche plusieurs fois par nuit pour contourner les retards
+        # de planification de GitHub : seul le premier run qui aboutit produit l'episode.
+        log.info("Episode du %s deja publie : rien a faire.", slug)
+        return 0
+
+    started = time.monotonic()
+
+    def step(name: str) -> None:
+        # Chrono cumule dans les logs : sans lui, un run coupe par le timeout ne dit
+        # pas quelle etape a devore le temps.
+        log.info(">>> %s (t+%.1f min)", name, (time.monotonic() - started) / 60)
+
     client = make_client()
     models = resolve_all(client, paths.state, refresh=args.refresh_models)
     log.info("Modeles : %s", ", ".join(f"{k}={v}" for k, v in models.items()))
 
+    step("collecte")
     # 1. Collecte -------------------------------------------------------------
     items = collect(paths.state, args.since, apply_seen=not args.ignore_seen)
     if not items:
         log.info("Aucune nouveaute sur la fenetre demandee. Pas d'episode aujourd'hui.")
         return 0
 
+    step("curation")
     # 2. Curation -------------------------------------------------------------
     selection = curate(client, models["curate"], items, use_grounding=not args.no_grounding)
     if not selection.topics:
@@ -188,12 +205,15 @@ def run(args: argparse.Namespace) -> int:
     if args.verbose:
         log.info("Selection :\n%s", dump_selection(selection))
 
+    step("analyse")
     # 3. Analyse --------------------------------------------------------------
     dossiers = digest(client, models["digest"], selection.topics, items)
 
+    step("ecriture")
     # 4. Ecriture -------------------------------------------------------------
     episode = write_script(client, models["script"], selection.headline, dossiers)
 
+    step("verification")
     # 5. Verification factuelle -----------------------------------------------
     if not args.no_verify:
         episode.script, corrections = verify(
@@ -208,7 +228,6 @@ def run(args: argparse.Namespace) -> int:
     notes = show_notes(dossiers)
 
     today = datetime.now(timezone.utc)
-    slug = today.strftime("%Y-%m-%d")
 
     script_path = os.path.join(paths.state, f"script-{slug}.txt")
     with open(script_path, "w", encoding="utf-8") as fh:
@@ -234,11 +253,13 @@ def run(args: argparse.Namespace) -> int:
         log.info("Mode dry-run : synthese vocale et publication ignorees.")
         return 0
 
+    step("synthese vocale")
     # 5. Synthese vocale ------------------------------------------------------
     audio_name = f"{slug}.mp3"
     audio_path = os.path.join(paths.episodes, audio_name)
     duration = synthesize(client, models["tts"], episode.script, audio_path)
 
+    step("publication")
     # 6. Publication ----------------------------------------------------------
     episodes = register(
         paths.docs,
@@ -276,6 +297,8 @@ def main(argv: list[str] | None = None) -> int:
                         help="ne pas filtrer les items deja traites")
     parser.add_argument("--no-grounding", action="store_true",
                         help="desactiver la veille par recherche web")
+    parser.add_argument("--skip-if-published", action="store_true",
+                        help="ne rien faire si l'episode du jour existe deja")
     parser.add_argument("--no-verify", action="store_true",
                         help="sauter la verification factuelle du script")
     parser.add_argument("--refresh-models", action="store_true",

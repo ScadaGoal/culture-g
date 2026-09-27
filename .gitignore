@@ -14,3 +14,6 @@ docs/episodes/essai-*.mp3
 
 # Artefacts OneDrive
 desktop.ini
+
+# Journal du dernier run, archive par le workflow en cas d echec
+state/run.log

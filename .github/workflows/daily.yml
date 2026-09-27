@@ -2,13 +2,14 @@ name: Episode quotidien
 
 on:
   schedule:
-    # 03:23 UTC = 05:23 Paris en heure d'ete, 04:23 en hiver. Avec ~15 min de
-    # generation, l'episode est publie vers 05:40, largement avant le premier trajet.
-    #
-    # La minute n'est pas ronde a dessein : GitHub execute les taches planifiees au
-    # mieux, et la file d'attente est encombree a chaque heure pile, ou tout le monde
-    # planifie. Une minute decalee reduit nettement le retard constate.
-    - cron: "23 3 * * *"
+    # Trois declenchements par nuit (UTC). GitHub execute les taches planifiees "au
+    # mieux" : on a mesure jusqu'a 5 h de retard sur un cron unique. Le premier run
+    # qui aboutit publie l'episode ; les suivants constatent qu'il existe et s'arretent
+    # en quelques secondes (--skip-if-published). Ils rattrapent aussi un run echoue.
+    # Minutes non rondes : la file d'attente de GitHub est encombree a l'heure pile.
+    - cron: "23 0 * * *"
+    - cron: "23 2 * * *"
+    - cron: "23 4 * * *"
   workflow_dispatch:
     inputs:
       since:
@@ -32,7 +33,9 @@ permissions:
 jobs:
   episode:
     runs-on: ubuntu-latest
-    timeout-minutes: 45
+    # La generation atteint 43 min certains jours : l'ancien plafond de 45 min coupait
+    # un run sur trois juste avant la publication, et tout le travail etait perdu.
+    timeout-minutes: 100
 
     steps:
       - uses: actions/checkout@v4
@@ -55,9 +58,11 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           GITHUB_REPOSITORY: ${{ github.repository }}
         run: |
+          set -o pipefail
           python -m culture_g.run \
             --since "${{ inputs.since || '26h' }}" \
-            ${{ inputs.dry_run && '--dry-run' || '' }}
+            ${{ github.event_name == 'schedule' && '--skip-if-published' || '' }} \
+            ${{ inputs.dry_run && '--dry-run' || '' }} 2>&1 | tee state/run.log
 
       - name: Publier
         run: |
@@ -74,12 +79,15 @@ jobs:
           git pull --rebase --autostash origin "${GITHUB_REF_NAME}"
           git push
 
-      - name: Archiver le script en cas d'echec
-        if: failure()
+      # Aussi sur annulation (timeout) : c'est justement le cas ou l'on a besoin du
+      # journal chronometre pour savoir quelle etape a devore le temps.
+      - name: Archiver le diagnostic en cas d'echec
+        if: failure() || cancelled()
         uses: actions/upload-artifact@v4
         with:
           name: diagnostic
           path: |
+            state/run.log
             state/script-*.txt
             state/models.json
           retention-days: 7
