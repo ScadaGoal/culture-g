@@ -198,7 +198,10 @@ def run(args: argparse.Namespace) -> int:
 
     step("curation")
     # 2. Curation -------------------------------------------------------------
-    selection = curate(client, models["curate"], items, use_grounding=not args.no_grounding)
+    selection = curate(
+        client, models["curate"], items,
+        use_grounding=not args.no_grounding, grounding_model=models.get("grounding"),
+    )
     if not selection.topics:
         log.info("Aucun sujet n'a passe la selection editoriale. Pas d'episode.")
         return 0

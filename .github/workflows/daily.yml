@@ -7,9 +7,14 @@ on:
     # qui aboutit publie l'episode ; les suivants constatent qu'il existe et s'arretent
     # en quelques secondes (--skip-if-published). Ils rattrapent aussi un run echoue.
     # Minutes non rondes : la file d'attente de GitHub est encombree a l'heure pile.
+    #
+    # Le quota Gemini gratuit se remet a zero a minuit heure du Pacifique, soit 07:00
+    # UTC l'ete et 08:00 UTC l'hiver. Les rattrapages tombent donc apres 08:00 UTC :
+    # places dans la nuit, ils puisaient dans le quota que le premier run venait
+    # d'epuiser, et echouaient a coup sur.
     - cron: "23 0 * * *"
-    - cron: "23 2 * * *"
-    - cron: "23 4 * * *"
+    - cron: "23 8 * * *"
+    - cron: "23 11 * * *"
   workflow_dispatch:
     inputs:
       since:

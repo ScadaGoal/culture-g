@@ -18,6 +18,12 @@ from typing import Any, Callable, Iterable
 
 log = logging.getLogger(__name__)
 
+FLASH_LITE = [
+    "gemini-3.5-flash-lite",
+    "gemini-3.1-flash-lite",
+    "gemini-flash-lite-latest",
+]
+
 # Cascades de candidats, du plus souhaitable au plus degrade. La resolution retient
 # le premier disponible sur le compte.
 CANDIDATES: dict[str, list[str]] = {
@@ -28,32 +34,48 @@ CANDIDATES: dict[str, list[str]] = {
     #  - gemini-3.7-flash sature vite (20 requetes/jour), il sert de secours et non
     #    de choix par defaut.
     # gemini-3.6-flash est le compromis recommande par l'API elle-meme.
+    #
+    # Le quota gratuit est compte par modele et par jour (~20 requetes pour un Flash,
+    # ~500 pour un Flash-Lite, remise a zero a minuit heure du Pacifique). D'ou :
+    #  - chaque etape a un Flash de tete different, pour ne pas vider un seul compteur ;
+    #  - les Flash-Lite ferment chaque cascade : un episode un peu moins fin vaut mieux
+    #    que pas d'episode du tout le jour ou les Flash sont a sec.
     "curate": [
         "gemini-3.6-flash",
         "gemini-3.7-flash",
         "gemini-flash-latest",
         "gemini-3.5-flash",
+        *FLASH_LITE,
     ],
+    # Cinq appels par jour : l'etape la plus gourmande, sur son propre compteur.
     "digest": [
         "gemini-3.6-flash",
-        "gemini-3.7-flash",
-        "gemini-flash-latest",
         "gemini-3.5-flash",
+        "gemini-flash-latest",
+        "gemini-3.7-flash",
+        *FLASH_LITE,
     ],
     # Un seul appel par jour : on peut se permettre le modele le plus capable en tete.
     "script": [
+        "gemini-3.8-flash",
         "gemini-3.7-flash",
         "gemini-3.6-flash",
         "gemini-flash-latest",
         "gemini-3.5-flash",
+        *FLASH_LITE,
     ],
     # Verification factuelle : tache de comparaison minutieuse, un appel par jour.
+    # Elle passe avant tout sur un compteur que l'analyse n'a pas entame.
     "verify": [
-        "gemini-3.6-flash",
         "gemini-3.7-flash",
+        "gemini-3.8-flash",
+        "gemini-3.6-flash",
         "gemini-flash-latest",
         "gemini-3.5-flash",
+        *FLASH_LITE,
     ],
+    # Veille par recherche web : un bonus, qui ne doit pas entamer le quota des Flash.
+    "grounding": [*FLASH_LITE],
     # Synthese vocale multi-locuteurs.
     "tts": [
         "gemini-3.1-flash-tts-preview",
@@ -89,7 +111,9 @@ def resolve_all(client: Any, state_dir: str, refresh: bool = False) -> dict[str,
         try:
             with open(cache, encoding="utf-8") as fh:
                 data = json.load(fh)
-            if set(data) >= set(CANDIDATES):
+            # Cache perime des que les cascades changent : sinon une modification de
+            # CANDIDATES resterait lettre morte tant que le fichier existe.
+            if data.pop("_candidates", None) == CANDIDATES and set(data) >= set(CANDIDATES):
                 return data
         except (OSError, json.JSONDecodeError):
             pass
@@ -107,7 +131,7 @@ def resolve_all(client: Any, state_dir: str, refresh: bool = False) -> dict[str,
 
     os.makedirs(state_dir, exist_ok=True)
     with open(cache, "w", encoding="utf-8") as fh:
-        json.dump(chosen, fh, indent=2)
+        json.dump({**chosen, "_candidates": CANDIDATES}, fh, indent=2)
     return chosen
 
 
@@ -123,6 +147,7 @@ def ladder(stage: str, resolved: str) -> list[str]:
 def make_client() -> Any:
     """Client Gemini construit depuis GEMINI_API_KEY."""
     from google import genai
+    from google.genai import types
 
     key = os.environ.get("GEMINI_API_KEY") or os.environ.get("GOOGLE_API_KEY")
     if not key:
@@ -132,11 +157,25 @@ def make_client() -> Any:
             "  Actions : ajoute-la dans Settings > Secrets and variables > Actions.\n"
             "  La cle se cree sur https://aistudio.google.com/apikey (gratuit)."
         )
-    return genai.Client(api_key=key)
+    # Le SDK rejoue de lui-meme les 429, en silence et avec son propre backoff : sur un
+    # quota journalier epuise, chaque appel mettait ainsi ~2 min a echouer, et un run a
+    # atteint le timeout sans rien produire. Les reessais sont geres ici (with_retry),
+    # le SDK ne rejoue plus que les 503 passagers.
+    return genai.Client(
+        api_key=key,
+        http_options=types.HttpOptions(
+            retry_options=types.HttpRetryOptions(attempts=1, http_status_codes=[503]),
+        ),
+    )
 
 
 _RETRY_AFTER = re.compile(r"retry in ([\d.]+)s", re.I)
 _ZERO_QUOTA = re.compile(r"limit:\s*0\b")
+_DAILY_QUOTA = re.compile(r"per\s*day|perday", re.I)
+
+# Modeles dont le quota a lache pendant ce run. On ne les resollicite plus : chaque
+# sujet redescendait sinon toute la cascade en 429 avant d'atteindre un modele vivant.
+_exhausted: set[str] = set()
 
 
 def _is_retryable(exc: Exception) -> bool:
@@ -151,6 +190,16 @@ def is_unavailable(exc: Exception) -> bool:
     il est inexistant. Reessayer ne changera rien, il faut passer au modele suivant.
     """
     return bool(_ZERO_QUOTA.search(str(exc)))
+
+
+def _is_rate_limit(exc: Exception) -> bool:
+    blob = f"{type(exc).__name__} {exc}".lower()
+    return any(t in blob for t in ("429", "ratelimit", "resource_exhausted", "too_many_requests"))
+
+
+def is_daily_quota(exc: Exception) -> bool:
+    """Vrai quand c'est le quota du jour qui est epuise : attendre ne sert a rien."""
+    return _is_rate_limit(exc) and bool(_DAILY_QUOTA.search(str(exc)))
 
 
 def _suggested_delay(exc: Exception) -> float | None:
@@ -183,6 +232,9 @@ def with_retry(
             if is_unavailable(exc):
                 log.warning("%s : modele indisponible sur ce compte (quota nul).", label)
                 raise
+            if is_daily_quota(exc):
+                log.warning("%s : quota du jour epuise.", label)
+                raise
             if not _is_retryable(exc) or attempt == attempts:
                 raise
             hinted = _suggested_delay(exc)
@@ -213,9 +265,14 @@ def try_models(
     """
     errors: list[str] = []
     for model_id in model_ids:
+        if model_id in _exhausted:
+            errors.append(f"{model_id} (quota epuise plus tot dans ce run)")
+            continue
         try:
             return with_retry(lambda: call(model_id), label=f"{label} [{model_id}]")
         except Exception as exc:
+            if _is_rate_limit(exc):
+                _exhausted.add(model_id)
             reason = "quota nul sur ce compte" if is_unavailable(exc) else type(exc).__name__
             # Le message complet est conserve : sur une erreur de requete, seul le
             # detail renvoye par l'API permet de comprendre ce qui est refuse.

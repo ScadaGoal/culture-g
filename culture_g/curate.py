@@ -97,12 +97,13 @@ def curate(
     items: list[Item],
     *,
     use_grounding: bool = True,
+    grounding_model: str | None = None,
 ) -> Selection:
     """Choisit et hierarchise les sujets du jour."""
     if not items:
         raise ValueError("Aucun item collecte : rien a curer.")
 
-    extra = _grounding_sweep(client, model) if use_grounding else ""
+    extra = _grounding_sweep(client, grounding_model or model) if use_grounding else ""
     lo, hi = config.TARGET_MINUTES
 
     system = (
