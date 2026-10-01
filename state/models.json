@@ -1,7 +1,58 @@
 {
   "curate": "gemini-3.6-flash",
   "digest": "gemini-3.6-flash",
-  "script": "gemini-3.7-flash",
-  "verify": "gemini-3.6-flash",
-  "tts": "gemini-3.1-flash-tts-preview"
+  "script": "gemini-3.8-flash",
+  "verify": "gemini-3.7-flash",
+  "grounding": "gemini-3.5-flash-lite",
+  "tts": "gemini-3.1-flash-tts-preview",
+  "_candidates": {
+    "curate": [
+      "gemini-3.6-flash",
+      "gemini-3.7-flash",
+      "gemini-flash-latest",
+      "gemini-3.5-flash",
+      "gemini-3.5-flash-lite",
+      "gemini-3.1-flash-lite",
+      "gemini-flash-lite-latest"
+    ],
+    "digest": [
+      "gemini-3.6-flash",
+      "gemini-3.5-flash",
+      "gemini-flash-latest",
+      "gemini-3.7-flash",
+      "gemini-3.5-flash-lite",
+      "gemini-3.1-flash-lite",
+      "gemini-flash-lite-latest"
+    ],
+    "script": [
+      "gemini-3.8-flash",
+      "gemini-3.7-flash",
+      "gemini-3.6-flash",
+      "gemini-flash-latest",
+      "gemini-3.5-flash",
+      "gemini-3.5-flash-lite",
+      "gemini-3.1-flash-lite",
+      "gemini-flash-lite-latest"
+    ],
+    "verify": [
+      "gemini-3.7-flash",
+      "gemini-3.8-flash",
+      "gemini-3.6-flash",
+      "gemini-flash-latest",
+      "gemini-3.5-flash",
+      "gemini-3.5-flash-lite",
+      "gemini-3.1-flash-lite",
+      "gemini-flash-lite-latest"
+    ],
+    "grounding": [
+      "gemini-3.5-flash-lite",
+      "gemini-3.1-flash-lite",
+      "gemini-flash-lite-latest"
+    ],
+    "tts": [
+      "gemini-3.1-flash-tts-preview",
+      "gemini-2.5-flash-preview-tts",
+      "gemini-2.5-pro-preview-tts"
+    ]
+  }
 }

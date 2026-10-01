@@ -1,5 +1,15 @@
 [
   {
+    "slug": "2026-10-01",
+    "title": "Google frappe fort avec Gemini 4 Argon",
+    "teaser": "Au programme aujourd'hui, Google saute une génération avec son nouveau modèle Gemini 4 Argon, OpenAI bloque une attaque industrielle ciblée, et Singapour tente de marier ses citoyens par les mathématiques.",
+    "notes": "Sources de cet episode :\n\n- Gemini 4 Argon : Google dégaine son nouveau poids lourd face à OpenAI et Anthropic\n    Google DeepMind : https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/\n    Numerama : https://www.numerama.com/tech/2344493-google-annonce-gemini-4-argon-et-revendique-des-meilleurs-resultats-quopenai-et-anthropic.html\n    Ars Technica : https://arstechnica.com/google/2026/09/google-announces-gemini-4-argon-ai-model-but-you-cant-use-it-yet/\n    Hacker News : https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/\n- Guerre secrète de l'IA : OpenAI neutralise une vaste opération de siphonnage de raisonnement\n    OpenAI : https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign\n    Ars Technica : https://arstechnica.com/ai/2026/09/openai-delays-ipo-over-ai-safety-concerns/\n- SynthID Bio : DeepMind invente le filigrane invisible pour protéines synthétiques\n    Google DeepMind : https://deepmind.google/blog/introducing-synthid-bio/\n    Ars Technica : https://arstechnica.com/science/2026/09/google-figures-out-how-to-watermark-ai-designed-proteins/\n- L'amour algorithmique : quand Singapour marie ses citoyens avec le théorème de Gale-Shapley\n    Hacker News : https://twitter.com/tuakdotsol/status/2105105417760391258\n\nGenere automatiquement par Culture G.",
+    "audio": "2026-10-01.mp3",
+    "bytes": 5351853,
+    "duration": 668.92,
+    "published": "2026-10-01T06:23:04.397250+00:00"
+  },
+  {
     "slug": "2026-09-25",
     "title": "Gemini 3.8 Live, Claude génétique et puces spatiales",
     "teaser": "Google DeepMind dévoile des avatars animés en temps réel pendant que le modèle Claude découvre une structure génétique inédite chez des virus. On fait aussi le point sur les premières puces IA envoyées dans l'espace et sur ces bactéries qui prolongent la vie de vers.",

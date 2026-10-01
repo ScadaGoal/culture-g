@@ -8,7 +8,7 @@
     <atom:link href="https://scadagoal.github.io/culture-g/feed.xml" rel="self" type="application/rss+xml"/>
     <language>fr-FR</language>
     <description>Un condense quotidien de l'actualite de l'intelligence artificielle, de la tech et de la science, monte en dialogue et genere automatiquement. L'IA en fil rouge, mais on ouvre large : histoire, sciences dures, societe.</description>
-    <lastBuildDate>Fri, 25 Sep 2026 09:37:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 06:27:27 +0000</lastBuildDate>
     <generator>Culture G</generator>
     <itunes:author>Culture G</itunes:author>
     <itunes:subtitle>Votre veille IA, tech et science, chaque matin</itunes:subtitle>
@@ -20,6 +20,55 @@
     <itunes:owner>
       <itunes:name>Culture G</itunes:name>
     </itunes:owner>
+    <item>
+      <title>Google frappe fort avec Gemini 4 Argon</title>
+      <link>https://scadagoal.github.io/culture-g/</link>
+      <guid isPermaLink="false">culture-g-2026-10-01</guid>
+      <pubDate>Thu, 01 Oct 2026 06:23:04 +0000</pubDate>
+      <description>Au programme aujourd'hui, Google saute une génération avec son nouveau modèle Gemini 4 Argon, OpenAI bloque une attaque industrielle ciblée, et Singapour tente de marier ses citoyens par les mathématiques.
+
+Sources de cet episode :
+
+- Gemini 4 Argon : Google dégaine son nouveau poids lourd face à OpenAI et Anthropic
+    Google DeepMind : https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/
+    Numerama : https://www.numerama.com/tech/2344493-google-annonce-gemini-4-argon-et-revendique-des-meilleurs-resultats-quopenai-et-anthropic.html
+    Ars Technica : https://arstechnica.com/google/2026/09/google-announces-gemini-4-argon-ai-model-but-you-cant-use-it-yet/
+    Hacker News : https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/
+- Guerre secrète de l'IA : OpenAI neutralise une vaste opération de siphonnage de raisonnement
+    OpenAI : https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign
+    Ars Technica : https://arstechnica.com/ai/2026/09/openai-delays-ipo-over-ai-safety-concerns/
+- SynthID Bio : DeepMind invente le filigrane invisible pour protéines synthétiques
+    Google DeepMind : https://deepmind.google/blog/introducing-synthid-bio/
+    Ars Technica : https://arstechnica.com/science/2026/09/google-figures-out-how-to-watermark-ai-designed-proteins/
+- L'amour algorithmique : quand Singapour marie ses citoyens avec le théorème de Gale-Shapley
+    Hacker News : https://twitter.com/tuakdotsol/status/2105105417760391258
+
+Genere automatiquement par Culture G.</description>
+      <itunes:summary>Au programme aujourd'hui, Google saute une génération avec son nouveau modèle Gemini 4 Argon, OpenAI bloque une attaque industrielle ciblée, et Singapour tente de marier ses citoyens par les mathématiques.
+
+Sources de cet episode :
+
+- Gemini 4 Argon : Google dégaine son nouveau poids lourd face à OpenAI et Anthropic
+    Google DeepMind : https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/
+    Numerama : https://www.numerama.com/tech/2344493-google-annonce-gemini-4-argon-et-revendique-des-meilleurs-resultats-quopenai-et-anthropic.html
+    Ars Technica : https://arstechnica.com/google/2026/09/google-announces-gemini-4-argon-ai-model-but-you-cant-use-it-yet/
+    Hacker News : https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/
+- Guerre secrète de l'IA : OpenAI neutralise une vaste opération de siphonnage de raisonnement
+    OpenAI : https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign
+    Ars Technica : https://arstechnica.com/ai/2026/09/openai-delays-ipo-over-ai-safety-concerns/
+- SynthID Bio : DeepMind invente le filigrane invisible pour protéines synthétiques
+    Google DeepMind : https://deepmind.google/blog/introducing-synthid-bio/
+    Ars Technica : https://arstechnica.com/science/2026/09/google-figures-out-how-to-watermark-ai-designed-proteins/
+- L'amour algorithmique : quand Singapour marie ses citoyens avec le théorème de Gale-Shapley
+    Hacker News : https://twitter.com/tuakdotsol/status/2105105417760391258
+
+Genere automatiquement par Culture G.</itunes:summary>
+      <itunes:subtitle>Au programme aujourd'hui, Google saute une génération avec son nouveau modèle Gemini 4 Argon, OpenAI bloque une attaque industrielle ciblée, et Singapour tente de marier ses citoyens par les mathématiques.</itunes:subtitle>
+      <itunes:duration>00:11:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://scadagoal.github.io/culture-g/episodes/2026-10-01.mp3" length="5351853" type="audio/mpeg"/>
+    </item>
     <item>
       <title>Gemini 3.8 Live, Claude génétique et puces spatiales</title>
       <link>https://scadagoal.github.io/culture-g/</link>
