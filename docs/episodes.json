@@ -1,5 +1,15 @@
 [
   {
+    "slug": "2026-10-02",
+    "title": "Gemini 4 Argon, le cerveau en images et Napoléon décodé",
+    "teaser": "Google riposte face à OpenAI avec Gemini 4 Argon et un record d'un million de tokens en sortie. Pendant ce temps, l'IA traduit l'activité cérébrale en images et déchiffre une lettre militaire de 1809.",
+    "notes": "Sources de cet episode :\n\n- Google dévoile Gemini 4 Argon et son million de tokens en sortie\n    Next.ink : https://next.ink/259219/google-veut-revenir-dans-la-course-avec-gemini-4-argon-et-son-million-de-tokens-en-sortie/\n- Une IA reconstitue des images directement depuis des scans cérébraux\n    MIT Tech Review : https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/\n    MIT Tech Review : https://www.technologyreview.com/2026/10/01/1145592/the-download-ai-mind-reading-small-batteries/\n- Une lettre de 1809 adressée à un général de Napoléon décodée par l'IA\n    Numerama : https://www.numerama.com/tech/2344971-il-dechiffre-une-lettre-de-217-ans-adressee-a-un-general-de-napoleon-grace-a-lia.html\n- Le jeu Stratego et ses pièces cachées enfin vaincus par l'IA\n    Ars Technica : https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/\n- Pourquoi parler anglais aux LLM réduit vos factures et l'empreinte carbone\n    Next.ink : https://next.ink/259212/ia-generative-pour-reduire-vos-couts-et-votre-empreinte-parlez-anglais/\n\nGenere automatiquement par Culture G.",
+    "audio": "2026-10-02.mp3",
+    "bytes": 6661677,
+    "duration": 832.64,
+    "published": "2026-10-02T06:01:27.541555+00:00"
+  },
+  {
     "slug": "2026-10-01",
     "title": "Google frappe fort avec Gemini 4 Argon",
     "teaser": "Au programme aujourd'hui, Google saute une génération avec son nouveau modèle Gemini 4 Argon, OpenAI bloque une attaque industrielle ciblée, et Singapour tente de marier ses citoyens par les mathématiques.",

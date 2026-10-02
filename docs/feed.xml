@@ -8,7 +8,7 @@
     <atom:link href="https://scadagoal.github.io/culture-g/feed.xml" rel="self" type="application/rss+xml"/>
     <language>fr-FR</language>
     <description>Un condense quotidien de l'actualite de l'intelligence artificielle, de la tech et de la science, monte en dialogue et genere automatiquement. L'IA en fil rouge, mais on ouvre large : histoire, sciences dures, societe.</description>
-    <lastBuildDate>Thu, 01 Oct 2026 06:27:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 06:08:44 +0000</lastBuildDate>
     <generator>Culture G</generator>
     <itunes:author>Culture G</itunes:author>
     <itunes:subtitle>Votre veille IA, tech et science, chaque matin</itunes:subtitle>
@@ -20,6 +20,51 @@
     <itunes:owner>
       <itunes:name>Culture G</itunes:name>
     </itunes:owner>
+    <item>
+      <title>Gemini 4 Argon, le cerveau en images et Napoléon décodé</title>
+      <link>https://scadagoal.github.io/culture-g/</link>
+      <guid isPermaLink="false">culture-g-2026-10-02</guid>
+      <pubDate>Fri, 02 Oct 2026 06:01:27 +0000</pubDate>
+      <description>Google riposte face à OpenAI avec Gemini 4 Argon et un record d'un million de tokens en sortie. Pendant ce temps, l'IA traduit l'activité cérébrale en images et déchiffre une lettre militaire de 1809.
+
+Sources de cet episode :
+
+- Google dévoile Gemini 4 Argon et son million de tokens en sortie
+    Next.ink : https://next.ink/259219/google-veut-revenir-dans-la-course-avec-gemini-4-argon-et-son-million-de-tokens-en-sortie/
+- Une IA reconstitue des images directement depuis des scans cérébraux
+    MIT Tech Review : https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/
+    MIT Tech Review : https://www.technologyreview.com/2026/10/01/1145592/the-download-ai-mind-reading-small-batteries/
+- Une lettre de 1809 adressée à un général de Napoléon décodée par l'IA
+    Numerama : https://www.numerama.com/tech/2344971-il-dechiffre-une-lettre-de-217-ans-adressee-a-un-general-de-napoleon-grace-a-lia.html
+- Le jeu Stratego et ses pièces cachées enfin vaincus par l'IA
+    Ars Technica : https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/
+- Pourquoi parler anglais aux LLM réduit vos factures et l'empreinte carbone
+    Next.ink : https://next.ink/259212/ia-generative-pour-reduire-vos-couts-et-votre-empreinte-parlez-anglais/
+
+Genere automatiquement par Culture G.</description>
+      <itunes:summary>Google riposte face à OpenAI avec Gemini 4 Argon et un record d'un million de tokens en sortie. Pendant ce temps, l'IA traduit l'activité cérébrale en images et déchiffre une lettre militaire de 1809.
+
+Sources de cet episode :
+
+- Google dévoile Gemini 4 Argon et son million de tokens en sortie
+    Next.ink : https://next.ink/259219/google-veut-revenir-dans-la-course-avec-gemini-4-argon-et-son-million-de-tokens-en-sortie/
+- Une IA reconstitue des images directement depuis des scans cérébraux
+    MIT Tech Review : https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/
+    MIT Tech Review : https://www.technologyreview.com/2026/10/01/1145592/the-download-ai-mind-reading-small-batteries/
+- Une lettre de 1809 adressée à un général de Napoléon décodée par l'IA
+    Numerama : https://www.numerama.com/tech/2344971-il-dechiffre-une-lettre-de-217-ans-adressee-a-un-general-de-napoleon-grace-a-lia.html
+- Le jeu Stratego et ses pièces cachées enfin vaincus par l'IA
+    Ars Technica : https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/
+- Pourquoi parler anglais aux LLM réduit vos factures et l'empreinte carbone
+    Next.ink : https://next.ink/259212/ia-generative-pour-reduire-vos-couts-et-votre-empreinte-parlez-anglais/
+
+Genere automatiquement par Culture G.</itunes:summary>
+      <itunes:subtitle>Google riposte face à OpenAI avec Gemini 4 Argon et un record d'un million de tokens en sortie. Pendant ce temps, l'IA traduit l'activité cérébrale en images et déchiffre une lettre militaire de 1809.</itunes:subtitle>
+      <itunes:duration>00:13:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://scadagoal.github.io/culture-g/episodes/2026-10-02.mp3" length="6661677" type="audio/mpeg"/>
+    </item>
     <item>
       <title>Google frappe fort avec Gemini 4 Argon</title>
       <link>https://scadagoal.github.io/culture-g/</link>
