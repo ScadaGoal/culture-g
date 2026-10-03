@@ -1,5 +1,15 @@
 [
   {
+    "slug": "2026-10-03",
+    "title": "GPT-6 se dévoile et arXiv capitule face à l'IA",
+    "teaser": "OpenAI détaille le fonctionnement opérationnel de sa famille GPT-6, tandis qu'arXiv limite drastiquement les dépôts pour survivre aux papiers générés par IA. Décryptage de l'actualité tech et d'une découverte étonnante sur les crevettes.",
+    "notes": "Sources de cet episode :\n\n- OpenAI dévoile les rouages opérationnels de GPT-6\n    OpenAI : https://openai.com/index/practical-guide-building-gpt-6\n- Pi 1.0 : une alternative open source face à Claude Code et Codex\n    Numerama : https://www.numerama.com/tech/2345455-pi-le-petit-agent-ia-autrichien-qui-veut-tenir-tete-a-claude-code-et-codex.html\n    Next.ink : https://next.ink/259487/le-harnais-pi-passe-en-1-0-une-alternative-open-source-a-codex-et-claude-code/\n- Submergé par les papiers générés par IA, arXiv impose un numerus clausus\n    Next.ink : https://next.ink/259620/arxiv-limite-les-soumissions-a-2-par-mois-pour-faire-face-a-la-submersion-due-a-la-genai/\n- Contrebande de puces : un patron arrêté pour 300 millions de dollars de composants Nvidia vers la Chine\n    Ars Technica : https://arstechnica.com/tech-policy/2026/10/us-arrests-tech-ceo-accused-of-smuggling-300m-in-nvidia-chips-into-china/\n- Physique des fluides : des crevettes bousculent les lois de la turbulence\n    Quanta Magazine : https://www.quantamagazine.org/sea-monkeys-show-scientists-how-to-rewrite-a-rule-of-turbulence-20261002/\n\nGenere automatiquement par Culture G.",
+    "audio": "2026-10-03.mp3",
+    "bytes": 8518509,
+    "duration": 1064.76,
+    "published": "2026-10-03T06:07:39.291428+00:00"
+  },
+  {
     "slug": "2026-10-02",
     "title": "Gemini 4 Argon, le cerveau en images et Napoléon décodé",
     "teaser": "Google riposte face à OpenAI avec Gemini 4 Argon et un record d'un million de tokens en sortie. Pendant ce temps, l'IA traduit l'activité cérébrale en images et déchiffre une lettre militaire de 1809.",

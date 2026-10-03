@@ -8,7 +8,7 @@
     <atom:link href="https://scadagoal.github.io/culture-g/feed.xml" rel="self" type="application/rss+xml"/>
     <language>fr-FR</language>
     <description>Un condense quotidien de l'actualite de l'intelligence artificielle, de la tech et de la science, monte en dialogue et genere automatiquement. L'IA en fil rouge, mais on ouvre large : histoire, sciences dures, societe.</description>
-    <lastBuildDate>Fri, 02 Oct 2026 06:08:44 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 06:14:53 +0000</lastBuildDate>
     <generator>Culture G</generator>
     <itunes:author>Culture G</itunes:author>
     <itunes:subtitle>Votre veille IA, tech et science, chaque matin</itunes:subtitle>
@@ -20,6 +20,51 @@
     <itunes:owner>
       <itunes:name>Culture G</itunes:name>
     </itunes:owner>
+    <item>
+      <title>GPT-6 se dévoile et arXiv capitule face à l'IA</title>
+      <link>https://scadagoal.github.io/culture-g/</link>
+      <guid isPermaLink="false">culture-g-2026-10-03</guid>
+      <pubDate>Sat, 03 Oct 2026 06:07:39 +0000</pubDate>
+      <description>OpenAI détaille le fonctionnement opérationnel de sa famille GPT-6, tandis qu'arXiv limite drastiquement les dépôts pour survivre aux papiers générés par IA. Décryptage de l'actualité tech et d'une découverte étonnante sur les crevettes.
+
+Sources de cet episode :
+
+- OpenAI dévoile les rouages opérationnels de GPT-6
+    OpenAI : https://openai.com/index/practical-guide-building-gpt-6
+- Pi 1.0 : une alternative open source face à Claude Code et Codex
+    Numerama : https://www.numerama.com/tech/2345455-pi-le-petit-agent-ia-autrichien-qui-veut-tenir-tete-a-claude-code-et-codex.html
+    Next.ink : https://next.ink/259487/le-harnais-pi-passe-en-1-0-une-alternative-open-source-a-codex-et-claude-code/
+- Submergé par les papiers générés par IA, arXiv impose un numerus clausus
+    Next.ink : https://next.ink/259620/arxiv-limite-les-soumissions-a-2-par-mois-pour-faire-face-a-la-submersion-due-a-la-genai/
+- Contrebande de puces : un patron arrêté pour 300 millions de dollars de composants Nvidia vers la Chine
+    Ars Technica : https://arstechnica.com/tech-policy/2026/10/us-arrests-tech-ceo-accused-of-smuggling-300m-in-nvidia-chips-into-china/
+- Physique des fluides : des crevettes bousculent les lois de la turbulence
+    Quanta Magazine : https://www.quantamagazine.org/sea-monkeys-show-scientists-how-to-rewrite-a-rule-of-turbulence-20261002/
+
+Genere automatiquement par Culture G.</description>
+      <itunes:summary>OpenAI détaille le fonctionnement opérationnel de sa famille GPT-6, tandis qu'arXiv limite drastiquement les dépôts pour survivre aux papiers générés par IA. Décryptage de l'actualité tech et d'une découverte étonnante sur les crevettes.
+
+Sources de cet episode :
+
+- OpenAI dévoile les rouages opérationnels de GPT-6
+    OpenAI : https://openai.com/index/practical-guide-building-gpt-6
+- Pi 1.0 : une alternative open source face à Claude Code et Codex
+    Numerama : https://www.numerama.com/tech/2345455-pi-le-petit-agent-ia-autrichien-qui-veut-tenir-tete-a-claude-code-et-codex.html
+    Next.ink : https://next.ink/259487/le-harnais-pi-passe-en-1-0-une-alternative-open-source-a-codex-et-claude-code/
+- Submergé par les papiers générés par IA, arXiv impose un numerus clausus
+    Next.ink : https://next.ink/259620/arxiv-limite-les-soumissions-a-2-par-mois-pour-faire-face-a-la-submersion-due-a-la-genai/
+- Contrebande de puces : un patron arrêté pour 300 millions de dollars de composants Nvidia vers la Chine
+    Ars Technica : https://arstechnica.com/tech-policy/2026/10/us-arrests-tech-ceo-accused-of-smuggling-300m-in-nvidia-chips-into-china/
+- Physique des fluides : des crevettes bousculent les lois de la turbulence
+    Quanta Magazine : https://www.quantamagazine.org/sea-monkeys-show-scientists-how-to-rewrite-a-rule-of-turbulence-20261002/
+
+Genere automatiquement par Culture G.</itunes:summary>
+      <itunes:subtitle>OpenAI détaille le fonctionnement opérationnel de sa famille GPT-6, tandis qu'arXiv limite drastiquement les dépôts pour survivre aux papiers générés par IA. Décryptage de l'actualité tech et d'une découverte étonnante sur les crevettes.</itunes:subtitle>
+      <itunes:duration>00:17:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://scadagoal.github.io/culture-g/episodes/2026-10-03.mp3" length="8518509" type="audio/mpeg"/>
+    </item>
     <item>
       <title>Gemini 4 Argon, le cerveau en images et Napoléon décodé</title>
       <link>https://scadagoal.github.io/culture-g/</link>
