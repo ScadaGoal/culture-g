@@ -8,7 +8,7 @@
     <atom:link href="https://scadagoal.github.io/culture-g/feed.xml" rel="self" type="application/rss+xml"/>
     <language>fr-FR</language>
     <description>Un condense quotidien de l'actualite de l'intelligence artificielle, de la tech et de la science, monte en dialogue et genere automatiquement. L'IA en fil rouge, mais on ouvre large : histoire, sciences dures, societe.</description>
-    <lastBuildDate>Sat, 03 Oct 2026 06:14:53 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 06:26:16 +0000</lastBuildDate>
     <generator>Culture G</generator>
     <itunes:author>Culture G</itunes:author>
     <itunes:subtitle>Votre veille IA, tech et science, chaque matin</itunes:subtitle>
@@ -20,6 +20,51 @@
     <itunes:owner>
       <itunes:name>Culture G</itunes:name>
     </itunes:owner>
+    <item>
+      <title>Kolibri d'Aleph Alpha, crise chez OpenAI et vide quantique</title>
+      <link>https://scadagoal.github.io/culture-g/</link>
+      <guid isPermaLink="false">culture-g-2026-10-04</guid>
+      <pubDate>Sun, 04 Oct 2026 06:21:22 +0000</pubDate>
+      <description>Aleph Alpha dévoile Kolibri, un modèle européen open-weight à l'efficience remarquable, pendant qu'OpenAI essuie une démission critique sur la sécurité. L'émission fait aussi le point sur l'usage de Claude Opus 5.5, le survol de la Terre par Juice et une percée sur la supraconductivité.
+
+Sources de cet episode :
+
+- Aleph Alpha lance Kolibri, un modèle IA européen souverain en open-weight
+    Hacker News : https://tej.as/blog/aleph-alpha-kolibri
+    Hacker News : https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/
+- Culture d'entreprise 'brisée' : un nouveau responsable de la sécurité quitte OpenAI
+    Hacker News : https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken
+- Tirer le meilleur parti de Claude Opus 5.5 dans vos workflows
+    Hacker News : https://claude.dev/blog/getting-the-most-out-of-opus-5-5/
+- Espace : la sonde Juice utilise la Terre comme fronde vers Jupiter
+    ScienceDaily : https://www.sciencedaily.com/releases/2026/10/261001214102.htm
+- Physique : doper un supraconducteur grâce aux fluctuations du vide quantique
+    ScienceDaily : https://www.sciencedaily.com/releases/2026/09/260930225456.htm
+
+Genere automatiquement par Culture G.</description>
+      <itunes:summary>Aleph Alpha dévoile Kolibri, un modèle européen open-weight à l'efficience remarquable, pendant qu'OpenAI essuie une démission critique sur la sécurité. L'émission fait aussi le point sur l'usage de Claude Opus 5.5, le survol de la Terre par Juice et une percée sur la supraconductivité.
+
+Sources de cet episode :
+
+- Aleph Alpha lance Kolibri, un modèle IA européen souverain en open-weight
+    Hacker News : https://tej.as/blog/aleph-alpha-kolibri
+    Hacker News : https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/
+- Culture d'entreprise 'brisée' : un nouveau responsable de la sécurité quitte OpenAI
+    Hacker News : https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken
+- Tirer le meilleur parti de Claude Opus 5.5 dans vos workflows
+    Hacker News : https://claude.dev/blog/getting-the-most-out-of-opus-5-5/
+- Espace : la sonde Juice utilise la Terre comme fronde vers Jupiter
+    ScienceDaily : https://www.sciencedaily.com/releases/2026/10/261001214102.htm
+- Physique : doper un supraconducteur grâce aux fluctuations du vide quantique
+    ScienceDaily : https://www.sciencedaily.com/releases/2026/09/260930225456.htm
+
+Genere automatiquement par Culture G.</itunes:summary>
+      <itunes:subtitle>Aleph Alpha dévoile Kolibri, un modèle européen open-weight à l'efficience remarquable, pendant qu'OpenAI essuie une démission critique sur la sécurité. L'émission fait aussi le point sur l'usage de Claude Opus 5.5, le survol de la Terre par Juice et une </itunes:subtitle>
+      <itunes:duration>00:12:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://scadagoal.github.io/culture-g/episodes/2026-10-04.mp3" length="5931117" type="audio/mpeg"/>
+    </item>
     <item>
       <title>GPT-6 se dévoile et arXiv capitule face à l'IA</title>
       <link>https://scadagoal.github.io/culture-g/</link>

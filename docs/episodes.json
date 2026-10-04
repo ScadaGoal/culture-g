@@ -1,5 +1,15 @@
 [
   {
+    "slug": "2026-10-04",
+    "title": "Kolibri d'Aleph Alpha, crise chez OpenAI et vide quantique",
+    "teaser": "Aleph Alpha dévoile Kolibri, un modèle européen open-weight à l'efficience remarquable, pendant qu'OpenAI essuie une démission critique sur la sécurité. L'émission fait aussi le point sur l'usage de Claude Opus 5.5, le survol de la Terre par Juice et une percée sur la supraconductivité.",
+    "notes": "Sources de cet episode :\n\n- Aleph Alpha lance Kolibri, un modèle IA européen souverain en open-weight\n    Hacker News : https://tej.as/blog/aleph-alpha-kolibri\n    Hacker News : https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/\n- Culture d'entreprise 'brisée' : un nouveau responsable de la sécurité quitte OpenAI\n    Hacker News : https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken\n- Tirer le meilleur parti de Claude Opus 5.5 dans vos workflows\n    Hacker News : https://claude.dev/blog/getting-the-most-out-of-opus-5-5/\n- Espace : la sonde Juice utilise la Terre comme fronde vers Jupiter\n    ScienceDaily : https://www.sciencedaily.com/releases/2026/10/261001214102.htm\n- Physique : doper un supraconducteur grâce aux fluctuations du vide quantique\n    ScienceDaily : https://www.sciencedaily.com/releases/2026/09/260930225456.htm\n\nGenere automatiquement par Culture G.",
+    "audio": "2026-10-04.mp3",
+    "bytes": 5931117,
+    "duration": 741.32,
+    "published": "2026-10-04T06:21:22.055727+00:00"
+  },
+  {
     "slug": "2026-10-03",
     "title": "GPT-6 se dévoile et arXiv capitule face à l'IA",
     "teaser": "OpenAI détaille le fonctionnement opérationnel de sa famille GPT-6, tandis qu'arXiv limite drastiquement les dépôts pour survivre aux papiers générés par IA. Décryptage de l'actualité tech et d'une découverte étonnante sur les crevettes.",
