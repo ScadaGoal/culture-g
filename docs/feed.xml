@@ -8,7 +8,7 @@
     <atom:link href="https://scadagoal.github.io/culture-g/feed.xml" rel="self" type="application/rss+xml"/>
     <language>fr-FR</language>
     <description>Un condense quotidien de l'actualite de l'intelligence artificielle, de la tech et de la science, monte en dialogue et genere automatiquement. L'IA en fil rouge, mais on ouvre large : histoire, sciences dures, societe.</description>
-    <lastBuildDate>Sun, 04 Oct 2026 06:26:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 06:36:37 +0000</lastBuildDate>
     <generator>Culture G</generator>
     <itunes:author>Culture G</itunes:author>
     <itunes:subtitle>Votre veille IA, tech et science, chaque matin</itunes:subtitle>
@@ -20,6 +20,49 @@
     <itunes:owner>
       <itunes:name>Culture G</itunes:name>
     </itunes:owner>
+    <item>
+      <title>IA géante à la maison et fuites dans les data centers</title>
+      <link>https://scadagoal.github.io/culture-g/</link>
+      <guid isPermaLink="false">culture-g-2026-10-05</guid>
+      <pubDate>Mon, 05 Oct 2026 06:32:42 +0000</pubDate>
+      <description>De l'exploit technique d'exécuter un modèle de cent vingt-cinq milliards de paramètres sur une simple carte graphique aux dérives du LLM-jacking, voici notre tour d'horizon de l'actualité de la tech.
+
+Sources de cet episode :
+
+- Le projet Strata : faire tourner un modèle de 125 milliards de paramètres sur une simple RTX 4090
+    Hacker News : https://github.com/Niko1221/Strata
+- Une gaffe administrative révèle les secrets de consommation d'un data center de Google
+    Hacker News : https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/
+- Qu'est-ce que le 'LLM-jacking', la nouvelle menace cyber qui cible l'intelligence artificielle ?
+    Numerama : https://www.numerama.com/cyberguerre/2345263-le-fleau-cyber-prend-de-lampleur-et-deux-scenarios-se-distinguent-cest-quoi-le-llm-jacking.html
+- Égypte antique : la science confirme la sombre réalité des sacrifices d'accompagnement
+    Ars Technica : https://arstechnica.com/science/2026/10/new-forensice-evidence-supports-egyptian-retainer-sacrifice/
+- Ne dites plus 'meme coin' mais 'cyberjeton mème'
+    Numerama : https://www.numerama.com/tech/2345973-ne-dites-plus-meme-coin-mais-cyberjeton-meme.html
+
+Genere automatiquement par Culture G.</description>
+      <itunes:summary>De l'exploit technique d'exécuter un modèle de cent vingt-cinq milliards de paramètres sur une simple carte graphique aux dérives du LLM-jacking, voici notre tour d'horizon de l'actualité de la tech.
+
+Sources de cet episode :
+
+- Le projet Strata : faire tourner un modèle de 125 milliards de paramètres sur une simple RTX 4090
+    Hacker News : https://github.com/Niko1221/Strata
+- Une gaffe administrative révèle les secrets de consommation d'un data center de Google
+    Hacker News : https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/
+- Qu'est-ce que le 'LLM-jacking', la nouvelle menace cyber qui cible l'intelligence artificielle ?
+    Numerama : https://www.numerama.com/cyberguerre/2345263-le-fleau-cyber-prend-de-lampleur-et-deux-scenarios-se-distinguent-cest-quoi-le-llm-jacking.html
+- Égypte antique : la science confirme la sombre réalité des sacrifices d'accompagnement
+    Ars Technica : https://arstechnica.com/science/2026/10/new-forensice-evidence-supports-egyptian-retainer-sacrifice/
+- Ne dites plus 'meme coin' mais 'cyberjeton mème'
+    Numerama : https://www.numerama.com/tech/2345973-ne-dites-plus-meme-coin-mais-cyberjeton-meme.html
+
+Genere automatiquement par Culture G.</itunes:summary>
+      <itunes:subtitle>De l'exploit technique d'exécuter un modèle de cent vingt-cinq milliards de paramètres sur une simple carte graphique aux dérives du LLM-jacking, voici notre tour d'horizon de l'actualité de la tech.</itunes:subtitle>
+      <itunes:duration>00:10:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://scadagoal.github.io/culture-g/episodes/2026-10-05.mp3" length="4822317" type="audio/mpeg"/>
+    </item>
     <item>
       <title>Kolibri d'Aleph Alpha, crise chez OpenAI et vide quantique</title>
       <link>https://scadagoal.github.io/culture-g/</link>
