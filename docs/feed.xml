@@ -8,7 +8,7 @@
     <atom:link href="https://scadagoal.github.io/culture-g/feed.xml" rel="self" type="application/rss+xml"/>
     <language>fr-FR</language>
     <description>Un condense quotidien de l'actualite de l'intelligence artificielle, de la tech et de la science, monte en dialogue et genere automatiquement. L'IA en fil rouge, mais on ouvre large : histoire, sciences dures, societe.</description>
-    <lastBuildDate>Tue, 06 Oct 2026 07:13:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 06:42:43 +0000</lastBuildDate>
     <generator>Culture G</generator>
     <itunes:author>Culture G</itunes:author>
     <itunes:subtitle>Votre veille IA, tech et science, chaque matin</itunes:subtitle>
@@ -20,6 +20,53 @@
     <itunes:owner>
       <itunes:name>Culture G</itunes:name>
     </itunes:owner>
+    <item>
+      <title>Mistral sort Le Chonk : un colosse français face aux géants</title>
+      <link>https://scadagoal.github.io/culture-g/</link>
+      <guid isPermaLink="false">culture-g-2026-10-07</guid>
+      <pubDate>Wed, 07 Oct 2026 06:39:08 +0000</pubDate>
+      <description>Mistral AI dévoile Mistral Large 4, surnommé Le Chonk, un modèle de plus de mille milliards de paramètres entraîné en Europe. Nous aborderons aussi les avancées d'OpenAI en mathématiques et la nuance face aux effets d'annonce en biologie.
+
+Sources de cet episode :
+
+- Mistral Large 4 : le champion français de l'IA sort l'artillerie lourde
+    Hacker News : https://mistral.ai/news/mistral-large-4/
+    Next.ink : https://next.ink/260208/mistral-lance-une-preversion-de-son-llm-frontiere-mistrale-large-surnomme-le-chonk/
+    Numerama : https://www.numerama.com/tech/2347595-mistral-relance-la-france-dans-la-course-a-lia-et-devoile-le-chonk-un-modele-de-frontiere-a-1000-milliards-de-parametres.html
+- OpenAI publie ses avancées en mathématiques fondamentales
+    OpenAI : https://openai.com/index/sharing-ai-progress-in-mathematics
+    Hacker News : https://openai.com/index/sharing-ai-progress-in-mathematics/
+- Claude et CRISPR : un biologiste nuance la « découverte » d'Anthropic
+    Next.ink : https://next.ink/259759/non-anthropic-na-pas-decouvert-un-systeme-biologique-comparable-a-crispr/
+- EmbeddingGemma 2 : la recherche multimodale accessible en open source
+    Google DeepMind : https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/
+    Hacker News : https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/
+
+Genere automatiquement par Culture G.</description>
+      <itunes:summary>Mistral AI dévoile Mistral Large 4, surnommé Le Chonk, un modèle de plus de mille milliards de paramètres entraîné en Europe. Nous aborderons aussi les avancées d'OpenAI en mathématiques et la nuance face aux effets d'annonce en biologie.
+
+Sources de cet episode :
+
+- Mistral Large 4 : le champion français de l'IA sort l'artillerie lourde
+    Hacker News : https://mistral.ai/news/mistral-large-4/
+    Next.ink : https://next.ink/260208/mistral-lance-une-preversion-de-son-llm-frontiere-mistrale-large-surnomme-le-chonk/
+    Numerama : https://www.numerama.com/tech/2347595-mistral-relance-la-france-dans-la-course-a-lia-et-devoile-le-chonk-un-modele-de-frontiere-a-1000-milliards-de-parametres.html
+- OpenAI publie ses avancées en mathématiques fondamentales
+    OpenAI : https://openai.com/index/sharing-ai-progress-in-mathematics
+    Hacker News : https://openai.com/index/sharing-ai-progress-in-mathematics/
+- Claude et CRISPR : un biologiste nuance la « découverte » d'Anthropic
+    Next.ink : https://next.ink/259759/non-anthropic-na-pas-decouvert-un-systeme-biologique-comparable-a-crispr/
+- EmbeddingGemma 2 : la recherche multimodale accessible en open source
+    Google DeepMind : https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/
+    Hacker News : https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/
+
+Genere automatiquement par Culture G.</itunes:summary>
+      <itunes:subtitle>Mistral AI dévoile Mistral Large 4, surnommé Le Chonk, un modèle de plus de mille milliards de paramètres entraîné en Europe. Nous aborderons aussi les avancées d'OpenAI en mathématiques et la nuance face aux effets d'annonce en biologie.</itunes:subtitle>
+      <itunes:duration>00:08:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://scadagoal.github.io/culture-g/episodes/2026-10-07.mp3" length="4171821" type="audio/mpeg"/>
+    </item>
     <item>
       <title>Quand l'IA préfère tricher : le raccourci de GPT-6 Astra</title>
       <link>https://scadagoal.github.io/culture-g/</link>
