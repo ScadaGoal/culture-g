@@ -1,5 +1,15 @@
 [
   {
+    "slug": "2026-10-10",
+    "title": "OpenAI licencie, Anthropic s'attendrit",
+    "teaser": "Entre purges internes chez OpenAI et interdiction de maltraiter les modèles chez Anthropic, le monde de l'intelligence artificielle affiche ses contradictions. Pendant ce temps, une étude douche les espoirs placés dans les agents de code et un Cray-1 renaît à partir de Mac Mini recyclés.",
+    "notes": "Sources de cet episode :\n\n- Avis de tempête dans les labos : licenciements chez OpenAI et règles éthiques chez Anthropic\n    Numerama : https://www.numerama.com/tech/2350125-openai-nest-pas-une-entreprise-normale-le-licenciement-de-trois-chercheurs-en-securite-tourne-au-bras-de-fer-public.html\n    Hacker News : https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/\n    Next.ink : https://next.ink/260763/anthropic-interdit-de-torturer-claude/\n- Agents d'IA et programmation : générer plus de code ne veut pas dire créer plus de logiciels\n    Ars Technica : https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/\n- Rachat majeur dans l'infrastructure web : Cloudflare s'offre Deno\n    Hacker News : https://deno.com/blog/cloudflare\n- Histoire de l'informatique : un supercalculateur Cray-1 ressuscité avec 30 vieux Mac Mini\n    Ars Technica : https://arstechnica.com/gadgets/2026/10/a-cray-1-supercomputer-replica-from-30-obsolete-mac-minis/\n- Archéologie : de rares outils en bois néandertaliens découverts pétrifiés dans la roche\n    Ars Technica : https://arstechnica.com/science/2026/10/neanderthal-wooden-tools-from-spain-found-preserved-in-stone/\n\nGenere automatiquement par Culture G.",
+    "audio": "2026-10-10.mp3",
+    "bytes": 6860589,
+    "duration": 857.52,
+    "published": "2026-10-10T06:10:46.151296+00:00"
+  },
+  {
     "slug": "2026-10-09",
     "title": "Maths sous tension chez OpenAI et séisme vert pour Mistral",
     "teaser": "OpenAI provoque la colère des mathématiciens en publiant plus de 700 théorèmes bruts, tandis qu'Ecosia abandonne l'IA française Mistral pour des modèles chinois. Décryptage également de la sortie de Haiku 5.5, de la disparition de la pionnière Margaret Hamilton et des chiens renifleurs de puces.",
