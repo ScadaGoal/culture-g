@@ -8,7 +8,7 @@
     <atom:link href="https://scadagoal.github.io/culture-g/feed.xml" rel="self" type="application/rss+xml"/>
     <language>fr-FR</language>
     <description>Un condense quotidien de l'actualite de l'intelligence artificielle, de la tech et de la science, monte en dialogue et genere automatiquement. L'IA en fil rouge, mais on ouvre large : histoire, sciences dures, societe.</description>
-    <lastBuildDate>Sat, 10 Oct 2026 06:26:22 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 06:05:21 +0000</lastBuildDate>
     <generator>Culture G</generator>
     <itunes:author>Culture G</itunes:author>
     <itunes:subtitle>Votre veille IA, tech et science, chaque matin</itunes:subtitle>
@@ -20,6 +20,45 @@
     <itunes:owner>
       <itunes:name>Culture G</itunes:name>
     </itunes:owner>
+    <item>
+      <title>IA et rétro-ingénierie, raccourci pour la fusion et mystère martien</title>
+      <link>https://scadagoal.github.io/culture-g/</link>
+      <guid isPermaLink="false">culture-g-2026-10-11</guid>
+      <pubDate>Sun, 11 Oct 2026 05:59:25 +0000</pubDate>
+      <description>Un outil open source met le décorticage de logiciels à la portée de tous grâce aux modèles de langage, tandis qu'à Princeton, des physiciens découvrent une nouvelle voie vers la fusion nucléaire. Retour aussi sur le nuage géant de Mars et sur une faille informatique danoise embarrassante.
+
+Sources de cet episode :
+
+- REA : l'outil open source qui met la rétro-ingénierie logicielle à la portée de tous grâce aux LLM
+    Numerama : https://www.numerama.com/tech/2350773-decouvrez-comment-fonctionne-le-logiciel-massivement-partage-cet-outil-ia-veut-mettre-la-retro-ingenierie-a-la-portee-de-tous.html
+- Fusion nucléaire : le laboratoire de Princeton trouve un raccourci inattendu
+    ScienceDaily : https://www.sciencedaily.com/releases/2026/10/261008005242.htm
+- Le nuage géant de Mars : une physique atmosphérique unique dans le Système solaire
+    Numerama : https://www.numerama.com/sciences/2349127-sur-mars-cet-etrange-nuage-est-du-a-un-phenomene-physique-unique-dans-le-systeme-solaire.html
+- Cybersécurité : quand le mot de passe « 123456 » paralyse les données de santé danoises
+    Hacker News : https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/
+
+Genere automatiquement par Culture G.</description>
+      <itunes:summary>Un outil open source met le décorticage de logiciels à la portée de tous grâce aux modèles de langage, tandis qu'à Princeton, des physiciens découvrent une nouvelle voie vers la fusion nucléaire. Retour aussi sur le nuage géant de Mars et sur une faille informatique danoise embarrassante.
+
+Sources de cet episode :
+
+- REA : l'outil open source qui met la rétro-ingénierie logicielle à la portée de tous grâce aux LLM
+    Numerama : https://www.numerama.com/tech/2350773-decouvrez-comment-fonctionne-le-logiciel-massivement-partage-cet-outil-ia-veut-mettre-la-retro-ingenierie-a-la-portee-de-tous.html
+- Fusion nucléaire : le laboratoire de Princeton trouve un raccourci inattendu
+    ScienceDaily : https://www.sciencedaily.com/releases/2026/10/261008005242.htm
+- Le nuage géant de Mars : une physique atmosphérique unique dans le Système solaire
+    Numerama : https://www.numerama.com/sciences/2349127-sur-mars-cet-etrange-nuage-est-du-a-un-phenomene-physique-unique-dans-le-systeme-solaire.html
+- Cybersécurité : quand le mot de passe « 123456 » paralyse les données de santé danoises
+    Hacker News : https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/
+
+Genere automatiquement par Culture G.</itunes:summary>
+      <itunes:subtitle>Un outil open source met le décorticage de logiciels à la portée de tous grâce aux modèles de langage, tandis qu'à Princeton, des physiciens découvrent une nouvelle voie vers la fusion nucléaire. Retour aussi sur le nuage géant de Mars et sur une faille i</itunes:subtitle>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://scadagoal.github.io/culture-g/episodes/2026-10-11.mp3" length="7201773" type="audio/mpeg"/>
+    </item>
     <item>
       <title>OpenAI licencie, Anthropic s'attendrit</title>
       <link>https://scadagoal.github.io/culture-g/</link>

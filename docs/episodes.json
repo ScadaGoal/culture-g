@@ -1,5 +1,15 @@
 [
   {
+    "slug": "2026-10-11",
+    "title": "IA et rétro-ingénierie, raccourci pour la fusion et mystère martien",
+    "teaser": "Un outil open source met le décorticage de logiciels à la portée de tous grâce aux modèles de langage, tandis qu'à Princeton, des physiciens découvrent une nouvelle voie vers la fusion nucléaire. Retour aussi sur le nuage géant de Mars et sur une faille informatique danoise embarrassante.",
+    "notes": "Sources de cet episode :\n\n- REA : l'outil open source qui met la rétro-ingénierie logicielle à la portée de tous grâce aux LLM\n    Numerama : https://www.numerama.com/tech/2350773-decouvrez-comment-fonctionne-le-logiciel-massivement-partage-cet-outil-ia-veut-mettre-la-retro-ingenierie-a-la-portee-de-tous.html\n- Fusion nucléaire : le laboratoire de Princeton trouve un raccourci inattendu\n    ScienceDaily : https://www.sciencedaily.com/releases/2026/10/261008005242.htm\n- Le nuage géant de Mars : une physique atmosphérique unique dans le Système solaire\n    Numerama : https://www.numerama.com/sciences/2349127-sur-mars-cet-etrange-nuage-est-du-a-un-phenomene-physique-unique-dans-le-systeme-solaire.html\n- Cybersécurité : quand le mot de passe « 123456 » paralyse les données de santé danoises\n    Hacker News : https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/\n\nGenere automatiquement par Culture G.",
+    "audio": "2026-10-11.mp3",
+    "bytes": 7201773,
+    "duration": 900.16,
+    "published": "2026-10-11T05:59:25.956722+00:00"
+  },
+  {
     "slug": "2026-10-10",
     "title": "OpenAI licencie, Anthropic s'attendrit",
     "teaser": "Entre purges internes chez OpenAI et interdiction de maltraiter les modèles chez Anthropic, le monde de l'intelligence artificielle affiche ses contradictions. Pendant ce temps, une étude douche les espoirs placés dans les agents de code et un Cray-1 renaît à partir de Mac Mini recyclés.",
