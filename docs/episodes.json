@@ -1,5 +1,15 @@
 [
   {
+    "slug": "2026-10-12",
+    "title": "Mistral Large 4, le tournant Math 2.0 et le secret de l'œil",
+    "teaser": "Mistral AI et OpenAI franchissent un cap sur le raisonnement formel pendant que les mathématiques basculent dans une nouvelle ère. Au sommaire également : le logiciel d'Anduril pour militariser l'industrie, une découverte anatomique inattendue sur l'œil et l'étrange dérive d'une cafetière connectée.",
+    "notes": "Sources de cet episode :\n\n- Mistral Large 4 et percées mathématiques d'OpenAI : la nouvelle vague des modèles de raisonnement\n    Numerama : https://www.numerama.com/tech/2350633-percees-mathematiques-dopenai-modele-mistral-large-4-et-orange-home-cinema-le-recap-tech-de-la-semaine.html\n    Hacker News : https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf\n- ArsenalOS : quand la défense américaine confie la gestion de ses usines à l'IA\n    Numerama : https://www.numerama.com/tech/2350475-les-usines-se-battent-contre-des-usines-cest-quoi-arsenalos-le-logiciel-danduril-qui-doit-piloter-la-production-darmes-americaines.html\n- Découverte en biologie : le système de nettoyage inédit de l'œil humain\n    ScienceDaily : https://www.sciencedaily.com/releases/2026/10/261008005254.htm\n- L'anecdote tech : quand une cafetière connectée génère un téraoctet de données\n    Numerama : https://www.numerama.com/cyberguerre/2350667-une-cafetiere-connectee-qui-envoie-un-teraoctet-de-donnees-58-fausses-boutiques-pokemon-et-openai-accusee-de-represailles-contre-ses-chercheurs-en-securite-on-vous-raconte-la-semaine-cyberguerre.html\n\nGenere automatiquement par Culture G.",
+    "audio": "2026-10-12.mp3",
+    "bytes": 5869677,
+    "duration": 733.6509583333333,
+    "published": "2026-10-12T06:22:05.658111+00:00"
+  },
+  {
     "slug": "2026-10-11",
     "title": "IA et rétro-ingénierie, raccourci pour la fusion et mystère martien",
     "teaser": "Un outil open source met le décorticage de logiciels à la portée de tous grâce aux modèles de langage, tandis qu'à Princeton, des physiciens découvrent une nouvelle voie vers la fusion nucléaire. Retour aussi sur le nuage géant de Mars et sur une faille informatique danoise embarrassante.",

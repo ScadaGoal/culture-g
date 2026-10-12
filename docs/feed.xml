@@ -8,7 +8,7 @@
     <atom:link href="https://scadagoal.github.io/culture-g/feed.xml" rel="self" type="application/rss+xml"/>
     <language>fr-FR</language>
     <description>Un condense quotidien de l'actualite de l'intelligence artificielle, de la tech et de la science, monte en dialogue et genere automatiquement. L'IA en fil rouge, mais on ouvre large : histoire, sciences dures, societe.</description>
-    <lastBuildDate>Sun, 11 Oct 2026 06:05:21 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 06:28:00 +0000</lastBuildDate>
     <generator>Culture G</generator>
     <itunes:author>Culture G</itunes:author>
     <itunes:subtitle>Votre veille IA, tech et science, chaque matin</itunes:subtitle>
@@ -20,6 +20,47 @@
     <itunes:owner>
       <itunes:name>Culture G</itunes:name>
     </itunes:owner>
+    <item>
+      <title>Mistral Large 4, le tournant Math 2.0 et le secret de l'œil</title>
+      <link>https://scadagoal.github.io/culture-g/</link>
+      <guid isPermaLink="false">culture-g-2026-10-12</guid>
+      <pubDate>Mon, 12 Oct 2026 06:22:05 +0000</pubDate>
+      <description>Mistral AI et OpenAI franchissent un cap sur le raisonnement formel pendant que les mathématiques basculent dans une nouvelle ère. Au sommaire également : le logiciel d'Anduril pour militariser l'industrie, une découverte anatomique inattendue sur l'œil et l'étrange dérive d'une cafetière connectée.
+
+Sources de cet episode :
+
+- Mistral Large 4 et percées mathématiques d'OpenAI : la nouvelle vague des modèles de raisonnement
+    Numerama : https://www.numerama.com/tech/2350633-percees-mathematiques-dopenai-modele-mistral-large-4-et-orange-home-cinema-le-recap-tech-de-la-semaine.html
+    Hacker News : https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf
+- ArsenalOS : quand la défense américaine confie la gestion de ses usines à l'IA
+    Numerama : https://www.numerama.com/tech/2350475-les-usines-se-battent-contre-des-usines-cest-quoi-arsenalos-le-logiciel-danduril-qui-doit-piloter-la-production-darmes-americaines.html
+- Découverte en biologie : le système de nettoyage inédit de l'œil humain
+    ScienceDaily : https://www.sciencedaily.com/releases/2026/10/261008005254.htm
+- L'anecdote tech : quand une cafetière connectée génère un téraoctet de données
+    Numerama : https://www.numerama.com/cyberguerre/2350667-une-cafetiere-connectee-qui-envoie-un-teraoctet-de-donnees-58-fausses-boutiques-pokemon-et-openai-accusee-de-represailles-contre-ses-chercheurs-en-securite-on-vous-raconte-la-semaine-cyberguerre.html
+
+Genere automatiquement par Culture G.</description>
+      <itunes:summary>Mistral AI et OpenAI franchissent un cap sur le raisonnement formel pendant que les mathématiques basculent dans une nouvelle ère. Au sommaire également : le logiciel d'Anduril pour militariser l'industrie, une découverte anatomique inattendue sur l'œil et l'étrange dérive d'une cafetière connectée.
+
+Sources de cet episode :
+
+- Mistral Large 4 et percées mathématiques d'OpenAI : la nouvelle vague des modèles de raisonnement
+    Numerama : https://www.numerama.com/tech/2350633-percees-mathematiques-dopenai-modele-mistral-large-4-et-orange-home-cinema-le-recap-tech-de-la-semaine.html
+    Hacker News : https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf
+- ArsenalOS : quand la défense américaine confie la gestion de ses usines à l'IA
+    Numerama : https://www.numerama.com/tech/2350475-les-usines-se-battent-contre-des-usines-cest-quoi-arsenalos-le-logiciel-danduril-qui-doit-piloter-la-production-darmes-americaines.html
+- Découverte en biologie : le système de nettoyage inédit de l'œil humain
+    ScienceDaily : https://www.sciencedaily.com/releases/2026/10/261008005254.htm
+- L'anecdote tech : quand une cafetière connectée génère un téraoctet de données
+    Numerama : https://www.numerama.com/cyberguerre/2350667-une-cafetiere-connectee-qui-envoie-un-teraoctet-de-donnees-58-fausses-boutiques-pokemon-et-openai-accusee-de-represailles-contre-ses-chercheurs-en-securite-on-vous-raconte-la-semaine-cyberguerre.html
+
+Genere automatiquement par Culture G.</itunes:summary>
+      <itunes:subtitle>Mistral AI et OpenAI franchissent un cap sur le raisonnement formel pendant que les mathématiques basculent dans une nouvelle ère. Au sommaire également : le logiciel d'Anduril pour militariser l'industrie, une découverte anatomique inattendue sur l'œil e</itunes:subtitle>
+      <itunes:duration>00:12:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://scadagoal.github.io/culture-g/episodes/2026-10-12.mp3" length="5869677" type="audio/mpeg"/>
+    </item>
     <item>
       <title>IA et rétro-ingénierie, raccourci pour la fusion et mystère martien</title>
       <link>https://scadagoal.github.io/culture-g/</link>
