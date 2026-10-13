@@ -8,7 +8,7 @@
     <atom:link href="https://scadagoal.github.io/culture-g/feed.xml" rel="self" type="application/rss+xml"/>
     <language>fr-FR</language>
     <description>Un condense quotidien de l'actualite de l'intelligence artificielle, de la tech et de la science, monte en dialogue et genere automatiquement. L'IA en fil rouge, mais on ouvre large : histoire, sciences dures, societe.</description>
-    <lastBuildDate>Mon, 12 Oct 2026 06:28:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 07:28:39 +0000</lastBuildDate>
     <generator>Culture G</generator>
     <itunes:author>Culture G</itunes:author>
     <itunes:subtitle>Votre veille IA, tech et science, chaque matin</itunes:subtitle>
@@ -20,6 +20,59 @@
     <itunes:owner>
       <itunes:name>Culture G</itunes:name>
     </itunes:owner>
+    <item>
+      <title>Meta riposte, frigos piratés et guerre des datacenters</title>
+      <link>https://scadagoal.github.io/culture-g/</link>
+      <guid isPermaLink="false">culture-g-2026-10-13</guid>
+      <pubDate>Tue, 13 Oct 2026 07:23:01 +0000</pubDate>
+      <description>Meta dévoile Muse Wonder, sa nouvelle génération de modèles conçue pour faire tourner des agents autonomes sur des tâches de longue haleine. Au même moment, une cyberattaque inédite pousse les congélateurs des supermarchés à 50 °C et transforme la logistique européenne en champ de bataille.
+
+Sources de cet episode :
+
+- Meta lance Muse Wonder : la riposte face aux modèles frontières
+    Next.ink : https://next.ink/261349/meta-revient-dans-la-course-aux-modeles-frontiere-avec-muse-wonder/
+    Hacker News : https://research.meta.ai/blog/muse-wonder
+- Quand les cyberattaques vident les rayons : des centaines de frigos de supermarchés piratés
+    Next.ink : https://next.ink/261236/des-frigos-pirates-dans-des-supermarches-a-cause-dequipements-obsoletes-ou-non-mis-a-jour/
+    Numerama : https://www.numerama.com/cyberguerre/2351549-piratage-intermarche-super-u-leclerc-pourquoi-les-frigos-des-supermarches-sont-ils-connectes-a-internet.html
+    Hacker News : https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident
+- Guerre des infrastructures : les datacenters de Yandex visés par des drones
+    Next.ink : https://next.ink/261035/3-datacenters-de-yandex-attaques-par-des-drones-ukrainiens-le-geant-russe-accuse-le-coup/
+    Ars Technica : https://arstechnica.com/gadgets/2026/10/russia-was-not-ready-for-the-data-center-war-it-started-with-ukraine/
+    Numerama : https://www.numerama.com/cyberguerre/2351053-les-bots-russes-ont-ils-vraiment-ete-reduits-au-silence-par-les-frappes-contre-yandex.html
+- Sécurité : pourquoi le chiffrement post-quantique reste vulnérable face à l'IA
+    Next.ink : https://next.ink/261215/en-cryptographie-post-quantique-nest-pas-post-ia/
+- Alerte supply chain chez Ledger : un implant matériel découvert sur des portefeuilles physiques
+    Next.ink : https://next.ink/261037/des-portefeuilles-ledger-compromis-par-un-implant-materiel/
+
+Genere automatiquement par Culture G.</description>
+      <itunes:summary>Meta dévoile Muse Wonder, sa nouvelle génération de modèles conçue pour faire tourner des agents autonomes sur des tâches de longue haleine. Au même moment, une cyberattaque inédite pousse les congélateurs des supermarchés à 50 °C et transforme la logistique européenne en champ de bataille.
+
+Sources de cet episode :
+
+- Meta lance Muse Wonder : la riposte face aux modèles frontières
+    Next.ink : https://next.ink/261349/meta-revient-dans-la-course-aux-modeles-frontiere-avec-muse-wonder/
+    Hacker News : https://research.meta.ai/blog/muse-wonder
+- Quand les cyberattaques vident les rayons : des centaines de frigos de supermarchés piratés
+    Next.ink : https://next.ink/261236/des-frigos-pirates-dans-des-supermarches-a-cause-dequipements-obsoletes-ou-non-mis-a-jour/
+    Numerama : https://www.numerama.com/cyberguerre/2351549-piratage-intermarche-super-u-leclerc-pourquoi-les-frigos-des-supermarches-sont-ils-connectes-a-internet.html
+    Hacker News : https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident
+- Guerre des infrastructures : les datacenters de Yandex visés par des drones
+    Next.ink : https://next.ink/261035/3-datacenters-de-yandex-attaques-par-des-drones-ukrainiens-le-geant-russe-accuse-le-coup/
+    Ars Technica : https://arstechnica.com/gadgets/2026/10/russia-was-not-ready-for-the-data-center-war-it-started-with-ukraine/
+    Numerama : https://www.numerama.com/cyberguerre/2351053-les-bots-russes-ont-ils-vraiment-ete-reduits-au-silence-par-les-frappes-contre-yandex.html
+- Sécurité : pourquoi le chiffrement post-quantique reste vulnérable face à l'IA
+    Next.ink : https://next.ink/261215/en-cryptographie-post-quantique-nest-pas-post-ia/
+- Alerte supply chain chez Ledger : un implant matériel découvert sur des portefeuilles physiques
+    Next.ink : https://next.ink/261037/des-portefeuilles-ledger-compromis-par-un-implant-materiel/
+
+Genere automatiquement par Culture G.</itunes:summary>
+      <itunes:subtitle>Meta dévoile Muse Wonder, sa nouvelle génération de modèles conçue pour faire tourner des agents autonomes sur des tâches de longue haleine. Au même moment, une cyberattaque inédite pousse les congélateurs des supermarchés à 50 °C et transforme la logisti</itunes:subtitle>
+      <itunes:duration>00:13:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://scadagoal.github.io/culture-g/episodes/2026-10-13.mp3" length="6630957" type="audio/mpeg"/>
+    </item>
     <item>
       <title>Mistral Large 4, le tournant Math 2.0 et le secret de l'œil</title>
       <link>https://scadagoal.github.io/culture-g/</link>
