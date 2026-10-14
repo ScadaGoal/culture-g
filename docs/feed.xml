@@ -8,7 +8,7 @@
     <atom:link href="https://scadagoal.github.io/culture-g/feed.xml" rel="self" type="application/rss+xml"/>
     <language>fr-FR</language>
     <description>Un condense quotidien de l'actualite de l'intelligence artificielle, de la tech et de la science, monte en dialogue et genere automatiquement. L'IA en fil rouge, mais on ouvre large : histoire, sciences dures, societe.</description>
-    <lastBuildDate>Tue, 13 Oct 2026 07:28:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 05:07:24 +0000</lastBuildDate>
     <generator>Culture G</generator>
     <itunes:author>Culture G</itunes:author>
     <itunes:subtitle>Votre veille IA, tech et science, chaque matin</itunes:subtitle>
@@ -20,6 +20,61 @@
     <itunes:owner>
       <itunes:name>Culture G</itunes:name>
     </itunes:owner>
+    <item>
+      <title>Google contre-attaque avec Gemini 4 Argon et séisme chez Character.AI</title>
+      <link>https://scadagoal.github.io/culture-g/</link>
+      <guid isPermaLink="false">culture-g-2026-10-14</guid>
+      <pubDate>Wed, 14 Oct 2026 05:04:55 +0000</pubDate>
+      <description>Au programme aujourd'hui : le lancement du modèle Gemini 4 Argon de Google, la mise en faillite de Character.AI convoitée par Disney, le recyclage des données de startups mortes, la redéfinition de la seconde d'ici 2030 et l'alerte du FMI.
+
+Sources de cet episode :
+
+- Google contre-attaque avec Gemini 4 Argon
+    Google DeepMind : https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/
+    Google DeepMind : https://deepmind.google/blog/gemini-4-argon-for-robotics/
+    Google DeepMind : https://deepmind.google/blog/introducing-gemini-4-argon/
+    Hacker News : https://deepmind.google/models/gemini/
+    Ars Technica : https://arstechnica.com/ai/2026/10/gemini-4-argon-begins-rolling-out-in-gemini-app-and-antigravity-but-only-if-you-pay/
+    Numerama : https://www.numerama.com/tech/2352573-face-a-openai-et-anthropic-google-degaine-gemini-4-argon-pour-revenir-dans-la-course.html
+- Character.AI en faillite, Disney en embuscade
+    Ars Technica : https://arstechnica.com/tech-policy/2026/10/disney-offers-20m-for-character-ais-scandal-plagued-chatbot-tech/
+    Hacker News : https://blog.character.ai/an-update-on-character-ai/
+- Le recyclage lucratif des données de startups mortes
+    MIT Tech Review : https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/
+- La seconde s'apprête à être redéfinie d'ici 2030
+    Numerama : https://www.numerama.com/sciences/2351941-la-seconde-va-etre-redefinie-dici-2030-pourquoi-les-horloges-atomiques-au-cesium-ne-suffisent-plus.html
+- Le FMI alerte sur un risque de bulle financière liée à l'IA
+    Next.ink : https://next.ink/261430/pour-le-fmi-une-chute-des-cours-de-lia-menacerait-la-stabilite-financiere-mondiale/
+
+Genere automatiquement par Culture G.</description>
+      <itunes:summary>Au programme aujourd'hui : le lancement du modèle Gemini 4 Argon de Google, la mise en faillite de Character.AI convoitée par Disney, le recyclage des données de startups mortes, la redéfinition de la seconde d'ici 2030 et l'alerte du FMI.
+
+Sources de cet episode :
+
+- Google contre-attaque avec Gemini 4 Argon
+    Google DeepMind : https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/
+    Google DeepMind : https://deepmind.google/blog/gemini-4-argon-for-robotics/
+    Google DeepMind : https://deepmind.google/blog/introducing-gemini-4-argon/
+    Hacker News : https://deepmind.google/models/gemini/
+    Ars Technica : https://arstechnica.com/ai/2026/10/gemini-4-argon-begins-rolling-out-in-gemini-app-and-antigravity-but-only-if-you-pay/
+    Numerama : https://www.numerama.com/tech/2352573-face-a-openai-et-anthropic-google-degaine-gemini-4-argon-pour-revenir-dans-la-course.html
+- Character.AI en faillite, Disney en embuscade
+    Ars Technica : https://arstechnica.com/tech-policy/2026/10/disney-offers-20m-for-character-ais-scandal-plagued-chatbot-tech/
+    Hacker News : https://blog.character.ai/an-update-on-character-ai/
+- Le recyclage lucratif des données de startups mortes
+    MIT Tech Review : https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/
+- La seconde s'apprête à être redéfinie d'ici 2030
+    Numerama : https://www.numerama.com/sciences/2351941-la-seconde-va-etre-redefinie-dici-2030-pourquoi-les-horloges-atomiques-au-cesium-ne-suffisent-plus.html
+- Le FMI alerte sur un risque de bulle financière liée à l'IA
+    Next.ink : https://next.ink/261430/pour-le-fmi-une-chute-des-cours-de-lia-menacerait-la-stabilite-financiere-mondiale/
+
+Genere automatiquement par Culture G.</itunes:summary>
+      <itunes:subtitle>Au programme aujourd'hui : le lancement du modèle Gemini 4 Argon de Google, la mise en faillite de Character.AI convoitée par Disney, le recyclage des données de startups mortes, la redéfinition de la seconde d'ici 2030 et l'alerte du FMI.</itunes:subtitle>
+      <itunes:duration>00:06:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://scadagoal.github.io/culture-g/episodes/2026-10-14.mp3" length="2987949" type="audio/mpeg"/>
+    </item>
     <item>
       <title>Meta riposte, frigos piratés et guerre des datacenters</title>
       <link>https://scadagoal.github.io/culture-g/</link>
