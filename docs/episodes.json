@@ -1,5 +1,15 @@
 [
   {
+    "slug": "2026-10-15",
+    "title": "Starlink bridé à 160 km/h : la guerre sous contrôle privé",
+    "teaser": "SpaceX bride ses terminaux en Ukraine dès qu'ils dépassent 160 km/h, paralysant les drones rapides de l'armée. Retour sur cette décision unilatérale et sur les autres actualités fortes du jour, d'une alerte d'Anthropic à une découverte démographique majeure.",
+    "notes": "Sources de cet episode :\n\n- Starlink bridé à 160 km/h en Ukraine : le vertige de la dépendance technologique\n    Numerama : https://www.numerama.com/tech/2352831-spacex-bride-starlink-a-160-km-h-en-ukraine-quatre-jours-apres-quelon-musk-a-juge-que-zelensky-est-alle-trop-loin.html\n    Next.ink : https://next.ink/261713/lukraine-accuse-starlink-davoir-restreint-lacces-a-internet-de-ses-forces-militaires/\n    Numerama : https://www.numerama.com/politique/2353269-starlink-bride-en-ukraine-un-ministre-polonais-tance-elon-musk-mon-grand-tu-fais-encore-de-la-politique-avec-tes-produits.html\n    Ars Technica : https://arstechnica.com/gadgets/2026/10/ukraine-blindsided-by-starlink-throttling-restrictions-and-intelligence-gaps/\n- Alerte d'Anthropic : les petits modèles d'IA pourraient s'autorépliquer sur l'IoT\n    Ars Technica : https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/\n- Espionnage chez OpenAI : micro espion et arrestation d'un ingénieur par le FBI\n    Ars Technica : https://arstechnica.com/tech-policy/2026/10/fbi-arrests-openai-engineer-suspected-of-planting-bug-in-conference-room/\n- Bio-ingénierie : des enzymes créées par IA pour détruire des liaisons moléculaires réputées indestructibles\n    Ars Technica : https://arstechnica.com/science/2026/10/researchers-use-ai-to-design-proteins-that-cut-up-other-proteins/\n- Démographie historique : 93 % de la population aborigène australienne anéantie en 73 ans\n    ScienceDaily : https://www.sciencedaily.com/releases/2026/10/261013015807.htm\n\nGenere automatiquement par Culture G.",
+    "audio": "2026-10-15.mp3",
+    "bytes": 6252717,
+    "duration": 781.52,
+    "published": "2026-10-15T05:16:08.415298+00:00"
+  },
+  {
     "slug": "2026-10-14",
     "title": "Google contre-attaque avec Gemini 4 Argon et séisme chez Character.AI",
     "teaser": "Au programme aujourd'hui : le lancement du modèle Gemini 4 Argon de Google, la mise en faillite de Character.AI convoitée par Disney, le recyclage des données de startups mortes, la redéfinition de la seconde d'ici 2030 et l'alerte du FMI.",
