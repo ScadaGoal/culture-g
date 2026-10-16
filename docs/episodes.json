@@ -1,5 +1,15 @@
 [
   {
+    "slug": "2026-10-16",
+    "title": "IA spécialisée, pub espionne et reins cryogénisés",
+    "teaser": "Mistral, OpenAI et Google DeepMind abandonnent la course aux modèles géants pour lancer des architectures ultra-spécialisées taillées pour l'industrie et la biologie. Dans le même temps, une enquête révèle comment le réseau publicitaire mondial a servi à injecter des logiciels espions en zéro-clic.",
+    "notes": "Sources de cet episode :\n\n- L'assaut des modèles d'IA ultra-spécialisés : Mistral, OpenAI et DeepMind ouvrent le bal\n    Mistral AI : https://mistral.ai/news/timestral/\n    OpenAI : https://openai.com/index/introducing-the-rosalind-academic-plan\n    Google DeepMind : https://deepmind.google/blog/accelerating-antimicrobial-discovery/\n    Hacker News : https://research.meta.ai/blog/muse-spark-open\n- AdFection : la publicité ciblée détournée en vecteur d'espionnage « zéro-clic »\n    Ars Technica : https://arstechnica.com/security/2026/10/targeted-ads-delivered-0-click-exploits-to-install-mercenary-malware/\n    Next.ink : https://next.ink/262019/al-jazeera-touchee-par-un-nouveau-type-dattaques-zero-clic-utilisant-les-pubs-ciblees/\n    Hacker News : https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/\n- Cryogénie médicale : réveiller un organe congelé un an à -150 °C\n    MIT Tech Review : https://www.technologyreview.com/2026/10/15/1146091/pig-kidneys-that-were-frozen-for-a-year-have-been-brought-back-to-life/\n    MIT Tech Review : https://www.technologyreview.com/2026/10/15/1146755/the-download-reviving-frozen-pig-kidneys-boosting-nuclear-power/\n- Neurosciences : le cerveau sous anesthésie continue d'écouter et de prédire\n    ScienceDaily : https://www.sciencedaily.com/releases/2026/10/261015003440.htm\n- Histoire des technologies : les racines méconnues des statistiques et de l'IA\n    Next.ink : https://next.ink/261634/ghost-in-the-machine-ia-eugenisme-et-sophisme-genetique/\n\nGenere automatiquement par Culture G.",
+    "audio": "2026-10-16.mp3",
+    "bytes": 7501869,
+    "duration": 937.68,
+    "published": "2026-10-16T05:11:59.513175+00:00"
+  },
+  {
     "slug": "2026-10-15",
     "title": "Starlink bridé à 160 km/h : la guerre sous contrôle privé",
     "teaser": "SpaceX bride ses terminaux en Ukraine dès qu'ils dépassent 160 km/h, paralysant les drones rapides de l'armée. Retour sur cette décision unilatérale et sur les autres actualités fortes du jour, d'une alerte d'Anthropic à une découverte démographique majeure.",

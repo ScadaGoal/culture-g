@@ -8,7 +8,7 @@
     <atom:link href="https://scadagoal.github.io/culture-g/feed.xml" rel="self" type="application/rss+xml"/>
     <language>fr-FR</language>
     <description>Un condense quotidien de l'actualite de l'intelligence artificielle, de la tech et de la science, monte en dialogue et genere automatiquement. L'IA en fil rouge, mais on ouvre large : histoire, sciences dures, societe.</description>
-    <lastBuildDate>Thu, 15 Oct 2026 05:20:36 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 05:17:24 +0000</lastBuildDate>
     <generator>Culture G</generator>
     <itunes:author>Culture G</itunes:author>
     <itunes:subtitle>Votre veille IA, tech et science, chaque matin</itunes:subtitle>
@@ -20,6 +20,61 @@
     <itunes:owner>
       <itunes:name>Culture G</itunes:name>
     </itunes:owner>
+    <item>
+      <title>IA spécialisée, pub espionne et reins cryogénisés</title>
+      <link>https://scadagoal.github.io/culture-g/</link>
+      <guid isPermaLink="false">culture-g-2026-10-16</guid>
+      <pubDate>Fri, 16 Oct 2026 05:11:59 +0000</pubDate>
+      <description>Mistral, OpenAI et Google DeepMind abandonnent la course aux modèles géants pour lancer des architectures ultra-spécialisées taillées pour l'industrie et la biologie. Dans le même temps, une enquête révèle comment le réseau publicitaire mondial a servi à injecter des logiciels espions en zéro-clic.
+
+Sources de cet episode :
+
+- L'assaut des modèles d'IA ultra-spécialisés : Mistral, OpenAI et DeepMind ouvrent le bal
+    Mistral AI : https://mistral.ai/news/timestral/
+    OpenAI : https://openai.com/index/introducing-the-rosalind-academic-plan
+    Google DeepMind : https://deepmind.google/blog/accelerating-antimicrobial-discovery/
+    Hacker News : https://research.meta.ai/blog/muse-spark-open
+- AdFection : la publicité ciblée détournée en vecteur d'espionnage « zéro-clic »
+    Ars Technica : https://arstechnica.com/security/2026/10/targeted-ads-delivered-0-click-exploits-to-install-mercenary-malware/
+    Next.ink : https://next.ink/262019/al-jazeera-touchee-par-un-nouveau-type-dattaques-zero-clic-utilisant-les-pubs-ciblees/
+    Hacker News : https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/
+- Cryogénie médicale : réveiller un organe congelé un an à -150 °C
+    MIT Tech Review : https://www.technologyreview.com/2026/10/15/1146091/pig-kidneys-that-were-frozen-for-a-year-have-been-brought-back-to-life/
+    MIT Tech Review : https://www.technologyreview.com/2026/10/15/1146755/the-download-reviving-frozen-pig-kidneys-boosting-nuclear-power/
+- Neurosciences : le cerveau sous anesthésie continue d'écouter et de prédire
+    ScienceDaily : https://www.sciencedaily.com/releases/2026/10/261015003440.htm
+- Histoire des technologies : les racines méconnues des statistiques et de l'IA
+    Next.ink : https://next.ink/261634/ghost-in-the-machine-ia-eugenisme-et-sophisme-genetique/
+
+Genere automatiquement par Culture G.</description>
+      <itunes:summary>Mistral, OpenAI et Google DeepMind abandonnent la course aux modèles géants pour lancer des architectures ultra-spécialisées taillées pour l'industrie et la biologie. Dans le même temps, une enquête révèle comment le réseau publicitaire mondial a servi à injecter des logiciels espions en zéro-clic.
+
+Sources de cet episode :
+
+- L'assaut des modèles d'IA ultra-spécialisés : Mistral, OpenAI et DeepMind ouvrent le bal
+    Mistral AI : https://mistral.ai/news/timestral/
+    OpenAI : https://openai.com/index/introducing-the-rosalind-academic-plan
+    Google DeepMind : https://deepmind.google/blog/accelerating-antimicrobial-discovery/
+    Hacker News : https://research.meta.ai/blog/muse-spark-open
+- AdFection : la publicité ciblée détournée en vecteur d'espionnage « zéro-clic »
+    Ars Technica : https://arstechnica.com/security/2026/10/targeted-ads-delivered-0-click-exploits-to-install-mercenary-malware/
+    Next.ink : https://next.ink/262019/al-jazeera-touchee-par-un-nouveau-type-dattaques-zero-clic-utilisant-les-pubs-ciblees/
+    Hacker News : https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/
+- Cryogénie médicale : réveiller un organe congelé un an à -150 °C
+    MIT Tech Review : https://www.technologyreview.com/2026/10/15/1146091/pig-kidneys-that-were-frozen-for-a-year-have-been-brought-back-to-life/
+    MIT Tech Review : https://www.technologyreview.com/2026/10/15/1146755/the-download-reviving-frozen-pig-kidneys-boosting-nuclear-power/
+- Neurosciences : le cerveau sous anesthésie continue d'écouter et de prédire
+    ScienceDaily : https://www.sciencedaily.com/releases/2026/10/261015003440.htm
+- Histoire des technologies : les racines méconnues des statistiques et de l'IA
+    Next.ink : https://next.ink/261634/ghost-in-the-machine-ia-eugenisme-et-sophisme-genetique/
+
+Genere automatiquement par Culture G.</itunes:summary>
+      <itunes:subtitle>Mistral, OpenAI et Google DeepMind abandonnent la course aux modèles géants pour lancer des architectures ultra-spécialisées taillées pour l'industrie et la biologie. Dans le même temps, une enquête révèle comment le réseau publicitaire mondial a servi à </itunes:subtitle>
+      <itunes:duration>00:15:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://scadagoal.github.io/culture-g/episodes/2026-10-16.mp3" length="7501869" type="audio/mpeg"/>
+    </item>
     <item>
       <title>Starlink bridé à 160 km/h : la guerre sous contrôle privé</title>
       <link>https://scadagoal.github.io/culture-g/</link>
