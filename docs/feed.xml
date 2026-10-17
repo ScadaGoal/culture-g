@@ -8,7 +8,7 @@
     <atom:link href="https://scadagoal.github.io/culture-g/feed.xml" rel="self" type="application/rss+xml"/>
     <language>fr-FR</language>
     <description>Un condense quotidien de l'actualite de l'intelligence artificielle, de la tech et de la science, monte en dialogue et genere automatiquement. L'IA en fil rouge, mais on ouvre large : histoire, sciences dures, societe.</description>
-    <lastBuildDate>Fri, 16 Oct 2026 05:17:24 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 04:48:44 +0000</lastBuildDate>
     <generator>Culture G</generator>
     <itunes:author>Culture G</itunes:author>
     <itunes:subtitle>Votre veille IA, tech et science, chaque matin</itunes:subtitle>
@@ -20,6 +20,51 @@
     <itunes:owner>
       <itunes:name>Culture G</itunes:name>
     </itunes:owner>
+    <item>
+      <title>Meta et Apple s'allient, Claude perce l'énigme de la NSA</title>
+      <link>https://scadagoal.github.io/culture-g/</link>
+      <guid isPermaLink="false">culture-g-2026-10-17</guid>
+      <pubDate>Sat, 17 Oct 2026 04:42:44 +0000</pubDate>
+      <description>Meta publie son modèle géant Muse Spark Open qu'Apple fait tourner sans Nvidia sur quatre Mac Studio en réseau. Pendant ce temps, Claude résout une énigme cryptographique vieille de vingt-cinq ans sur les courbes de la NSA.
+
+Sources de cet episode :
+
+- Muse Spark Open : Meta relance l'open source avec le soutien inattendu d'Apple
+    Next.ink : https://next.ink/262141/avec-muse-spark-open-meta-ouvre-les-poids-et-se-rapproche-dapple/
+    Hacker News : https://machinelearning.apple.com/research/mlx-distributed-inference
+- Cryptographie : comment Claude a résolu l'énigme des courbes standard de la NSA
+    Hacker News : https://www.anthropic.com/research/ecdsa-curve-origins
+- Code généré par IA dans le noyau Linux : le verdict pragmatique de Linus Torvalds
+    Next.ink : https://next.ink/262097/pour-linus-torvalds-le-code-genere-par-ia-est-legitime-a-condition-de-savoir-le-lire/
+- Biotech : l'implant sous-rétinien PRIMA rend la vision centrale aux malades de la DMLA
+    MIT Tech Review : https://www.technologyreview.com/2026/10/16/1145840/prima-implant-restores-sight-macular-degeneration-patients/
+- Histoire des sciences : les cubes d'uranium qui démontent le mythe de la bombe nazie
+    ScienceDaily : https://www.sciencedaily.com/releases/2026/10/261015073218.htm
+
+Genere automatiquement par Culture G.</description>
+      <itunes:summary>Meta publie son modèle géant Muse Spark Open qu'Apple fait tourner sans Nvidia sur quatre Mac Studio en réseau. Pendant ce temps, Claude résout une énigme cryptographique vieille de vingt-cinq ans sur les courbes de la NSA.
+
+Sources de cet episode :
+
+- Muse Spark Open : Meta relance l'open source avec le soutien inattendu d'Apple
+    Next.ink : https://next.ink/262141/avec-muse-spark-open-meta-ouvre-les-poids-et-se-rapproche-dapple/
+    Hacker News : https://machinelearning.apple.com/research/mlx-distributed-inference
+- Cryptographie : comment Claude a résolu l'énigme des courbes standard de la NSA
+    Hacker News : https://www.anthropic.com/research/ecdsa-curve-origins
+- Code généré par IA dans le noyau Linux : le verdict pragmatique de Linus Torvalds
+    Next.ink : https://next.ink/262097/pour-linus-torvalds-le-code-genere-par-ia-est-legitime-a-condition-de-savoir-le-lire/
+- Biotech : l'implant sous-rétinien PRIMA rend la vision centrale aux malades de la DMLA
+    MIT Tech Review : https://www.technologyreview.com/2026/10/16/1145840/prima-implant-restores-sight-macular-degeneration-patients/
+- Histoire des sciences : les cubes d'uranium qui démontent le mythe de la bombe nazie
+    ScienceDaily : https://www.sciencedaily.com/releases/2026/10/261015073218.htm
+
+Genere automatiquement par Culture G.</itunes:summary>
+      <itunes:subtitle>Meta publie son modèle géant Muse Spark Open qu'Apple fait tourner sans Nvidia sur quatre Mac Studio en réseau. Pendant ce temps, Claude résout une énigme cryptographique vieille de vingt-cinq ans sur les courbes de la NSA.</itunes:subtitle>
+      <itunes:duration>00:17:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://scadagoal.github.io/culture-g/episodes/2026-10-17.mp3" length="8288109" type="audio/mpeg"/>
+    </item>
     <item>
       <title>IA spécialisée, pub espionne et reins cryogénisés</title>
       <link>https://scadagoal.github.io/culture-g/</link>
@@ -2136,59 +2181,6 @@ Genere automatiquement par Culture G.</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <enclosure url="https://scadagoal.github.io/culture-g/episodes/2026-08-18.mp3" length="5540589" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Claude tatoué, Qwen qui surchauffe et Stripe s'offre l'IA</title>
-      <link>https://scadagoal.github.io/culture-g/</link>
-      <guid isPermaLink="false">culture-g-2026-08-17</guid>
-      <pubDate>Mon, 17 Aug 2026 21:25:48 +0000</pubDate>
-      <description>Anthropic intègre un filigrane invisible dans les textes de Claude et déclenche la fronde des utilisateurs. Pendant ce temps, le nouveau modèle d'Alibaba passe vingt minutes à réfléchir sur un cercle en SVG, et Stripe met sept milliards sur la table pour OpenRouter.
-
-Sources de cet episode :
-
-- Tatouage numérique : Anthropic révèle le fonctionnement du filigrane de Claude et suscite la fronde
-    Next.ink : https://next.ink/251980/anthropic-le-tatouage-de-claude-se-niche-dans-le-choix-des-mots/
-    Numerama : https://www.numerama.com/tech/2312505-la-fronde-contre-le-marquage-des-textes-de-claude-sorganise-ces-outils-traquent-deja-les-failles-du-filigrane.html
-    Hacker News : https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing
-- Qwen 3.8 27B : d'excellentes performances, mais un biais d'« overthinking »
-    Hacker News : https://artificialanalysis.ai/models/qwen3-8-27b
-    Hacker News : https://simonwillison.net/2026/Aug/16/qwen-38-27b/
-- Stripe s'apprête à racheter OpenRouter pour 7 milliards de dollars
-    Next.ink : https://next.ink/251881/stripe-sapprete-a-racheter-openrouter-pour-7-milliards-de-dollars/
-    Hacker News : https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/
-- La traque du texte inédit : quand les géants de l'IA pillent les librairies d'occasion
-    Ars Technica : https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/
-    Next.ink : https://next.ink/251888/ia-series-dachats-bizarres-aupres-de-librairies-doccasion-anglaises-et-irlandaises/
-- Histoire &amp; Science : la seule victime connue d'un tir de trébuchet médiéval
-    Ars Technica : https://arstechnica.com/science/2026/08/meet-the-only-known-trebuchet-casualty-in-history/
-
-Genere automatiquement par Culture G.</description>
-      <itunes:summary>Anthropic intègre un filigrane invisible dans les textes de Claude et déclenche la fronde des utilisateurs. Pendant ce temps, le nouveau modèle d'Alibaba passe vingt minutes à réfléchir sur un cercle en SVG, et Stripe met sept milliards sur la table pour OpenRouter.
-
-Sources de cet episode :
-
-- Tatouage numérique : Anthropic révèle le fonctionnement du filigrane de Claude et suscite la fronde
-    Next.ink : https://next.ink/251980/anthropic-le-tatouage-de-claude-se-niche-dans-le-choix-des-mots/
-    Numerama : https://www.numerama.com/tech/2312505-la-fronde-contre-le-marquage-des-textes-de-claude-sorganise-ces-outils-traquent-deja-les-failles-du-filigrane.html
-    Hacker News : https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing
-- Qwen 3.8 27B : d'excellentes performances, mais un biais d'« overthinking »
-    Hacker News : https://artificialanalysis.ai/models/qwen3-8-27b
-    Hacker News : https://simonwillison.net/2026/Aug/16/qwen-38-27b/
-- Stripe s'apprête à racheter OpenRouter pour 7 milliards de dollars
-    Next.ink : https://next.ink/251881/stripe-sapprete-a-racheter-openrouter-pour-7-milliards-de-dollars/
-    Hacker News : https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/
-- La traque du texte inédit : quand les géants de l'IA pillent les librairies d'occasion
-    Ars Technica : https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/
-    Next.ink : https://next.ink/251888/ia-series-dachats-bizarres-aupres-de-librairies-doccasion-anglaises-et-irlandaises/
-- Histoire &amp; Science : la seule victime connue d'un tir de trébuchet médiéval
-    Ars Technica : https://arstechnica.com/science/2026/08/meet-the-only-known-trebuchet-casualty-in-history/
-
-Genere automatiquement par Culture G.</itunes:summary>
-      <itunes:subtitle>Anthropic intègre un filigrane invisible dans les textes de Claude et déclenche la fronde des utilisateurs. Pendant ce temps, le nouveau modèle d'Alibaba passe vingt minutes à réfléchir sur un cercle en SVG, et Stripe met sept milliards sur la table pour </itunes:subtitle>
-      <itunes:duration>00:10:43</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <enclosure url="https://scadagoal.github.io/culture-g/episodes/2026-08-17.mp3" length="5140653" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
