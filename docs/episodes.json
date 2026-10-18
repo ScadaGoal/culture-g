@@ -1,5 +1,15 @@
 [
   {
+    "slug": "2026-10-18",
+    "title": "DeepSeek Flash, le tournant solaire et l'odeur du vide",
+    "teaser": "DeepSeek bouscule à nouveau le marché avec son modèle v4.1 Flash à prix cassé pendant que l'énergie solaire dépasse pour la première fois la production nucléaire mondiale. Nous verrons aussi pourquoi les serveurs abandonnent la seconde intercalaire et pourquoi l'espace sent le barbecue.",
+    "notes": "Sources de cet episode :\n\n- DeepSeek lance v4.1 Flash : l'offensive chinoise sur la vitesse et l'efficience se poursuit\n    Hacker News : https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017\n    Hacker News : https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017\n- Tournant énergétique mondial : l'énergie solaire dépasse le nucléaire\n    Hacker News : https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/\n- Pourquoi la « seconde intercalaire » qui fait trembler les serveurs va disparaître\n    Numerama : https://www.numerama.com/sciences/2353213-cette-seconde-speciale-quon-ajoute-pour-sadapter-aux-caprices-de-la-rotation-terrestre-pourrait-bientot-disparaitre.html\n- « Un barbecue qui a mal tourné » : le secret des odeurs de l'espace raconté par Sophie Adenot\n    Numerama : https://www.numerama.com/sciences/2352895-un-barbecue-qui-a-mal-tourne-lastronaute-francaise-sophie-adenot-nous-decrit-les-odeurs-surprenantes-de-lespace.html\n\nGenere automatiquement par Culture G.",
+    "audio": "2026-10-18.mp3",
+    "bytes": 7805613,
+    "duration": 975.64,
+    "published": "2026-10-18T04:49:04.642708+00:00"
+  },
+  {
     "slug": "2026-10-17",
     "title": "Meta et Apple s'allient, Claude perce l'énigme de la NSA",
     "teaser": "Meta publie son modèle géant Muse Spark Open qu'Apple fait tourner sans Nvidia sur quatre Mac Studio en réseau. Pendant ce temps, Claude résout une énigme cryptographique vieille de vingt-cinq ans sur les courbes de la NSA.",
@@ -448,15 +458,5 @@
     "bytes": 5999853,
     "duration": 749.92,
     "published": "2026-08-19T07:59:10.471515+00:00"
-  },
-  {
-    "slug": "2026-08-18",
-    "title": "Guerre d'influence sur les IA et baisses de prix chez OpenAI",
-    "teaser": "Des opérations d'influence conçoivent désormais de faux contenus académiques pour manipuler les réponses des chatbots. Dans le même temps, OpenAI divise par deux les tarifs d'inférence de GPT-5.6 Sol.",
-    "notes": "Sources de cet episode :\n\n- Désinformation ciblée : quand un État crée de faux sites pour duper les LLM\n    Hacker News : https://responsiblestatecraft.org/israel-influence-chatgpt/\n- OpenAI réduit de 50 % le coût d'inférence de GPT-5.6 Sol\n    Hacker News : https://openrouter.ai/openai/gpt-5.6-sol\n- Espace : La sortie spatiale historique de l'astronaute française Sophie Adenot\n    Numerama : https://www.numerama.com/sciences/2312351-sophie-adenot-suivez-en-direct-sa-sortie-spatiale-historique-hors-de-liss-aujourdhui.html\n- Physique quantique : le vide spatial n'est pas vraiment vide\n    ScienceDaily : https://www.sciencedaily.com/releases/2026/08/260815065007.htm\n\nGenere automatiquement par Culture G.",
-    "audio": "2026-08-18.mp3",
-    "bytes": 5540589,
-    "duration": 692.52,
-    "published": "2026-08-18T08:28:05.684937+00:00"
   }
 ]
