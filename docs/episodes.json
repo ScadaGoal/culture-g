@@ -1,5 +1,15 @@
 [
   {
+    "slug": "2026-10-19",
+    "title": "Arcadia contre Palantir et le jour-lumière de Voyager 1",
+    "teaser": "La France lance Arcadia, son IA de commandement militaire pour s'émanciper du géant américain Palantir. Au même moment, la sonde Voyager 1 franchit le seuil mythique du jour-lumière à près de 26 milliards de kilomètres de la Terre.",
+    "notes": "Sources de cet episode :\n\n- Arcadia : la France lance son IA de commandement militaire face à Palantir\n    Numerama : https://www.numerama.com/tech/2351643-je-pense-quil-faut-refuser-de-dependre-de-solutions-americaines-avec-arcadia-la-france-mise-sur-son-ia-de-commandement-pour-echapper-a-lamericain-palantir.html\n- Voyager 1 : la sonde spatiale franchit le seuil mythique du « jour-lumière »\n    Numerama : https://www.numerama.com/sciences/2352555-le-decompte-final-a-commence-voyager-1-va-franchir-une-distance-si-grande-quil-faut-changer-dechelle-dunite.html\n- Anthropic accorde un accès « interne » sans filtre à un observateur d'IA indépendant\n    Ars Technica : https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/\n- Un piège invisible dans votre barre d'adresse : le danger des homoglyphes\n    Numerama : https://www.numerama.com/cyberguerre/2353923-vous-ne-voyez-aucune-difference-entre-ce-a-et-ce-%d0%b0-et-cest-un-enorme-probleme-de-cybersecurite.html\n\nGenere automatiquement par Culture G.",
+    "audio": "2026-10-19.mp3",
+    "bytes": 7068717,
+    "duration": 883.52,
+    "published": "2026-10-19T04:56:24.427021+00:00"
+  },
+  {
     "slug": "2026-10-18",
     "title": "DeepSeek Flash, le tournant solaire et l'odeur du vide",
     "teaser": "DeepSeek bouscule à nouveau le marché avec son modèle v4.1 Flash à prix cassé pendant que l'énergie solaire dépasse pour la première fois la production nucléaire mondiale. Nous verrons aussi pourquoi les serveurs abandonnent la seconde intercalaire et pourquoi l'espace sent le barbecue.",
@@ -438,25 +448,5 @@
     "bytes": 6523437,
     "duration": 815.36,
     "published": "2026-08-21T04:13:53.203570+00:00"
-  },
-  {
-    "slug": "2026-08-20",
-    "title": "OpenAI suspend Astra : coup de frein sur la cyberdéfense",
-    "teaser": "OpenAI interrompt l'entraînement de son prochain modèle de pointe face à des capacités cyberoffensives émergentes. Nous revenons également sur la victoire clinique du premier vaccin à ARNm contre le mélanome et l'autonomie accordée à Claude dans Gmail.",
-    "notes": "Sources de cet episode :\n\n- OpenAI suspend l'entraînement de son futur modèle Astra pour des raisons de sécurité cyber\n    Numerama : https://www.numerama.com/tech/2313749-nous-suspendons-certains-entrainements-de-nos-modeles-dia-de-pointe-openai-met-un-coup-de-frein-dans-la-course-aux-capacites-apres-laffaire-hugging-face.html\n- Victoire majeure pour le premier vaccin à ARNm contre le cancer en Phase 3\n    Numerama : https://www.numerama.com/sciences/2314221-cancer-de-la-peau-le-premier-vaccin-a-base-darnm-franchit-une-phase-decisive.html\n    Ars Technica : https://arstechnica.com/health/2026/08/mrna-cancer-vaccine-succeeded-in-phase-3-melanoma-trial-moderna-and-merck-say/\n    Hacker News : https://twitter.com/NoubarAfeyan/status/2090050162441752787\n- Claude passe à l'action : Anthropic intègre son assistant directement dans Gmail\n    Numerama : https://www.numerama.com/tech/2313921-claude-peut-desormais-envoyer-des-mails-a-votre-place-meme-sans-validation.html\n- Cartes bancaires « zombies » : la faille de sécurité qui ressuscite des puces Visa expirées\n    Numerama : https://www.numerama.com/cyberguerre/2314109-les-cartes-zombies-sont-de-retour-en-ligne-comment-une-faille-visa-permet-de-ressusciter-des-cartes-expirees.html\n    Next.ink : https://next.ink/252238/des-chercheurs-ont-fait-revivre-des-cartes-visa-sans-contact-apres-expiration/\n- Espace : la fusée chinoise LandSpace réussit son premier atterrissage vertical\n    Numerama : https://www.numerama.com/sciences/2313903-il-y-a-huit-mois-cette-fusee-chinoise-explosait-au-sol-aujourdhui-elle-atterrit-comme-une-falcon-9.html\n    Ars Technica : https://arstechnica.com/space/2026/08/the-floodgates-are-open-after-another-chinese-company-lands-a-reusable-rocket/\n\nGenere automatiquement par Culture G.",
-    "audio": "2026-08-20.mp3",
-    "bytes": 5802093,
-    "duration": 725.2,
-    "published": "2026-08-20T04:10:14.652251+00:00"
-  },
-  {
-    "slug": "2026-08-19",
-    "title": "L'IA dévore la mémoire des faillites et des livres rares",
-    "teaser": "Des archives de compagnies aériennes rachetées par Google aux livres anciens détruits par Amazon, enquête sur la grande traque des données d'entraînement réelles. Découvrez aussi la stratégie des faux think-tanks pour empoisonner les chatbots et pourquoi les robots échouent toujours dans l'espace.",
-    "notes": "Sources de cet episode :\n\n- La grande braderie des données : quand l'IA dévore les faillites et les livres anciens\n    Next.ink : https://next.ink/252219/google-entraine-son-ia-avec-les-donnees-dune-compagnie-aerienne-en-faillite/\n    Numerama : https://www.numerama.com/tech/2313373-nourrir-lia-avec-les-cadavres-dentreprises-google-pose-10-millions-de-dollars-pour-racheter-les-mails-dune-compagnie-aerienne-morte.html\n    Hacker News : https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962\n    Numerama : https://www.numerama.com/tech/2313051-un-airtag-revele-ou-finissent-les-livres-quamazon-achete-et-detruit-en-masse.html\n- Infiltration d'IA : la création d'un faux think-tank pour orienter les chatbots\n    Next.ink : https://next.ink/252028/pour-israel-des-agences-de-com-creent-un-faux-think-tank-pour-influencer-les-chatbots/\n- OpenAI lance ChatGPT pour les ados et fait valoir l'impact de Codex\n    OpenAI : https://openai.com/index/chatgpt-for-teens\n    OpenAI : https://openai.com/index/asana\n    Next.ink : https://next.ink/252113/apres-avoir-mis-sur-pause-la-version-adulte-de-chatgpt-openai-lance-sa-version-ado/\n- Sortie spatiale de Sophie Adenot : pourquoi les robots n'ont toujours pas remplacé les astronautes\n    Numerama : https://www.numerama.com/sciences/2312351-sophie-adenot-est-en-combinaison-suivez-en-direct-sa-sortie-spatiale-historique-hors-de-liss.html\n    Numerama : https://www.numerama.com/sciences/2313219-sophie-adenot-remplacee-par-un-robot-pour-sa-sortie-dans-lespace-lhistoire-du-projet-avorte-de-la-nasa.html\n- Sciences : une nouvelle espèce animale découverte grâce à une vidéo TikTok\n    Numerama : https://www.numerama.com/sciences/2313411-on-a-decouvert-un-poisson-souterrain-inconnu-et-cest-grace-a-une-video-sur-tiktok.html\n\nGenere automatiquement par Culture G.",
-    "audio": "2026-08-19.mp3",
-    "bytes": 5999853,
-    "duration": 749.92,
-    "published": "2026-08-19T07:59:10.471515+00:00"
   }
 ]
