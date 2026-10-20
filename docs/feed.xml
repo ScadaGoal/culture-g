@@ -8,7 +8,7 @@
     <atom:link href="https://scadagoal.github.io/culture-g/feed.xml" rel="self" type="application/rss+xml"/>
     <language>fr-FR</language>
     <description>Un condense quotidien de l'actualite de l'intelligence artificielle, de la tech et de la science, monte en dialogue et genere automatiquement. L'IA en fil rouge, mais on ouvre large : histoire, sciences dures, societe.</description>
-    <lastBuildDate>Mon, 19 Oct 2026 05:01:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 05:19:01 +0000</lastBuildDate>
     <generator>Culture G</generator>
     <itunes:author>Culture G</itunes:author>
     <itunes:subtitle>Votre veille IA, tech et science, chaque matin</itunes:subtitle>
@@ -20,6 +20,55 @@
     <itunes:owner>
       <itunes:name>Culture G</itunes:name>
     </itunes:owner>
+    <item>
+      <title>L'IA bouscule Riemann, le CERN et le jeu vidéo</title>
+      <link>https://scadagoal.github.io/culture-g/</link>
+      <guid isPermaLink="false">culture-g-2026-10-20</guid>
+      <pubDate>Tue, 20 Oct 2026 05:13:56 +0000</pubDate>
+      <description>Une IA d'OpenAI vient d'ébranler la théorie des nombres en s'attaquant à la quasi-hypothèse de Riemann, tandis que le CERN s'allie à Mistral. Tour d'horizon d'une actualité scientifique où les frontières théoriques volent en éclats, des particules aux lunes martiennes.
+
+Sources de cet episode :
+
+- L'IA démontre l'hypothèse de Quasi-Riemann : un tournant pour les mathématiques
+    Quanta Magazine : https://www.quantamagazine.org/ai-proved-the-quasi-riemann-hypothesis-what-happens-now-20261019/
+- Partenariat stratégique entre le CERN et Mistral AI
+    Hacker News : https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/
+- Mission MMX : le rover franco-japonais Idéfix s'envole vers Phobos
+    Numerama : https://www.numerama.com/sciences/2355859-un-aller-vers-phobos-a-suivre-en-direct-le-rover-idefix-senvole-ce-soir-pour-defricher-la-lune-de-mars.html
+    Next.ink : https://next.ink/262715/mmx-pret-a-decoller-en-compagnie-didefix-vers-phobos-un-des-deux-satellites-de-mars/
+- L'émergence des comportements autonomes chez les agents IA
+    Numerama : https://www.numerama.com/tech/2355781-des-agents-ia-de-google-deepmind-ont-boucle-minecraft-en-27-heures-en-se-repartissant-les-taches.html
+    MIT Tech Review : https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/
+- L'énigme de la toute première « étoile verte » observée par des astronomes
+    Numerama : https://www.numerama.com/sciences/2355801-les-etoiles-vertes-netaient-pas-censees-exister-des-astronomes-viennent-pourtant-den-trouver-une.html
+    ScienceDaily : https://www.sciencedaily.com/releases/2026/10/261017230018.htm
+
+Genere automatiquement par Culture G.</description>
+      <itunes:summary>Une IA d'OpenAI vient d'ébranler la théorie des nombres en s'attaquant à la quasi-hypothèse de Riemann, tandis que le CERN s'allie à Mistral. Tour d'horizon d'une actualité scientifique où les frontières théoriques volent en éclats, des particules aux lunes martiennes.
+
+Sources de cet episode :
+
+- L'IA démontre l'hypothèse de Quasi-Riemann : un tournant pour les mathématiques
+    Quanta Magazine : https://www.quantamagazine.org/ai-proved-the-quasi-riemann-hypothesis-what-happens-now-20261019/
+- Partenariat stratégique entre le CERN et Mistral AI
+    Hacker News : https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/
+- Mission MMX : le rover franco-japonais Idéfix s'envole vers Phobos
+    Numerama : https://www.numerama.com/sciences/2355859-un-aller-vers-phobos-a-suivre-en-direct-le-rover-idefix-senvole-ce-soir-pour-defricher-la-lune-de-mars.html
+    Next.ink : https://next.ink/262715/mmx-pret-a-decoller-en-compagnie-didefix-vers-phobos-un-des-deux-satellites-de-mars/
+- L'émergence des comportements autonomes chez les agents IA
+    Numerama : https://www.numerama.com/tech/2355781-des-agents-ia-de-google-deepmind-ont-boucle-minecraft-en-27-heures-en-se-repartissant-les-taches.html
+    MIT Tech Review : https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/
+- L'énigme de la toute première « étoile verte » observée par des astronomes
+    Numerama : https://www.numerama.com/sciences/2355801-les-etoiles-vertes-netaient-pas-censees-exister-des-astronomes-viennent-pourtant-den-trouver-une.html
+    ScienceDaily : https://www.sciencedaily.com/releases/2026/10/261017230018.htm
+
+Genere automatiquement par Culture G.</itunes:summary>
+      <itunes:subtitle>Une IA d'OpenAI vient d'ébranler la théorie des nombres en s'attaquant à la quasi-hypothèse de Riemann, tandis que le CERN s'allie à Mistral. Tour d'horizon d'une actualité scientifique où les frontières théoriques volent en éclats, des particules aux lun</itunes:subtitle>
+      <itunes:duration>00:15:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://scadagoal.github.io/culture-g/episodes/2026-10-20.mp3" length="7326189" type="audio/mpeg"/>
+    </item>
     <item>
       <title>Arcadia contre Palantir et le jour-lumière de Voyager 1</title>
       <link>https://scadagoal.github.io/culture-g/</link>
@@ -2073,49 +2122,6 @@ Genere automatiquement par Culture G.</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <enclosure url="https://scadagoal.github.io/culture-g/episodes/2026-08-22.mp3" length="7611309" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Mistral Agentic Search, Qwen débridé et l'arbre d'Homo</title>
-      <link>https://scadagoal.github.io/culture-g/</link>
-      <guid isPermaLink="false">culture-g-2026-08-21</guid>
-      <pubDate>Fri, 21 Aug 2026 04:13:53 +0000</pubDate>
-      <description>Mistral dévoile une recherche agentique pour en finir avec les hallucinations sur les documents complexes. De son côté, la paléoanthropologie propose de réécrire cinq millions d'années d'évolution humaine.
-
-Sources de cet episode :
-
-- Mistral AI dévoile Agentic Search pour révolutionner la recherche documentaire
-    Mistral AI : https://mistral.ai/news/agentic-search/
-- Les versions débridées de l'IA chinoise Qwen inquiètent la communauté tech
-    Numerama : https://www.numerama.com/cyberguerre/2314343-il-fera-tout-ce-que-vous-lui-demanderez-les-versions-uncensored-du-modele-dia-chinois-qwen-affolent-les-reseaux.html
-- Terence Tao utilise l'humour pour cadrer le vrai rôle de l'IA dans les mathématiques
-    Numerama : https://www.numerama.com/tech/2314973-terence-tao-le-mozart-des-maths-modernes-brandit-un-meme-pour-expliquer-le-souci-des-maths-a-lere-de-lia.html
-- Quand le logiciel espion 'secret défense' de la DGSI s'avère être un simple projet GitHub
-    Next.ink : https://next.ink/252247/le-logiciel-espion-secret-defense-de-la-dgsi-etait-un-fork-dun-exploit-disponible-sur-github/
-- Pourquoi l'arbre généalogique de l'humanité pourrait être entièrement réécrit
-    ScienceDaily : https://www.sciencedaily.com/releases/2026/08/260820002413.htm
-
-Genere automatiquement par Culture G.</description>
-      <itunes:summary>Mistral dévoile une recherche agentique pour en finir avec les hallucinations sur les documents complexes. De son côté, la paléoanthropologie propose de réécrire cinq millions d'années d'évolution humaine.
-
-Sources de cet episode :
-
-- Mistral AI dévoile Agentic Search pour révolutionner la recherche documentaire
-    Mistral AI : https://mistral.ai/news/agentic-search/
-- Les versions débridées de l'IA chinoise Qwen inquiètent la communauté tech
-    Numerama : https://www.numerama.com/cyberguerre/2314343-il-fera-tout-ce-que-vous-lui-demanderez-les-versions-uncensored-du-modele-dia-chinois-qwen-affolent-les-reseaux.html
-- Terence Tao utilise l'humour pour cadrer le vrai rôle de l'IA dans les mathématiques
-    Numerama : https://www.numerama.com/tech/2314973-terence-tao-le-mozart-des-maths-modernes-brandit-un-meme-pour-expliquer-le-souci-des-maths-a-lere-de-lia.html
-- Quand le logiciel espion 'secret défense' de la DGSI s'avère être un simple projet GitHub
-    Next.ink : https://next.ink/252247/le-logiciel-espion-secret-defense-de-la-dgsi-etait-un-fork-dun-exploit-disponible-sur-github/
-- Pourquoi l'arbre généalogique de l'humanité pourrait être entièrement réécrit
-    ScienceDaily : https://www.sciencedaily.com/releases/2026/08/260820002413.htm
-
-Genere automatiquement par Culture G.</itunes:summary>
-      <itunes:subtitle>Mistral dévoile une recherche agentique pour en finir avec les hallucinations sur les documents complexes. De son côté, la paléoanthropologie propose de réécrire cinq millions d'années d'évolution humaine.</itunes:subtitle>
-      <itunes:duration>00:13:35</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <enclosure url="https://scadagoal.github.io/culture-g/episodes/2026-08-21.mp3" length="6523437" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>

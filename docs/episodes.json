@@ -1,5 +1,15 @@
 [
   {
+    "slug": "2026-10-20",
+    "title": "L'IA bouscule Riemann, le CERN et le jeu vidéo",
+    "teaser": "Une IA d'OpenAI vient d'ébranler la théorie des nombres en s'attaquant à la quasi-hypothèse de Riemann, tandis que le CERN s'allie à Mistral. Tour d'horizon d'une actualité scientifique où les frontières théoriques volent en éclats, des particules aux lunes martiennes.",
+    "notes": "Sources de cet episode :\n\n- L'IA démontre l'hypothèse de Quasi-Riemann : un tournant pour les mathématiques\n    Quanta Magazine : https://www.quantamagazine.org/ai-proved-the-quasi-riemann-hypothesis-what-happens-now-20261019/\n- Partenariat stratégique entre le CERN et Mistral AI\n    Hacker News : https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/\n- Mission MMX : le rover franco-japonais Idéfix s'envole vers Phobos\n    Numerama : https://www.numerama.com/sciences/2355859-un-aller-vers-phobos-a-suivre-en-direct-le-rover-idefix-senvole-ce-soir-pour-defricher-la-lune-de-mars.html\n    Next.ink : https://next.ink/262715/mmx-pret-a-decoller-en-compagnie-didefix-vers-phobos-un-des-deux-satellites-de-mars/\n- L'émergence des comportements autonomes chez les agents IA\n    Numerama : https://www.numerama.com/tech/2355781-des-agents-ia-de-google-deepmind-ont-boucle-minecraft-en-27-heures-en-se-repartissant-les-taches.html\n    MIT Tech Review : https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/\n- L'énigme de la toute première « étoile verte » observée par des astronomes\n    Numerama : https://www.numerama.com/sciences/2355801-les-etoiles-vertes-netaient-pas-censees-exister-des-astronomes-viennent-pourtant-den-trouver-une.html\n    ScienceDaily : https://www.sciencedaily.com/releases/2026/10/261017230018.htm\n\nGenere automatiquement par Culture G.",
+    "audio": "2026-10-20.mp3",
+    "bytes": 7326189,
+    "duration": 915.72,
+    "published": "2026-10-20T05:13:56.036450+00:00"
+  },
+  {
     "slug": "2026-10-19",
     "title": "Arcadia contre Palantir et le jour-lumière de Voyager 1",
     "teaser": "La France lance Arcadia, son IA de commandement militaire pour s'émanciper du géant américain Palantir. Au même moment, la sonde Voyager 1 franchit le seuil mythique du jour-lumière à près de 26 milliards de kilomètres de la Terre.",
@@ -438,15 +448,5 @@
     "bytes": 7611309,
     "duration": 951.36,
     "published": "2026-08-22T04:09:09.537947+00:00"
-  },
-  {
-    "slug": "2026-08-21",
-    "title": "Mistral Agentic Search, Qwen débridé et l'arbre d'Homo",
-    "teaser": "Mistral dévoile une recherche agentique pour en finir avec les hallucinations sur les documents complexes. De son côté, la paléoanthropologie propose de réécrire cinq millions d'années d'évolution humaine.",
-    "notes": "Sources de cet episode :\n\n- Mistral AI dévoile Agentic Search pour révolutionner la recherche documentaire\n    Mistral AI : https://mistral.ai/news/agentic-search/\n- Les versions débridées de l'IA chinoise Qwen inquiètent la communauté tech\n    Numerama : https://www.numerama.com/cyberguerre/2314343-il-fera-tout-ce-que-vous-lui-demanderez-les-versions-uncensored-du-modele-dia-chinois-qwen-affolent-les-reseaux.html\n- Terence Tao utilise l'humour pour cadrer le vrai rôle de l'IA dans les mathématiques\n    Numerama : https://www.numerama.com/tech/2314973-terence-tao-le-mozart-des-maths-modernes-brandit-un-meme-pour-expliquer-le-souci-des-maths-a-lere-de-lia.html\n- Quand le logiciel espion 'secret défense' de la DGSI s'avère être un simple projet GitHub\n    Next.ink : https://next.ink/252247/le-logiciel-espion-secret-defense-de-la-dgsi-etait-un-fork-dun-exploit-disponible-sur-github/\n- Pourquoi l'arbre généalogique de l'humanité pourrait être entièrement réécrit\n    ScienceDaily : https://www.sciencedaily.com/releases/2026/08/260820002413.htm\n\nGenere automatiquement par Culture G.",
-    "audio": "2026-08-21.mp3",
-    "bytes": 6523437,
-    "duration": 815.36,
-    "published": "2026-08-21T04:13:53.203570+00:00"
   }
 ]
