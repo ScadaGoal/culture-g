@@ -1,5 +1,15 @@
 [
   {
+    "slug": "2026-10-21",
+    "title": "Mistral vocal, DeepSeek accélère et Google condamné",
+    "teaser": "Mistral lance Voxtral 3 pour transformer ses modèles en agents vocaux capables d'exécuter des actions en direct. Pendant ce temps, un tribunal allemand condamne Google pour les hallucinations diffamatoires de son moteur de recherche.",
+    "notes": "Sources de cet episode :\n\n- Mistral AI lance Voxtral 3, son agent vocal temps réel\n    Hacker News : https://mistral.ai/news/voxtral-3/\n- DeepSeek libère DeepInfer pour accélérer l'inférence de ses modèles\n    Hacker News : https://github.com/deepseek-ai/DeepInfer\n- Google jugé responsable des accusations diffamatoires générées par son IA\n    Next.ink : https://next.ink/262894/un-homme-accuse-a-tort-de-crime-sexuel-par-lia-de-google-lentreprise-jugee-responsable/\n- Comment de fausses statistiques en ligne finissent dans la mémoire des IA\n    Hacker News : https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web\n\nGenere automatiquement par Culture G.",
+    "audio": "2026-10-21.mp3",
+    "bytes": 6087405,
+    "duration": 760.8509583333333,
+    "published": "2026-10-21T05:03:59.241178+00:00"
+  },
+  {
     "slug": "2026-10-20",
     "title": "L'IA bouscule Riemann, le CERN et le jeu vidéo",
     "teaser": "Une IA d'OpenAI vient d'ébranler la théorie des nombres en s'attaquant à la quasi-hypothèse de Riemann, tandis que le CERN s'allie à Mistral. Tour d'horizon d'une actualité scientifique où les frontières théoriques volent en éclats, des particules aux lunes martiennes.",
@@ -438,15 +448,5 @@
     "bytes": 5122989,
     "duration": 640.32,
     "published": "2026-08-23T04:12:55.238555+00:00"
-  },
-  {
-    "slug": "2026-08-22",
-    "title": "Vision ultra-rapide, EVE Online et le mystère TRON",
-    "teaser": "DeepSeek bouscule les coûts de la vision par ordinateur pendant que DeepMind installe ses modèles dans l'univers d'EVE Online. Nous explorons aussi une percée en combinatoire vieille de trente ans et la revanche secrète du système d'exploitation japonais TRON.",
-    "notes": "Sources de cet episode :\n\n- DeepSeek dévoile v4-flash-vision : la course aux modèles multimodaux ultrarapides\n    Hacker News : https://api-docs.deepseek.com/guides/vision/\n- De Atari à EVE Online : 15 ans d'apprentissage par renforcement chez DeepMind\n    Google DeepMind : https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/\n- Un problème mathématique vieux de 30 ans résolu : l'art de l'équilibrage parfait\n    Quanta Magazine : https://www.quantamagazine.org/huge-breakthrough-in-the-math-of-imbalance-20260821/\n- L'histoire méconnue du projet TRON : quand le Japon a voulu créer un système d'exploitation mondial\n    Hacker News : https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/\n- Écouter la Terre grâce à la foudre et aux câbles sous-marins\n    Ars Technica : https://arstechnica.com/science/2026/08/researchers-use-thunderquakes-to-study-structure-of-earths-surface/\n\nGenere automatiquement par Culture G.",
-    "audio": "2026-08-22.mp3",
-    "bytes": 7611309,
-    "duration": 951.36,
-    "published": "2026-08-22T04:09:09.537947+00:00"
   }
 ]
