@@ -1,5 +1,15 @@
 [
   {
+    "slug": "2026-10-22",
+    "title": "Mistral passe au vocal, PHP sous tension et Mars à plein régime",
+    "teaser": "Mistral sort de sa zone de confort avec deux nouveaux modèles dédiés à la voix et aux séries temporelles, tandis qu'une faille critique découverte avec l'aide de l'IA secoue l'écosystème PHP. Nous verrons aussi comment un essaim d'agents virtuels et la biologie moléculaire bousculent la recherche médicale.",
+    "notes": "Sources de cet episode :\n\n- Mistral AI diversifie ses modèles avec Voxtral 3 et Timestral\n    Next.ink : https://next.ink/263031/mistral-revient-sur-laudio-avec-voxtral-3-et-entre-dans-les-previsions-avec-timestral/\n- Panique sur le Web : des failles critiques corrigées d'urgence dans PHP\n    Numerama : https://www.numerama.com/tech/2358375-des-sites-web-inaccessibles-du-japon-a-leurope-les-autorites-appellent-a-mettre-php-a-jour-en-urgence.html\n    Hacker News : https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/\n    Next.ink : https://next.ink/262987/php-va-corriger-deux-vulnerabilites-critiques-aujourdhui/\n    Hacker News : https://github.com/php/php-src/releases/tag/php-8.2.35\n    Hacker News : https://www.wiz.io/blog/php2shell-php-rce\n- Des milliers d'agents IA en essaim pour explorer le cerveau humain\n    OpenAI : https://openai.com/index/scaling-ai-research-for-complex-biological-data\n- Biologie : 60 ans de vieillissement cellulaire effacés en laboratoire\n    ScienceDaily : https://www.sciencedaily.com/releases/2026/10/261020085013.htm\n- Le rover Perseverance bat le record historique de distance extraterrestre\n    ScienceDaily : https://www.sciencedaily.com/releases/2026/10/261020084818.htm\n\nGenere automatiquement par Culture G.",
+    "audio": "2026-10-22.mp3",
+    "bytes": 7242669,
+    "duration": 905.28,
+    "published": "2026-10-22T05:08:06.389629+00:00"
+  },
+  {
     "slug": "2026-10-21",
     "title": "Mistral vocal, DeepSeek accélère et Google condamné",
     "teaser": "Mistral lance Voxtral 3 pour transformer ses modèles en agents vocaux capables d'exécuter des actions en direct. Pendant ce temps, un tribunal allemand condamne Google pour les hallucinations diffamatoires de son moteur de recherche.",
@@ -438,15 +448,5 @@
     "bytes": 5226477,
     "duration": 653.24,
     "published": "2026-08-24T04:17:01.816876+00:00"
-  },
-  {
-    "slug": "2026-08-23",
-    "title": "Simuler 8 milliards d'humains et sauver sa mémoire",
-    "teaser": "Des chercheurs simulent la population mondiale grâce à des milliards d'agents IA, pendant que le protocole MCP affine sa feuille de route technique. En neurosciences, l'hibernation des souris et la pratique de plusieurs langues bousculent nos certitudes sur la mémoire et l'âge cérébral.",
-    "notes": "Sources de cet episode :\n\n- Simulation d'agents à grande échelle : quand l'IA modélise les comportements humains\n    Vision IA : https://www.youtube.com/watch?v=kaw65Z2LuH8\n- Standardiser les agents IA : la nouvelle feuille de route du Model Context Protocol (MCP)\n    Hacker News : https://blog.modelcontextprotocol.io/posts/mcp-roadmap/\n- Neurosciences : les souris en hibernation perdent la moitié de leurs synapses, mais gardent leurs souvenirs\n    Ars Technica : https://arstechnica.com/science/2026/08/memories-stick-around-even-after-half-the-synapses-are-gone/\n- Sciences cognitives : le plurilinguisme rajeunirait le cerveau de 13 ans\n    ScienceDaily : https://www.sciencedaily.com/releases/2026/08/260821012226.htm\n\nGenere automatiquement par Culture G.",
-    "audio": "2026-08-23.mp3",
-    "bytes": 5122989,
-    "duration": 640.32,
-    "published": "2026-08-23T04:12:55.238555+00:00"
   }
 ]
