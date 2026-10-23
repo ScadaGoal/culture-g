@@ -1,5 +1,15 @@
 [
   {
+    "slug": "2026-10-23",
+    "title": "DeepSeek lève 15 milliards et OpenAI s'attaque au COBOL",
+    "teaser": "DeepSeek prépare une levée de fonds colossale pour défier les géants américains pendant qu'OpenAI s'attaque à la modernisation du COBOL bancaire. Tour d'horizon complet avec la nouvelle cartographie forestière de Google, les avancées de l'ARN messager contre le mélanome et un étonnant mystère chez les oiseaux.",
+    "notes": "Sources de cet episode :\n\n- DeepSeek s'apprête à lever 15 milliards de dollars pour rivaliser avec les géants américains\n    Next.ink : https://next.ink/brief-article/deepseek-est-en-passe-de-finaliser-une-levee-de-fonds-de-15-milliards-de-dollars/\n- OpenAI s'attaque à la modernisation du COBOL et des vieux langages critiques\n    Next.ink : https://next.ink/263107/openai-sattaque-a-la-migration-des-projets-en-cobol/\n- L'IA de Google DeepMind cartographie la diversité des forêts terrestres à 10 mètres près\n    Google DeepMind : https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/\n- Un vaccin personnalisable à ARNm réduit de 42 % les récidives du mélanome\n    Ars Technica : https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/\n- Éthologie : les oiseaux sauvages ont davantage peur des femmes que des hommes\n    ScienceDaily : https://www.sciencedaily.com/releases/2026/10/261021231250.htm\n\nGenere automatiquement par Culture G.",
+    "audio": "2026-10-23.mp3",
+    "bytes": 6190509,
+    "duration": 773.76,
+    "published": "2026-10-23T05:11:15.292375+00:00"
+  },
+  {
     "slug": "2026-10-22",
     "title": "Mistral passe au vocal, PHP sous tension et Mars à plein régime",
     "teaser": "Mistral sort de sa zone de confort avec deux nouveaux modèles dédiés à la voix et aux séries temporelles, tandis qu'une faille critique découverte avec l'aide de l'IA secoue l'écosystème PHP. Nous verrons aussi comment un essaim d'agents virtuels et la biologie moléculaire bousculent la recherche médicale.",
@@ -438,15 +448,5 @@
     "bytes": 5433837,
     "duration": 679.16,
     "published": "2026-08-25T04:15:50.259318+00:00"
-  },
-  {
-    "slug": "2026-08-24",
-    "title": "Humanoïdes chinois, standard MCP et crash métrique",
-    "teaser": "Pendant que les milliards pleuvent sur la robotique humanoïde, la Chine prend une avance industrielle décisive sur le matériel. Décryptage également du protocole MCP pour l'IA et d'une bourde spatiale historique à 125 millions de dollars.",
-    "notes": "Sources de cet episode :\n\n- Course aux humanoïdes : l'envolée des investissements et le rouleau compresseur chinois\n    Grand Angle Nova : https://www.youtube.com/watch?v=6iY2wt-TGow\n- Model Context Protocol : la prise USB-C qui connecte les IA au monde réel\n    Numerama : https://www.numerama.com/tech/2315891-il-est-le-port-usb-c-de-lintelligence-artificielle-on-vous-explique-le-mcp.html\n- Génétique : l'IA décode l'interrupteur caché dans 60 % de notre ADN\n    ScienceDaily : https://www.sciencedaily.com/releases/2026/08/260823014943.htm\n- Espace : le jour où la NASA a perdu une sonde martienne à cause du système métrique\n    Numerama : https://www.numerama.com/sciences/2311639-le-jour-ou-une-mission-martienne-sest-ecrasee-a-cause-du-systeme-metrique.html\n\nGenere automatiquement par Culture G.",
-    "audio": "2026-08-24.mp3",
-    "bytes": 5226477,
-    "duration": 653.24,
-    "published": "2026-08-24T04:17:01.816876+00:00"
   }
 ]
