@@ -1,5 +1,15 @@
 [
   {
+    "slug": "2026-10-24",
+    "title": "Kimi K3.1 Pro bouscule le code, 1Password et l'adieu de Quad9",
+    "teaser": "Le laboratoire chinois Moonshot AI dévoile Kimi K3.1 Pro et dépasse les modèles américains sur le code en ligne de commande. Pendant ce temps, 1Password veut connecter les agents IA sans leur donner vos clés, et Quad9 claque la porte de la France.",
+    "notes": "Sources de cet episode :\n\n- Sortie de Kimi K3.1 Pro : le labo chinois Moonshot accélère sur le raisonnement\n    Hacker News : https://www.kimi.ai/blog/kimi-k3-1-pro\n- 1Password for Agents : laisser l'IA agir sans révéler vos mots de passe\n    Numerama : https://www.numerama.com/tech/2359721-1password-a-un-plan-pour-laisser-les-agents-ia-acceder-a-vos-comptes-sans-exposer-vos-mots-de-passe.html\n    Next.ink : https://next.ink/brief-article/1password-permet-aux-agents-dutiliser-les-mots-de-passe-mais-sans-les-voir/\n- DNS et droit d'auteur : Quad9 stoppe son service en France après une condamnation\n    Numerama : https://www.numerama.com/politique/2359951-dns-9-9-9-9-quad9-coupera-son-service-en-france-le-24-novembre-apres-une-condamnation-liee-au-piratage.html\n    Next.ink : https://next.ink/263502/dns-quad9-quitte-la-france-apres-avoir-ete-condamnee-face-a-bein-pour-defaut-de-blocage/\n- Neurologie aviaire : les corbeaux traitent les images deux fois plus vite que nous\n    Ars Technica : https://arstechnica.com/science/2026/10/crows-can-evaluate-visual-info-twice-as-fast-as-mammals/\n\nGenere automatiquement par Culture G.",
+    "audio": "2026-10-24.mp3",
+    "bytes": 5657517,
+    "duration": 707.12,
+    "published": "2026-10-24T04:57:09.644168+00:00"
+  },
+  {
     "slug": "2026-10-23",
     "title": "DeepSeek lève 15 milliards et OpenAI s'attaque au COBOL",
     "teaser": "DeepSeek prépare une levée de fonds colossale pour défier les géants américains pendant qu'OpenAI s'attaque à la modernisation du COBOL bancaire. Tour d'horizon complet avec la nouvelle cartographie forestière de Google, les avancées de l'ARN messager contre le mélanome et un étonnant mystère chez les oiseaux.",
@@ -438,15 +448,5 @@
     "bytes": 5175789,
     "duration": 646.92,
     "published": "2026-08-26T04:14:21.365426+00:00"
-  },
-  {
-    "slug": "2026-08-25",
-    "title": "Bots en société et GPT-5.6 : quand l'IA prend la main",
-    "teaser": "Que fait un agent IA autonome quand on lui laisse carte blanche sur un serveur ? De la création d'un réseau social pour machines au lancement de la gamme GPT-5.6, retour sur les tournants techniques du jour.",
-    "notes": "Sources de cet episode :\n\n- Agents autonomes : quand Claude crée son propre réseau social et pirate des appareils\n    Numerama : https://www.numerama.com/tech/2316885-il-donne-un-nom-de-domaine-a-claude-en-lui-disant-de-faire-ce-quil-veut-voici-le-resultat.html\n    Numerama : https://www.numerama.com/cyberguerre/2316933-ca-minquiete-pour-plusieurs-raisons-il-laisse-claude-demonter-le-logiciel-interne-de-ses-appareils-et-affiche-un-bilan-effroyable.html\n- OpenAI déploie GPT-5.6 et casse ses prix pour les développeurs\n    OpenAI : https://openai.com/index/gpt-5-6-in-kiro\n    Hacker News : https://developers.openai.com/api/docs/pricing\n- Sciences : pourquoi un enfant apprend sa langue 100 000 fois plus efficacement qu'un LLM\n    MIT Tech Review : https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/\n    MIT Tech Review : https://www.technologyreview.com/2026/08/24/1142863/the-download-kids-outlearning-ai-space-travel-agents/\n- Confidentialité : marquage invisible dans MS Paint et collecte automatique sur Twitch\n    Hacker News : https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/\n    Next.ink : https://next.ink/252963/twitch-accuse-davoir-donne-les-contenus-de-ses-createurs-a-amazon-et-ses-modeles-ia/\n- Physique quantique : la forme d'une molécule imager pour la première fois\n    ScienceDaily : https://www.sciencedaily.com/releases/2026/08/260822015213.htm\n\nGenere automatiquement par Culture G.",
-    "audio": "2026-08-25.mp3",
-    "bytes": 5433837,
-    "duration": 679.16,
-    "published": "2026-08-25T04:15:50.259318+00:00"
   }
 ]
