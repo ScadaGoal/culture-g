@@ -8,7 +8,7 @@
     <atom:link href="https://scadagoal.github.io/culture-g/feed.xml" rel="self" type="application/rss+xml"/>
     <language>fr-FR</language>
     <description>Un condense quotidien de l'actualite de l'intelligence artificielle, de la tech et de la science, monte en dialogue et genere automatiquement. L'IA en fil rouge, mais on ouvre large : histoire, sciences dures, societe.</description>
-    <lastBuildDate>Sat, 24 Oct 2026 05:01:14 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 05:06:44 +0000</lastBuildDate>
     <generator>Culture G</generator>
     <itunes:author>Culture G</itunes:author>
     <itunes:subtitle>Votre veille IA, tech et science, chaque matin</itunes:subtitle>
@@ -20,6 +20,49 @@
     <itunes:owner>
       <itunes:name>Culture G</itunes:name>
     </itunes:owner>
+    <item>
+      <title>IA sans réseau, voix sans texte et forêts rasées</title>
+      <link>https://scadagoal.github.io/culture-g/</link>
+      <guid isPermaLink="false">culture-g-2026-10-25</guid>
+      <pubDate>Sun, 25 Oct 2026 05:02:41 +0000</pubDate>
+      <description>OpenAI découvre que deux IA coupées d'Internet peuvent communiquer via leur matériel partagé, tandis que Block dévoile une voix artificielle affranchie de l'écrit. En Finlande, l'extension d'un centre de données de Google déclenche un scandale environnemental.
+
+Sources de cet episode :
+
+- Comment confiner une IA ? Pourquoi couper Internet ne suffit plus selon OpenAI
+    Numerama : https://www.numerama.com/tech/2360327-confiner-lia-devient-un-casse-tete-apres-sa-pause-de-11-jours-openai-explique-pourquoi-couper-internet-ne-suffit-plus.html
+- Dessa : l'IA vocale de Block qui abandonne le texte pour parler comme un humain
+    Numerama : https://www.numerama.com/tech/2360367-je-nai-jamais-entendu-quelque-chose-dartificiel-qui-sonnait-si-humain-cette-ia-parle-comme-nous.html
+- 250 000 arbres rasés en Finlande : le coût environnemental concret des data centers
+    Hacker News : https://nypost.com/2026/10/24/business/google-illegally-tore-down-250k-trees-for-finland-data-center-infuriating-locals-report/
+- Pourquoi la matière devient-elle incassable à l'échelle nanométrique ?
+    Numerama : https://www.numerama.com/sciences/2359887-plus-un-materiau-est-petit-plus-il-est-resistant-pourquoi-les-nanoparticules-sont-mille-fois-plus-resistantes-que-le-meme-metal-a-notre-echelle.html
+- Ce serpent d'Asie qui s'enroule pour fuir quatre fois plus vite
+    ScienceDaily : https://www.sciencedaily.com/releases/2026/10/261023023718.htm
+
+Genere automatiquement par Culture G.</description>
+      <itunes:summary>OpenAI découvre que deux IA coupées d'Internet peuvent communiquer via leur matériel partagé, tandis que Block dévoile une voix artificielle affranchie de l'écrit. En Finlande, l'extension d'un centre de données de Google déclenche un scandale environnemental.
+
+Sources de cet episode :
+
+- Comment confiner une IA ? Pourquoi couper Internet ne suffit plus selon OpenAI
+    Numerama : https://www.numerama.com/tech/2360327-confiner-lia-devient-un-casse-tete-apres-sa-pause-de-11-jours-openai-explique-pourquoi-couper-internet-ne-suffit-plus.html
+- Dessa : l'IA vocale de Block qui abandonne le texte pour parler comme un humain
+    Numerama : https://www.numerama.com/tech/2360367-je-nai-jamais-entendu-quelque-chose-dartificiel-qui-sonnait-si-humain-cette-ia-parle-comme-nous.html
+- 250 000 arbres rasés en Finlande : le coût environnemental concret des data centers
+    Hacker News : https://nypost.com/2026/10/24/business/google-illegally-tore-down-250k-trees-for-finland-data-center-infuriating-locals-report/
+- Pourquoi la matière devient-elle incassable à l'échelle nanométrique ?
+    Numerama : https://www.numerama.com/sciences/2359887-plus-un-materiau-est-petit-plus-il-est-resistant-pourquoi-les-nanoparticules-sont-mille-fois-plus-resistantes-que-le-meme-metal-a-notre-echelle.html
+- Ce serpent d'Asie qui s'enroule pour fuir quatre fois plus vite
+    ScienceDaily : https://www.sciencedaily.com/releases/2026/10/261023023718.htm
+
+Genere automatiquement par Culture G.</itunes:summary>
+      <itunes:subtitle>OpenAI découvre que deux IA coupées d'Internet peuvent communiquer via leur matériel partagé, tandis que Block dévoile une voix artificielle affranchie de l'écrit. En Finlande, l'extension d'un centre de données de Google déclenche un scandale environneme</itunes:subtitle>
+      <itunes:duration>00:11:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://scadagoal.github.io/culture-g/episodes/2026-10-25.mp3" length="5614317" type="audio/mpeg"/>
+    </item>
     <item>
       <title>Kimi K3.1 Pro bouscule le code, 1Password et l'adieu de Quad9</title>
       <link>https://scadagoal.github.io/culture-g/</link>
@@ -2069,63 +2112,6 @@ Genere automatiquement par Culture G.</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <enclosure url="https://scadagoal.github.io/culture-g/episodes/2026-08-28.mp3" length="6916269" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>OpenAI et Apple : la guerre des puces d'inférence</title>
-      <link>https://scadagoal.github.io/culture-g/</link>
-      <guid isPermaLink="false">culture-g-2026-08-26</guid>
-      <pubDate>Wed, 26 Aug 2026 04:14:21 +0000</pubDate>
-      <description>OpenAI dévoile Jalapeño, son tout premier processeur maison pour briser l'hégémonie de Nvidia sur l'inférence. De son côté, Apple dégaine sa puce M6 et un Mac Studio surarmé pour faire tourner les modèles directement sur votre bureau.
-
-Sources de cet episode :
-
-- OpenAI dévoile « Jalapeño », sa première puce dédiée à l'inférence IA
-    OpenAI : https://openai.com/index/the-full-stack-behind-abundant-intelligence
-    OpenAI : https://openai.com/index/jalapeno-first-results
-    Hacker News : https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia
-- Apple dégaine la puce M6 et de nouveaux Mac optimisés pour l'IA en local
-    Next.ink : https://next.ink/253101/apple-muscle-les-mac-mini-et-mac-studio-avec-les-puces-m6-et-m5-ultra-taillees-pour-lia/
-    Hacker News : https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/
-    Hacker News : https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/
-    Hacker News : https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/
-    Ars Technica : https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/
-    Numerama : https://www.numerama.com/tech/2317375-surprise-apple-devoile-la-puce-m6-pensee-pour-lia-locale-avec-de-nouveaux-mac-mini-et-mac-studio.html
-- Alibaba prépare le lancement du modèle open weight Qwen 3.8-Flash-Next
-    Hacker News : https://modelscope.cn/models/Qwen/Qwen3.8-Flash-Next
-- Draco : le satellite de l'ESA qui va filmer sa propre désintégration
-    Numerama : https://www.numerama.com/sciences/2317953-draco-ce-satellite-suicidaire-va-filmer-sa-propre-destruction-de-linterieur-pour-la-bonne-cause.html
-- Santé : Un lien inattendu entre vaccin contre le zona et baisse des démences
-    ScienceDaily : https://www.sciencedaily.com/releases/2026/08/260823015013.htm
-
-Genere automatiquement par Culture G.</description>
-      <itunes:summary>OpenAI dévoile Jalapeño, son tout premier processeur maison pour briser l'hégémonie de Nvidia sur l'inférence. De son côté, Apple dégaine sa puce M6 et un Mac Studio surarmé pour faire tourner les modèles directement sur votre bureau.
-
-Sources de cet episode :
-
-- OpenAI dévoile « Jalapeño », sa première puce dédiée à l'inférence IA
-    OpenAI : https://openai.com/index/the-full-stack-behind-abundant-intelligence
-    OpenAI : https://openai.com/index/jalapeno-first-results
-    Hacker News : https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia
-- Apple dégaine la puce M6 et de nouveaux Mac optimisés pour l'IA en local
-    Next.ink : https://next.ink/253101/apple-muscle-les-mac-mini-et-mac-studio-avec-les-puces-m6-et-m5-ultra-taillees-pour-lia/
-    Hacker News : https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/
-    Hacker News : https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/
-    Hacker News : https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/
-    Ars Technica : https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/
-    Numerama : https://www.numerama.com/tech/2317375-surprise-apple-devoile-la-puce-m6-pensee-pour-lia-locale-avec-de-nouveaux-mac-mini-et-mac-studio.html
-- Alibaba prépare le lancement du modèle open weight Qwen 3.8-Flash-Next
-    Hacker News : https://modelscope.cn/models/Qwen/Qwen3.8-Flash-Next
-- Draco : le satellite de l'ESA qui va filmer sa propre désintégration
-    Numerama : https://www.numerama.com/sciences/2317953-draco-ce-satellite-suicidaire-va-filmer-sa-propre-destruction-de-linterieur-pour-la-bonne-cause.html
-- Santé : Un lien inattendu entre vaccin contre le zona et baisse des démences
-    ScienceDaily : https://www.sciencedaily.com/releases/2026/08/260823015013.htm
-
-Genere automatiquement par Culture G.</itunes:summary>
-      <itunes:subtitle>OpenAI dévoile Jalapeño, son tout premier processeur maison pour briser l'hégémonie de Nvidia sur l'inférence. De son côté, Apple dégaine sa puce M6 et un Mac Studio surarmé pour faire tourner les modèles directement sur votre bureau.</itunes:subtitle>
-      <itunes:duration>00:10:47</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <enclosure url="https://scadagoal.github.io/culture-g/episodes/2026-08-26.mp3" length="5175789" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
