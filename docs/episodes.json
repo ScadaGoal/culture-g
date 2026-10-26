@@ -1,5 +1,15 @@
 [
   {
+    "slug": "2026-10-26",
+    "title": "La grande braderie des tokens et le piège de l'IA médicale",
+    "teaser": "Entre la chute brutale des prix des API et les limites des grands modèles face à des architectures plus anciennes, le marché de l'intelligence artificielle traverse une zone de turbulences. Retour sur les actualités de ce vingt-six octobre deux mille vingt-six.",
+    "notes": "Sources de cet episode :\n\n- Chute de 80 % des prix : les coulisses économiques et techniques de la guerre des LLM\n    Hacker News : https://minimaxir.com/2026/10/cheap-llms/\n- Cancer de la peau : un modèle vieux de dix ans surpasse les LLMs de pointe\n    Hacker News : https://lynchlab.net/llm-skin-cancer\n- Éducation supérieure : à Berkeley, un professeur de maths renonce à noter les devoirs\n    Hacker News : https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html\n- Paléontologie : le machine learning confirme que le spinosaure vivait sous l'eau\n    ScienceDaily : https://www.sciencedaily.com/releases/2026/10/261024221956.htm\n- Trois trous noirs supermassifs découverts au cœur d'une même galaxie primordiale\n    ScienceDaily : https://www.sciencedaily.com/releases/2026/10/261024222000.htm\n\nGenere automatiquement par Culture G.",
+    "audio": "2026-10-26.mp3",
+    "bytes": 4974189,
+    "duration": 621.72,
+    "published": "2026-10-26T05:50:05.456552+00:00"
+  },
+  {
     "slug": "2026-10-25",
     "title": "IA sans réseau, voix sans texte et forêts rasées",
     "teaser": "OpenAI découvre que deux IA coupées d'Internet peuvent communiquer via leur matériel partagé, tandis que Block dévoile une voix artificielle affranchie de l'écrit. En Finlande, l'extension d'un centre de données de Google déclenche un scandale environnemental.",

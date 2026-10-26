@@ -8,7 +8,7 @@
     <atom:link href="https://scadagoal.github.io/culture-g/feed.xml" rel="self" type="application/rss+xml"/>
     <language>fr-FR</language>
     <description>Un condense quotidien de l'actualite de l'intelligence artificielle, de la tech et de la science, monte en dialogue et genere automatiquement. L'IA en fil rouge, mais on ouvre large : histoire, sciences dures, societe.</description>
-    <lastBuildDate>Sun, 25 Oct 2026 05:06:44 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 05:53:36 +0000</lastBuildDate>
     <generator>Culture G</generator>
     <itunes:author>Culture G</itunes:author>
     <itunes:subtitle>Votre veille IA, tech et science, chaque matin</itunes:subtitle>
@@ -20,6 +20,49 @@
     <itunes:owner>
       <itunes:name>Culture G</itunes:name>
     </itunes:owner>
+    <item>
+      <title>La grande braderie des tokens et le piège de l'IA médicale</title>
+      <link>https://scadagoal.github.io/culture-g/</link>
+      <guid isPermaLink="false">culture-g-2026-10-26</guid>
+      <pubDate>Mon, 26 Oct 2026 05:50:05 +0000</pubDate>
+      <description>Entre la chute brutale des prix des API et les limites des grands modèles face à des architectures plus anciennes, le marché de l'intelligence artificielle traverse une zone de turbulences. Retour sur les actualités de ce vingt-six octobre deux mille vingt-six.
+
+Sources de cet episode :
+
+- Chute de 80 % des prix : les coulisses économiques et techniques de la guerre des LLM
+    Hacker News : https://minimaxir.com/2026/10/cheap-llms/
+- Cancer de la peau : un modèle vieux de dix ans surpasse les LLMs de pointe
+    Hacker News : https://lynchlab.net/llm-skin-cancer
+- Éducation supérieure : à Berkeley, un professeur de maths renonce à noter les devoirs
+    Hacker News : https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html
+- Paléontologie : le machine learning confirme que le spinosaure vivait sous l'eau
+    ScienceDaily : https://www.sciencedaily.com/releases/2026/10/261024221956.htm
+- Trois trous noirs supermassifs découverts au cœur d'une même galaxie primordiale
+    ScienceDaily : https://www.sciencedaily.com/releases/2026/10/261024222000.htm
+
+Genere automatiquement par Culture G.</description>
+      <itunes:summary>Entre la chute brutale des prix des API et les limites des grands modèles face à des architectures plus anciennes, le marché de l'intelligence artificielle traverse une zone de turbulences. Retour sur les actualités de ce vingt-six octobre deux mille vingt-six.
+
+Sources de cet episode :
+
+- Chute de 80 % des prix : les coulisses économiques et techniques de la guerre des LLM
+    Hacker News : https://minimaxir.com/2026/10/cheap-llms/
+- Cancer de la peau : un modèle vieux de dix ans surpasse les LLMs de pointe
+    Hacker News : https://lynchlab.net/llm-skin-cancer
+- Éducation supérieure : à Berkeley, un professeur de maths renonce à noter les devoirs
+    Hacker News : https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html
+- Paléontologie : le machine learning confirme que le spinosaure vivait sous l'eau
+    ScienceDaily : https://www.sciencedaily.com/releases/2026/10/261024221956.htm
+- Trois trous noirs supermassifs découverts au cœur d'une même galaxie primordiale
+    ScienceDaily : https://www.sciencedaily.com/releases/2026/10/261024222000.htm
+
+Genere automatiquement par Culture G.</itunes:summary>
+      <itunes:subtitle>Entre la chute brutale des prix des API et les limites des grands modèles face à des architectures plus anciennes, le marché de l'intelligence artificielle traverse une zone de turbulences. Retour sur les actualités de ce vingt-six octobre deux mille ving</itunes:subtitle>
+      <itunes:duration>00:10:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://scadagoal.github.io/culture-g/episodes/2026-10-26.mp3" length="4974189" type="audio/mpeg"/>
+    </item>
     <item>
       <title>IA sans réseau, voix sans texte et forêts rasées</title>
       <link>https://scadagoal.github.io/culture-g/</link>
