@@ -1,5 +1,15 @@
 [
   {
+    "slug": "2026-10-27",
+    "title": "OpenAI bouscule les maths et Anthropic vise Wall Street",
+    "teaser": "OpenAI affirme avoir réfuté une conjecture fondamentale en informatique théorique grâce à ses modèles et au vérificateur formel Lean. Dans le même temps, Anthropic dévoile ses comptes réels avec le dépôt de son dossier d'introduction en Bourse.",
+    "notes": "Sources de cet episode :\n\n- OpenAI et la recherche scientifique : l'Hypothèse du Temps Exponentiel réfutée\n    OpenAI : https://openai.com/index/building-scientific-understanding-with-academic-communities\n    Hacker News : https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf\n    Hacker News : https://openai.com/index/building-scientific-understanding-with-academic-communities/\n- Anthropic dépose son dossier d'IPO : le crash-test financier pour la tech IA\n    MIT Tech Review : https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/\n    Numerama : https://www.numerama.com/tech/2360923-le-grand-test-pour-lia-approche-anthropic-se-prepare-a-entrer-en-bourse.html\n    Hacker News : https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm\n- Histoire & Astronomie : une éclipse solaire de 2 700 ans recalibre la rotation de la Terre\n    ScienceDaily : https://www.sciencedaily.com/releases/2026/10/261025073055.htm\n\nGenere automatiquement par Culture G.",
+    "audio": "2026-10-27.mp3",
+    "bytes": 3004653,
+    "duration": 375.52,
+    "published": "2026-10-27T05:26:22.238170+00:00"
+  },
+  {
     "slug": "2026-10-26",
     "title": "La grande braderie des tokens et le piège de l'IA médicale",
     "teaser": "Entre la chute brutale des prix des API et les limites des grands modèles face à des architectures plus anciennes, le marché de l'intelligence artificielle traverse une zone de turbulences. Retour sur les actualités de ce vingt-six octobre deux mille vingt-six.",

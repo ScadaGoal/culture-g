@@ -8,7 +8,7 @@
     <atom:link href="https://scadagoal.github.io/culture-g/feed.xml" rel="self" type="application/rss+xml"/>
     <language>fr-FR</language>
     <description>Un condense quotidien de l'actualite de l'intelligence artificielle, de la tech et de la science, monte en dialogue et genere automatiquement. L'IA en fil rouge, mais on ouvre large : histoire, sciences dures, societe.</description>
-    <lastBuildDate>Mon, 26 Oct 2026 05:53:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 05:28:33 +0000</lastBuildDate>
     <generator>Culture G</generator>
     <itunes:author>Culture G</itunes:author>
     <itunes:subtitle>Votre veille IA, tech et science, chaque matin</itunes:subtitle>
@@ -20,6 +20,49 @@
     <itunes:owner>
       <itunes:name>Culture G</itunes:name>
     </itunes:owner>
+    <item>
+      <title>OpenAI bouscule les maths et Anthropic vise Wall Street</title>
+      <link>https://scadagoal.github.io/culture-g/</link>
+      <guid isPermaLink="false">culture-g-2026-10-27</guid>
+      <pubDate>Tue, 27 Oct 2026 05:26:22 +0000</pubDate>
+      <description>OpenAI affirme avoir réfuté une conjecture fondamentale en informatique théorique grâce à ses modèles et au vérificateur formel Lean. Dans le même temps, Anthropic dévoile ses comptes réels avec le dépôt de son dossier d'introduction en Bourse.
+
+Sources de cet episode :
+
+- OpenAI et la recherche scientifique : l'Hypothèse du Temps Exponentiel réfutée
+    OpenAI : https://openai.com/index/building-scientific-understanding-with-academic-communities
+    Hacker News : https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf
+    Hacker News : https://openai.com/index/building-scientific-understanding-with-academic-communities/
+- Anthropic dépose son dossier d'IPO : le crash-test financier pour la tech IA
+    MIT Tech Review : https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/
+    Numerama : https://www.numerama.com/tech/2360923-le-grand-test-pour-lia-approche-anthropic-se-prepare-a-entrer-en-bourse.html
+    Hacker News : https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm
+- Histoire &amp; Astronomie : une éclipse solaire de 2 700 ans recalibre la rotation de la Terre
+    ScienceDaily : https://www.sciencedaily.com/releases/2026/10/261025073055.htm
+
+Genere automatiquement par Culture G.</description>
+      <itunes:summary>OpenAI affirme avoir réfuté une conjecture fondamentale en informatique théorique grâce à ses modèles et au vérificateur formel Lean. Dans le même temps, Anthropic dévoile ses comptes réels avec le dépôt de son dossier d'introduction en Bourse.
+
+Sources de cet episode :
+
+- OpenAI et la recherche scientifique : l'Hypothèse du Temps Exponentiel réfutée
+    OpenAI : https://openai.com/index/building-scientific-understanding-with-academic-communities
+    Hacker News : https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf
+    Hacker News : https://openai.com/index/building-scientific-understanding-with-academic-communities/
+- Anthropic dépose son dossier d'IPO : le crash-test financier pour la tech IA
+    MIT Tech Review : https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/
+    Numerama : https://www.numerama.com/tech/2360923-le-grand-test-pour-lia-approche-anthropic-se-prepare-a-entrer-en-bourse.html
+    Hacker News : https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm
+- Histoire &amp; Astronomie : une éclipse solaire de 2 700 ans recalibre la rotation de la Terre
+    ScienceDaily : https://www.sciencedaily.com/releases/2026/10/261025073055.htm
+
+Genere automatiquement par Culture G.</itunes:summary>
+      <itunes:subtitle>OpenAI affirme avoir réfuté une conjecture fondamentale en informatique théorique grâce à ses modèles et au vérificateur formel Lean. Dans le même temps, Anthropic dévoile ses comptes réels avec le dépôt de son dossier d'introduction en Bourse.</itunes:subtitle>
+      <itunes:duration>00:06:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://scadagoal.github.io/culture-g/episodes/2026-10-27.mp3" length="3004653" type="audio/mpeg"/>
+    </item>
     <item>
       <title>La grande braderie des tokens et le piège de l'IA médicale</title>
       <link>https://scadagoal.github.io/culture-g/</link>
