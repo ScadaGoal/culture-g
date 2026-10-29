@@ -8,7 +8,7 @@
     <atom:link href="https://scadagoal.github.io/culture-g/feed.xml" rel="self" type="application/rss+xml"/>
     <language>fr-FR</language>
     <description>Un condense quotidien de l'actualite de l'intelligence artificielle, de la tech et de la science, monte en dialogue et genere automatiquement. L'IA en fil rouge, mais on ouvre large : histoire, sciences dures, societe.</description>
-    <lastBuildDate>Wed, 28 Oct 2026 06:05:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 06:15:06 +0000</lastBuildDate>
     <generator>Culture G</generator>
     <itunes:author>Culture G</itunes:author>
     <itunes:subtitle>Votre veille IA, tech et science, chaque matin</itunes:subtitle>
@@ -20,6 +20,43 @@
     <itunes:owner>
       <itunes:name>Culture G</itunes:name>
     </itunes:owner>
+    <item>
+      <title>Biotech en solo, Mac tactile et refus de l'IA au travail</title>
+      <link>https://scadagoal.github.io/culture-g/</link>
+      <guid isPermaLink="false">culture-g-2026-10-29</guid>
+      <pubDate>Thu, 29 Oct 2026 06:13:40 +0000</pubDate>
+      <description>Anthropic rachete une societe de biotechnologie concue par un unique chercheur assiste par Claude, tandis qu'Apple abandonne un dogme vieux de seize ans en convertissant le Mac au tactile. Aux Etats-Unis, un salarie obtient pour la premiere fois une exemption officielle d'usage de l'IA au nom de convictions humanistes.
+
+Sources de cet episode :
+
+- Anthropic rachète la biotech d'un seul chercheur assisté par Claude
+    Numerama : https://www.numerama.com/sciences/2362303-anthropic-rachete-la-biotech-dun-seul-chercheur-qui-pilotait-11-labos-avec-claude-pour-creer-un-medicament.html
+- Apple cède au tactile sur Mac avec le nouveau MacBook Pro OLED
+    Numerama : https://www.numerama.com/tech/2361779-apple-devoile-son-premier-ordinateur-avec-un-ecran-tactile-voici-le-macbook-pro-oled.html
+    Next.ink : https://next.ink/264570/apple-retourne-sa-veste-et-lance-un-macbook-pro-tactile/
+- Première exemption d'utilisation de l'IA accordée pour motifs éthiques
+    Hacker News : https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/
+
+Genere automatiquement par Culture G.</description>
+      <itunes:summary>Anthropic rachete une societe de biotechnologie concue par un unique chercheur assiste par Claude, tandis qu'Apple abandonne un dogme vieux de seize ans en convertissant le Mac au tactile. Aux Etats-Unis, un salarie obtient pour la premiere fois une exemption officielle d'usage de l'IA au nom de convictions humanistes.
+
+Sources de cet episode :
+
+- Anthropic rachète la biotech d'un seul chercheur assisté par Claude
+    Numerama : https://www.numerama.com/sciences/2362303-anthropic-rachete-la-biotech-dun-seul-chercheur-qui-pilotait-11-labos-avec-claude-pour-creer-un-medicament.html
+- Apple cède au tactile sur Mac avec le nouveau MacBook Pro OLED
+    Numerama : https://www.numerama.com/tech/2361779-apple-devoile-son-premier-ordinateur-avec-un-ecran-tactile-voici-le-macbook-pro-oled.html
+    Next.ink : https://next.ink/264570/apple-retourne-sa-veste-et-lance-un-macbook-pro-tactile/
+- Première exemption d'utilisation de l'IA accordée pour motifs éthiques
+    Hacker News : https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/
+
+Genere automatiquement par Culture G.</itunes:summary>
+      <itunes:subtitle>Anthropic rachete une societe de biotechnologie concue par un unique chercheur assiste par Claude, tandis qu'Apple abandonne un dogme vieux de seize ans en convertissant le Mac au tactile. Aux Etats-Unis, un salarie obtient pour la premiere fois une exemp</itunes:subtitle>
+      <itunes:duration>00:04:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://scadagoal.github.io/culture-g/episodes/2026-10-29.mp3" length="1980333" type="audio/mpeg"/>
+    </item>
     <item>
       <title>Genie 4 simule le monde, Anthropic chiffre le risque</title>
       <link>https://scadagoal.github.io/culture-g/</link>
@@ -2151,51 +2188,6 @@ Genere automatiquement par Culture G.</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <enclosure url="https://scadagoal.github.io/culture-g/episodes/2026-08-30.mp3" length="6297837" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>GLM-5.3 open-weight, le Pentagone débouté et serveurs vivants</title>
-      <link>https://scadagoal.github.io/culture-g/</link>
-      <guid isPermaLink="false">culture-g-2026-08-29</guid>
-      <pubDate>Sat, 29 Aug 2026 10:24:22 +0000</pubDate>
-      <description>Du modèle open-weight GLM-5.3 au revers judiciaire du Pentagone face à Anthropic, cet épisode décrypte les avancées et batailles majeures de l'IA. Découvrez également le premier serveur à neurones humains testé à Singapour et les tensions autour du rachat de Cursor par SpaceX.
-
-Sources de cet episode :
-
-- Le modèle GLM-5.3 passe en open-weight
-    Hacker News : https://huggingface.co/zai-org/GLM-5.3
-- Bataille éthique et judiciaire : la justice annule le bannissement d'Anthropic par le gouvernement américain
-    Ars Technica : https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge/
-    Hacker News : https://www.reuters.com/legal/government/us-judge-blocks-pentagons-anthropic-blacklisting-2026-08-28/
-- Singapour teste un serveur hybride alimenté par 16 millions de neurones humains
-    Numerama : https://www.numerama.com/tech/2320745-a-singapour-un-rack-de-serveurs-fonctionne-avec-16-millions-de-neurones-humains-cultives-en-labo.html
-- Le rachat de Cursor par SpaceX et le repositionnement d'OpenAI
-    Hacker News : https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/
-- Australie : de l'hydrogène naturel généré au cœur des roches riches en fer
-    ScienceDaily : https://www.sciencedaily.com/releases/2026/08/260829035214.htm
-
-Genere automatiquement par Culture G.</description>
-      <itunes:summary>Du modèle open-weight GLM-5.3 au revers judiciaire du Pentagone face à Anthropic, cet épisode décrypte les avancées et batailles majeures de l'IA. Découvrez également le premier serveur à neurones humains testé à Singapour et les tensions autour du rachat de Cursor par SpaceX.
-
-Sources de cet episode :
-
-- Le modèle GLM-5.3 passe en open-weight
-    Hacker News : https://huggingface.co/zai-org/GLM-5.3
-- Bataille éthique et judiciaire : la justice annule le bannissement d'Anthropic par le gouvernement américain
-    Ars Technica : https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge/
-    Hacker News : https://www.reuters.com/legal/government/us-judge-blocks-pentagons-anthropic-blacklisting-2026-08-28/
-- Singapour teste un serveur hybride alimenté par 16 millions de neurones humains
-    Numerama : https://www.numerama.com/tech/2320745-a-singapour-un-rack-de-serveurs-fonctionne-avec-16-millions-de-neurones-humains-cultives-en-labo.html
-- Le rachat de Cursor par SpaceX et le repositionnement d'OpenAI
-    Hacker News : https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/
-- Australie : de l'hydrogène naturel généré au cœur des roches riches en fer
-    ScienceDaily : https://www.sciencedaily.com/releases/2026/08/260829035214.htm
-
-Genere automatiquement par Culture G.</itunes:summary>
-      <itunes:subtitle>Du modèle open-weight GLM-5.3 au revers judiciaire du Pentagone face à Anthropic, cet épisode décrypte les avancées et batailles majeures de l'IA. Découvrez également le premier serveur à neurones humains testé à Singapour et les tensions autour du rachat</itunes:subtitle>
-      <itunes:duration>00:11:38</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <enclosure url="https://scadagoal.github.io/culture-g/episodes/2026-08-29.mp3" length="5581677" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
