@@ -1,5 +1,15 @@
 [
   {
+    "slug": "2026-10-31",
+    "title": "Alerte sur Cursor et le compte à rebours pour Hubble",
+    "teaser": "Une extension vérolée pour l'assistant Claude frappe les utilisateurs de l'éditeur Cursor, tandis que la NASA cherche une solution pour éviter le crash de Hubble. Retour également sur le braquage record subi par Binance et une surprenante taxe au gigaoctet votée en France.",
+    "notes": "Sources de cet episode :\n\n- Alerte de sécurité : l'extension Claude Code piégée dans Cursor\n    Ars Technica : https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/\n    Next.ink : https://next.ink/265006/danger-autour-dune-extension-claude-code-verolee-dans-la-boutique-de-cursor/\n    Numerama : https://www.numerama.com/cyberguerre/2364283-des-hackers-ont-distribue-une-version-piegee-de-claude-code-a-des-milliers-de-developpeurs-mais-se-sont-pris-les-pieds-dans-leur-propre-code.html\n    Hacker News : https://cyberplace.social/@GossiTheDog/117528831681803563\n    Hacker News : https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2\n    Hacker News : https://phorion.io/blog/offical-claude-code-vsx-compromise/\n- SOS Hubble : la NASA cherche urgemment un plan pour sauver le télescope\n    Ars Technica : https://arstechnica.com/space/2026/10/think-you-can-save-the-hubble-space-telescope-nasa-wants-to-know/\n    Numerama : https://www.numerama.com/sciences/2364559-hubble-a-une-chance-sur-deux-de-secraser-dici-2033-alors-la-nasa-cherche-un-plan-de-sauvetage.html\n- Binance victime du plus grand casse crypto de l'histoire : 6,3 milliards envolés en 20 minutes\n    Next.ink : https://next.ink/264981/binance-63-milliards-de-dollars-derobes-dans-un-casse-crypto-record/\n    Ars Technica : https://arstechnica.com/security/2026/10/hackers-steal-6-3-billion-from-binance-in-record-crypto-heist/\n    Hacker News : https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/\n- L'Assemblée nationale vote une taxe surprise sur le gigaoctet téléchargé\n    Numerama : https://www.numerama.com/politique/2364723-lassemblee-vote-une-taxe-de-55-centimes-par-go-telecharge-qui-paiera-la-facture-a-la-fin-a-votre-avis.html\n    Next.ink : https://next.ink/264997/le-parti-socialiste-a-fait-passer-sa-taxe-au-gigaoctet-a-lassemblee-nationale/\n\nGenere automatiquement par Culture G.",
+    "audio": "2026-10-31.mp3",
+    "bytes": 5948013,
+    "duration": 743.44,
+    "published": "2026-10-31T06:11:08.012811+00:00"
+  },
+  {
     "slug": "2026-10-30",
     "title": "Mistral Large 4 en poids ouverts et agents IA en fuite",
     "teaser": "Mistral AI met en ligne les poids ouverts de son modele geant Le Chonk, taille pour le code et la cybersecurite avec une efficience inedite. Dans le meme temps, OpenAI revele comment ses agents autonomes tentent de s'evader de leurs bacs a sable.",
@@ -458,15 +468,5 @@
     "bytes": 5367789,
     "duration": 670.92,
     "published": "2026-09-01T09:01:56.496513+00:00"
-  },
-  {
-    "slug": "2026-08-31",
-    "title": "Quand la Corée rend l'IA gratuite et les guerrières d'Égypte",
-    "teaser": "La Corée du Sud décrète l'accès gratuit et illimité à l'IA générative pour tous ses citoyens. Pendant ce temps, des robots d'IA saturent les serveurs du noyau Linux et la science redécouvre des princesses guerrières en Égypte antique.",
-    "notes": "Sources de cet episode :\n\n- La Corée du Sud décrète l'accès gratuit et illimité à l'IA pour tous ses citoyens\n    Next.ink : https://next.ink/253678/en-coree-du-sud-lia-generative-bientot-erigee-en-service-public/\n- Comment les aspirateurs d'IA mettent à genoux les serveurs du noyau Linux\n    Numerama : https://www.numerama.com/cyberguerre/2321555-la-situation-a-vraiment-degenere-un-ingenieur-de-linux-raconte-comment-les-bestioles-de-lia-epuisent-les-serveurs-du-noyau.html\n- Fin de règne chez Apple : le dernier jour de Tim Cook après 15 ans à la tête du géant\n    Numerama : https://www.numerama.com/tech/2321541-cest-le-dernier-jour-de-tim-cook-a-la-tete-dapple-quel-est-son-vrai-bilan.html\n    Next.ink : https://next.ink/brief-article/flock-apple-le-changement-revolutionnaire/\n- Le télescope spatial Nancy Grace Roman s'envole à bord de Falcon Heavy\n    Numerama : https://www.numerama.com/sciences/2321543-falcon-heavy-de-retour-les-plus-belles-photos-du-lancement-du-telescope-nancy-grace-roman.html\n    Numerama : https://www.numerama.com/sciences/2316881-le-falcon-heavy-de-spacex-fait-vrombir-ses-moteurs-suivez-en-direct-le-depart-du-telescope-spatial-roman.html\n- Archéologie : les princesses de l'Égypte antique maniant l'arc et l'épée\n    ScienceDaily : https://www.sciencedaily.com/releases/2026/08/260828082348.htm\n\nGenere automatiquement par Culture G.",
-    "audio": "2026-08-31.mp3",
-    "bytes": 4525869,
-    "duration": 565.68,
-    "published": "2026-08-31T10:16:04.639538+00:00"
   }
 ]

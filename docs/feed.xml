@@ -8,7 +8,7 @@
     <atom:link href="https://scadagoal.github.io/culture-g/feed.xml" rel="self" type="application/rss+xml"/>
     <language>fr-FR</language>
     <description>Un condense quotidien de l'actualite de l'intelligence artificielle, de la tech et de la science, monte en dialogue et genere automatiquement. L'IA en fil rouge, mais on ouvre large : histoire, sciences dures, societe.</description>
-    <lastBuildDate>Fri, 30 Oct 2026 06:05:22 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 06:15:23 +0000</lastBuildDate>
     <generator>Culture G</generator>
     <itunes:author>Culture G</itunes:author>
     <itunes:subtitle>Votre veille IA, tech et science, chaque matin</itunes:subtitle>
@@ -20,6 +20,63 @@
     <itunes:owner>
       <itunes:name>Culture G</itunes:name>
     </itunes:owner>
+    <item>
+      <title>Alerte sur Cursor et le compte à rebours pour Hubble</title>
+      <link>https://scadagoal.github.io/culture-g/</link>
+      <guid isPermaLink="false">culture-g-2026-10-31</guid>
+      <pubDate>Sat, 31 Oct 2026 06:11:08 +0000</pubDate>
+      <description>Une extension vérolée pour l'assistant Claude frappe les utilisateurs de l'éditeur Cursor, tandis que la NASA cherche une solution pour éviter le crash de Hubble. Retour également sur le braquage record subi par Binance et une surprenante taxe au gigaoctet votée en France.
+
+Sources de cet episode :
+
+- Alerte de sécurité : l'extension Claude Code piégée dans Cursor
+    Ars Technica : https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/
+    Next.ink : https://next.ink/265006/danger-autour-dune-extension-claude-code-verolee-dans-la-boutique-de-cursor/
+    Numerama : https://www.numerama.com/cyberguerre/2364283-des-hackers-ont-distribue-une-version-piegee-de-claude-code-a-des-milliers-de-developpeurs-mais-se-sont-pris-les-pieds-dans-leur-propre-code.html
+    Hacker News : https://cyberplace.social/@GossiTheDog/117528831681803563
+    Hacker News : https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2
+    Hacker News : https://phorion.io/blog/offical-claude-code-vsx-compromise/
+- SOS Hubble : la NASA cherche urgemment un plan pour sauver le télescope
+    Ars Technica : https://arstechnica.com/space/2026/10/think-you-can-save-the-hubble-space-telescope-nasa-wants-to-know/
+    Numerama : https://www.numerama.com/sciences/2364559-hubble-a-une-chance-sur-deux-de-secraser-dici-2033-alors-la-nasa-cherche-un-plan-de-sauvetage.html
+- Binance victime du plus grand casse crypto de l'histoire : 6,3 milliards envolés en 20 minutes
+    Next.ink : https://next.ink/264981/binance-63-milliards-de-dollars-derobes-dans-un-casse-crypto-record/
+    Ars Technica : https://arstechnica.com/security/2026/10/hackers-steal-6-3-billion-from-binance-in-record-crypto-heist/
+    Hacker News : https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/
+- L'Assemblée nationale vote une taxe surprise sur le gigaoctet téléchargé
+    Numerama : https://www.numerama.com/politique/2364723-lassemblee-vote-une-taxe-de-55-centimes-par-go-telecharge-qui-paiera-la-facture-a-la-fin-a-votre-avis.html
+    Next.ink : https://next.ink/264997/le-parti-socialiste-a-fait-passer-sa-taxe-au-gigaoctet-a-lassemblee-nationale/
+
+Genere automatiquement par Culture G.</description>
+      <itunes:summary>Une extension vérolée pour l'assistant Claude frappe les utilisateurs de l'éditeur Cursor, tandis que la NASA cherche une solution pour éviter le crash de Hubble. Retour également sur le braquage record subi par Binance et une surprenante taxe au gigaoctet votée en France.
+
+Sources de cet episode :
+
+- Alerte de sécurité : l'extension Claude Code piégée dans Cursor
+    Ars Technica : https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/
+    Next.ink : https://next.ink/265006/danger-autour-dune-extension-claude-code-verolee-dans-la-boutique-de-cursor/
+    Numerama : https://www.numerama.com/cyberguerre/2364283-des-hackers-ont-distribue-une-version-piegee-de-claude-code-a-des-milliers-de-developpeurs-mais-se-sont-pris-les-pieds-dans-leur-propre-code.html
+    Hacker News : https://cyberplace.social/@GossiTheDog/117528831681803563
+    Hacker News : https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2
+    Hacker News : https://phorion.io/blog/offical-claude-code-vsx-compromise/
+- SOS Hubble : la NASA cherche urgemment un plan pour sauver le télescope
+    Ars Technica : https://arstechnica.com/space/2026/10/think-you-can-save-the-hubble-space-telescope-nasa-wants-to-know/
+    Numerama : https://www.numerama.com/sciences/2364559-hubble-a-une-chance-sur-deux-de-secraser-dici-2033-alors-la-nasa-cherche-un-plan-de-sauvetage.html
+- Binance victime du plus grand casse crypto de l'histoire : 6,3 milliards envolés en 20 minutes
+    Next.ink : https://next.ink/264981/binance-63-milliards-de-dollars-derobes-dans-un-casse-crypto-record/
+    Ars Technica : https://arstechnica.com/security/2026/10/hackers-steal-6-3-billion-from-binance-in-record-crypto-heist/
+    Hacker News : https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/
+- L'Assemblée nationale vote une taxe surprise sur le gigaoctet téléchargé
+    Numerama : https://www.numerama.com/politique/2364723-lassemblee-vote-une-taxe-de-55-centimes-par-go-telecharge-qui-paiera-la-facture-a-la-fin-a-votre-avis.html
+    Next.ink : https://next.ink/264997/le-parti-socialiste-a-fait-passer-sa-taxe-au-gigaoctet-a-lassemblee-nationale/
+
+Genere automatiquement par Culture G.</itunes:summary>
+      <itunes:subtitle>Une extension vérolée pour l'assistant Claude frappe les utilisateurs de l'éditeur Cursor, tandis que la NASA cherche une solution pour éviter le crash de Hubble. Retour également sur le braquage record subi par Binance et une surprenante taxe au gigaocte</itunes:subtitle>
+      <itunes:duration>00:12:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://scadagoal.github.io/culture-g/episodes/2026-10-31.mp3" length="5948013" type="audio/mpeg"/>
+    </item>
     <item>
       <title>Mistral Large 4 en poids ouverts et agents IA en fuite</title>
       <link>https://scadagoal.github.io/culture-g/</link>
@@ -2135,53 +2192,6 @@ Genere automatiquement par Culture G.</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <enclosure url="https://scadagoal.github.io/culture-g/episodes/2026-09-01.mp3" length="5367789" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Quand la Corée rend l'IA gratuite et les guerrières d'Égypte</title>
-      <link>https://scadagoal.github.io/culture-g/</link>
-      <guid isPermaLink="false">culture-g-2026-08-31</guid>
-      <pubDate>Mon, 31 Aug 2026 10:16:04 +0000</pubDate>
-      <description>La Corée du Sud décrète l'accès gratuit et illimité à l'IA générative pour tous ses citoyens. Pendant ce temps, des robots d'IA saturent les serveurs du noyau Linux et la science redécouvre des princesses guerrières en Égypte antique.
-
-Sources de cet episode :
-
-- La Corée du Sud décrète l'accès gratuit et illimité à l'IA pour tous ses citoyens
-    Next.ink : https://next.ink/253678/en-coree-du-sud-lia-generative-bientot-erigee-en-service-public/
-- Comment les aspirateurs d'IA mettent à genoux les serveurs du noyau Linux
-    Numerama : https://www.numerama.com/cyberguerre/2321555-la-situation-a-vraiment-degenere-un-ingenieur-de-linux-raconte-comment-les-bestioles-de-lia-epuisent-les-serveurs-du-noyau.html
-- Fin de règne chez Apple : le dernier jour de Tim Cook après 15 ans à la tête du géant
-    Numerama : https://www.numerama.com/tech/2321541-cest-le-dernier-jour-de-tim-cook-a-la-tete-dapple-quel-est-son-vrai-bilan.html
-    Next.ink : https://next.ink/brief-article/flock-apple-le-changement-revolutionnaire/
-- Le télescope spatial Nancy Grace Roman s'envole à bord de Falcon Heavy
-    Numerama : https://www.numerama.com/sciences/2321543-falcon-heavy-de-retour-les-plus-belles-photos-du-lancement-du-telescope-nancy-grace-roman.html
-    Numerama : https://www.numerama.com/sciences/2316881-le-falcon-heavy-de-spacex-fait-vrombir-ses-moteurs-suivez-en-direct-le-depart-du-telescope-spatial-roman.html
-- Archéologie : les princesses de l'Égypte antique maniant l'arc et l'épée
-    ScienceDaily : https://www.sciencedaily.com/releases/2026/08/260828082348.htm
-
-Genere automatiquement par Culture G.</description>
-      <itunes:summary>La Corée du Sud décrète l'accès gratuit et illimité à l'IA générative pour tous ses citoyens. Pendant ce temps, des robots d'IA saturent les serveurs du noyau Linux et la science redécouvre des princesses guerrières en Égypte antique.
-
-Sources de cet episode :
-
-- La Corée du Sud décrète l'accès gratuit et illimité à l'IA pour tous ses citoyens
-    Next.ink : https://next.ink/253678/en-coree-du-sud-lia-generative-bientot-erigee-en-service-public/
-- Comment les aspirateurs d'IA mettent à genoux les serveurs du noyau Linux
-    Numerama : https://www.numerama.com/cyberguerre/2321555-la-situation-a-vraiment-degenere-un-ingenieur-de-linux-raconte-comment-les-bestioles-de-lia-epuisent-les-serveurs-du-noyau.html
-- Fin de règne chez Apple : le dernier jour de Tim Cook après 15 ans à la tête du géant
-    Numerama : https://www.numerama.com/tech/2321541-cest-le-dernier-jour-de-tim-cook-a-la-tete-dapple-quel-est-son-vrai-bilan.html
-    Next.ink : https://next.ink/brief-article/flock-apple-le-changement-revolutionnaire/
-- Le télescope spatial Nancy Grace Roman s'envole à bord de Falcon Heavy
-    Numerama : https://www.numerama.com/sciences/2321543-falcon-heavy-de-retour-les-plus-belles-photos-du-lancement-du-telescope-nancy-grace-roman.html
-    Numerama : https://www.numerama.com/sciences/2316881-le-falcon-heavy-de-spacex-fait-vrombir-ses-moteurs-suivez-en-direct-le-depart-du-telescope-spatial-roman.html
-- Archéologie : les princesses de l'Égypte antique maniant l'arc et l'épée
-    ScienceDaily : https://www.sciencedaily.com/releases/2026/08/260828082348.htm
-
-Genere automatiquement par Culture G.</itunes:summary>
-      <itunes:subtitle>La Corée du Sud décrète l'accès gratuit et illimité à l'IA générative pour tous ses citoyens. Pendant ce temps, des robots d'IA saturent les serveurs du noyau Linux et la science redécouvre des princesses guerrières en Égypte antique.</itunes:subtitle>
-      <itunes:duration>00:09:26</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <enclosure url="https://scadagoal.github.io/culture-g/episodes/2026-08-31.mp3" length="4525869" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
