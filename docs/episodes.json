@@ -1,5 +1,15 @@
 [
   {
+    "slug": "2026-11-01",
+    "title": "Quand l'IA s'injecte dans le cerveau et monte en orbite",
+    "teaser": "Des agents autonomes s'aventurent dans les tissus vivants pendant que Google expédie ses puces dans l'espace. Entre fantasmes de neurones biologiques, malwares dopés aux LLM et blé ancestral sauvé du grenier, tour d'horizon des vraies ruptures technologiques.",
+    "notes": "Sources de cet episode :\n\n- L'IA au cœur de la biologie : neurones vivants et chirurgie cérébrale autonome\n    Numerama : https://www.numerama.com/sciences/2365061-une-ia-a-choisi-un-traitement-et-la-injecte-dans-le-cerveau-dune-souris-ce-quon-sait-vraiment.html\n    Numerama : https://www.numerama.com/tech/2365135-mischief-1-un-modele-video-derive-de-neurones-vivants-pardon.html\n- Project Suncatcher : Google exécute un premier prompt IA en orbite\n    Numerama : https://www.numerama.com/tech/2365065-google-envoie-un-prompt-a-ses-puces-dia-dans-lespace-elles-ont-repondu.html\n- Volta Infostealer : quand les malwares utilisent des LLM pour évaluer leurs victimes\n    Hacker News : https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/\n- Botanique : des graines oubliées au grenier redonnent vie à une espèce ancienne\n    Hacker News : https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/\n\nGenere automatiquement par Culture G.",
+    "audio": "2026-11-01.mp3",
+    "bytes": 7356909,
+    "duration": 919.56,
+    "published": "2026-11-01T06:26:25.903049+00:00"
+  },
+  {
     "slug": "2026-10-31",
     "title": "Alerte sur Cursor et le compte à rebours pour Hubble",
     "teaser": "Une extension vérolée pour l'assistant Claude frappe les utilisateurs de l'éditeur Cursor, tandis que la NASA cherche une solution pour éviter le crash de Hubble. Retour également sur le braquage record subi par Binance et une surprenante taxe au gigaoctet votée en France.",
@@ -458,15 +468,5 @@
     "bytes": 6176109,
     "duration": 771.96,
     "published": "2026-09-03T08:36:40.698862+00:00"
-  },
-  {
-    "slug": "2026-09-01",
-    "title": "ChatGPT sous le DSA, le télescope Roman et l'IA en local",
-    "teaser": "Bruxelles place ChatGPT sous sa régulation la plus stricte tandis que la NASA lance son télescope géant pour cartographier l'énergie sombre. Pendant ce temps, l'IA locale crée une pénurie de Mac et les neurosciences enterrent le mythe du cerveau reptilien.",
-    "notes": "Sources de cet episode :\n\n- ChatGPT entre dans le cercle très restreint du DSA européen\n    Numerama : https://www.numerama.com/tech/2322007-leurope-classe-chatgpt-parmi-ses-services-les-plus-surveilles-voici-les-changements-exiges-par-le-dsa.html\n    Ars Technica : https://arstechnica.com/tech-policy/2026/08/chatgtp-and-reddit-now-face-eus-toughest-online-safety-rules/\n    Next.ink : https://next.ink/brief-article/chatgpt-reddit-et-roblox-entrent-dans-le-club-tres-surveille-du-dsa/\n- Le télescope spatial Nancy-Grace-Roman prend son envol pour cartographier l'énergie sombre\n    Next.ink : https://next.ink/253705/lance-avec-succes-le-telescope-spatial-roman-va-etudier-exoplanetes-et-energie-sombre/\n    Ars Technica : https://arstechnica.com/space/2026/08/nasas-next-great-observatory-begins-mission-to-widen-our-view-of-the-universe/\n    ScienceDaily : https://www.sciencedaily.com/releases/2026/08/260831035213.htm\n- L'engouement pour l'IA en local crée une pénurie inattendue de Mac Mini et Mac Studio\n    Hacker News : https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/\n- Neurosciences : la fin officielle du mythe du « cerveau reptilien »\n    ScienceDaily : https://www.sciencedaily.com/releases/2026/08/260829235958.htm\n\nGenere automatiquement par Culture G.",
-    "audio": "2026-09-01.mp3",
-    "bytes": 5367789,
-    "duration": 670.92,
-    "published": "2026-09-01T09:01:56.496513+00:00"
   }
 ]
