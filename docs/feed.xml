@@ -8,7 +8,7 @@
     <atom:link href="https://scadagoal.github.io/culture-g/feed.xml" rel="self" type="application/rss+xml"/>
     <language>fr-FR</language>
     <description>Un condense quotidien de l'actualite de l'intelligence artificielle, de la tech et de la science, monte en dialogue et genere automatiquement. L'IA en fil rouge, mais on ouvre large : histoire, sciences dures, societe.</description>
-    <lastBuildDate>Sun, 01 Nov 2026 06:31:41 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 19:20:10 +0000</lastBuildDate>
     <generator>Culture G</generator>
     <itunes:author>Culture G</itunes:author>
     <itunes:subtitle>Votre veille IA, tech et science, chaque matin</itunes:subtitle>
@@ -20,6 +20,55 @@
     <itunes:owner>
       <itunes:name>Culture G</itunes:name>
     </itunes:owner>
+    <item>
+      <title>L'IA submerge le code et frappe les frigos d'Europe</title>
+      <link>https://scadagoal.github.io/culture-g/</link>
+      <guid isPermaLink="false">culture-g-2026-11-02</guid>
+      <pubDate>Mon, 02 Nov 2026 19:14:49 +0000</pubDate>
+      <description>Entre l'avalanche de bugs dans PostgreSQL generes par l'intelligence artificielle et le sabotage informatique des systemes de refrigeration continentaux, l'actualite technologique bouscule nos certitudes. Nous revenons egalement sur les dernieres avancees des agents vocaux et des detecteurs de neutrinos en Antarctique.
+
+Sources de cet episode :
+
+- PostgreSQL et Linux face au choc de l'IA : entre saturation des bugs et noyau en 11 jours
+    Numerama : https://www.numerama.com/tech/2365629-comment-allons-nous-rattraper-notre-retard-lia-trouve-tant-de-bugs-que-postgresql-sinquiete-de-sa-capacite-a-innover.html
+    Next.ink : https://next.ink/265227/le-createur-de-rocky-linux-a-cree-un-noyau-compatible-linux-en-11-jours-avec-lia/
+- OpenAI devoile LifeVal : un benchmark pour evaluer l'IA dans la vie quotidienne
+    OpenAI : https://openai.com/index/lifeval
+- Cyberattaque massive sur les refrigerateurs des supermarches europeens
+    Next.ink : https://next.ink/265228/apres-la-france-des-pannes-de-frigos-dans-plusieurs-enseignes-en-europe/
+    Numerama : https://www.numerama.com/cyberguerre/2365835-la-cyberattaque-des-frigos-change-dechelle-et-frappe-desormais-des-supermarches-dans-toute-leurope.html
+    Hacker News : https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack
+- IA vocale : pourquoi les agents apprennent desormais a nous couper la parole
+    Underscore_ : https://www.youtube.com/watch?v=nj02jmGlZwc
+- Antarctique : IceCube capte des particules fantomes ultra-energetiques
+    ScienceDaily : https://www.sciencedaily.com/releases/2026/11/261101010533.htm
+
+Genere automatiquement par Culture G.</description>
+      <itunes:summary>Entre l'avalanche de bugs dans PostgreSQL generes par l'intelligence artificielle et le sabotage informatique des systemes de refrigeration continentaux, l'actualite technologique bouscule nos certitudes. Nous revenons egalement sur les dernieres avancees des agents vocaux et des detecteurs de neutrinos en Antarctique.
+
+Sources de cet episode :
+
+- PostgreSQL et Linux face au choc de l'IA : entre saturation des bugs et noyau en 11 jours
+    Numerama : https://www.numerama.com/tech/2365629-comment-allons-nous-rattraper-notre-retard-lia-trouve-tant-de-bugs-que-postgresql-sinquiete-de-sa-capacite-a-innover.html
+    Next.ink : https://next.ink/265227/le-createur-de-rocky-linux-a-cree-un-noyau-compatible-linux-en-11-jours-avec-lia/
+- OpenAI devoile LifeVal : un benchmark pour evaluer l'IA dans la vie quotidienne
+    OpenAI : https://openai.com/index/lifeval
+- Cyberattaque massive sur les refrigerateurs des supermarches europeens
+    Next.ink : https://next.ink/265228/apres-la-france-des-pannes-de-frigos-dans-plusieurs-enseignes-en-europe/
+    Numerama : https://www.numerama.com/cyberguerre/2365835-la-cyberattaque-des-frigos-change-dechelle-et-frappe-desormais-des-supermarches-dans-toute-leurope.html
+    Hacker News : https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack
+- IA vocale : pourquoi les agents apprennent desormais a nous couper la parole
+    Underscore_ : https://www.youtube.com/watch?v=nj02jmGlZwc
+- Antarctique : IceCube capte des particules fantomes ultra-energetiques
+    ScienceDaily : https://www.sciencedaily.com/releases/2026/11/261101010533.htm
+
+Genere automatiquement par Culture G.</itunes:summary>
+      <itunes:subtitle>Entre l'avalanche de bugs dans PostgreSQL generes par l'intelligence artificielle et le sabotage informatique des systemes de refrigeration continentaux, l'actualite technologique bouscule nos certitudes. Nous revenons egalement sur les dernieres avancees</itunes:subtitle>
+      <itunes:duration>00:10:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://scadagoal.github.io/culture-g/episodes/2026-11-02.mp3" length="5242989" type="audio/mpeg"/>
+    </item>
     <item>
       <title>Quand l'IA s'injecte dans le cerveau et monte en orbite</title>
       <link>https://scadagoal.github.io/culture-g/</link>
@@ -2137,55 +2186,6 @@ Genere automatiquement par Culture G.</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <enclosure url="https://scadagoal.github.io/culture-g/episodes/2026-09-04.mp3" length="6328749" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Gemini 3.8 Flash, le piège RAG et le frein de la lumière</title>
-      <link>https://scadagoal.github.io/culture-g/</link>
-      <guid isPermaLink="false">culture-g-2026-09-03</guid>
-      <pubDate>Thu, 03 Sep 2026 08:36:40 +0000</pubDate>
-      <description>Google accélère encore avec Gemini 3.8 Flash et sa version cyberdéfense, tandis que Firefox déploie son IA en France. En physique, une étude révèle qu'à 75 % de la vitesse de la lumière, les voiles solaires sont freinées par leurs propres photons.
-
-Sources de cet episode :
-
-- Google dégaine Gemini 3.8 Flash et sa déclinaison Cyber
-    Google DeepMind : https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/
-    Ars Technica : https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks/
-    Hacker News : https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/
-- Firefox déploie sa « Fenêtre intelligente » dopée à l'IA en France
-    Numerama : https://www.numerama.com/tech/2323727-firefox-lance-smart-window-en-france-sa-nouvelle-fenetre-de-navigation-dopee-a-lia.html
-    Next.ink : https://next.ink/254095/firefox-155-apporte-sa-fenetre-intelligente-en-france-la-version-ios-bloque-la-publicite/
-- Trois sites fabriquent 215 000 faux comparatifs pour berner Perplexity
-    Hacker News : https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/
-- BepiColombo se scinde en deux avant son arrivée délicate sur Mercure
-    Numerama : https://www.numerama.com/sciences/2323869-apres-8-ans-et-des-milliards-de-km-la-sonde-bepicolombo-se-separe-en-deux-en-vue-de-sa-delicate-arrivee-sur-mercure.html
-- Voyage interstellaire : quand la lumière devient un frein pour les voiles solaires
-    ScienceDaily : https://www.sciencedaily.com/releases/2026/08/260831015157.htm
-
-Genere automatiquement par Culture G.</description>
-      <itunes:summary>Google accélère encore avec Gemini 3.8 Flash et sa version cyberdéfense, tandis que Firefox déploie son IA en France. En physique, une étude révèle qu'à 75 % de la vitesse de la lumière, les voiles solaires sont freinées par leurs propres photons.
-
-Sources de cet episode :
-
-- Google dégaine Gemini 3.8 Flash et sa déclinaison Cyber
-    Google DeepMind : https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/
-    Ars Technica : https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks/
-    Hacker News : https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/
-- Firefox déploie sa « Fenêtre intelligente » dopée à l'IA en France
-    Numerama : https://www.numerama.com/tech/2323727-firefox-lance-smart-window-en-france-sa-nouvelle-fenetre-de-navigation-dopee-a-lia.html
-    Next.ink : https://next.ink/254095/firefox-155-apporte-sa-fenetre-intelligente-en-france-la-version-ios-bloque-la-publicite/
-- Trois sites fabriquent 215 000 faux comparatifs pour berner Perplexity
-    Hacker News : https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/
-- BepiColombo se scinde en deux avant son arrivée délicate sur Mercure
-    Numerama : https://www.numerama.com/sciences/2323869-apres-8-ans-et-des-milliards-de-km-la-sonde-bepicolombo-se-separe-en-deux-en-vue-de-sa-delicate-arrivee-sur-mercure.html
-- Voyage interstellaire : quand la lumière devient un frein pour les voiles solaires
-    ScienceDaily : https://www.sciencedaily.com/releases/2026/08/260831015157.htm
-
-Genere automatiquement par Culture G.</itunes:summary>
-      <itunes:subtitle>Google accélère encore avec Gemini 3.8 Flash et sa version cyberdéfense, tandis que Firefox déploie son IA en France. En physique, une étude révèle qu'à 75 % de la vitesse de la lumière, les voiles solaires sont freinées par leurs propres photons.</itunes:subtitle>
-      <itunes:duration>00:12:52</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <enclosure url="https://scadagoal.github.io/culture-g/episodes/2026-09-03.mp3" length="6176109" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>

@@ -1,5 +1,15 @@
 [
   {
+    "slug": "2026-11-02",
+    "title": "L'IA submerge le code et frappe les frigos d'Europe",
+    "teaser": "Entre l'avalanche de bugs dans PostgreSQL generes par l'intelligence artificielle et le sabotage informatique des systemes de refrigeration continentaux, l'actualite technologique bouscule nos certitudes. Nous revenons egalement sur les dernieres avancees des agents vocaux et des detecteurs de neutrinos en Antarctique.",
+    "notes": "Sources de cet episode :\n\n- PostgreSQL et Linux face au choc de l'IA : entre saturation des bugs et noyau en 11 jours\n    Numerama : https://www.numerama.com/tech/2365629-comment-allons-nous-rattraper-notre-retard-lia-trouve-tant-de-bugs-que-postgresql-sinquiete-de-sa-capacite-a-innover.html\n    Next.ink : https://next.ink/265227/le-createur-de-rocky-linux-a-cree-un-noyau-compatible-linux-en-11-jours-avec-lia/\n- OpenAI devoile LifeVal : un benchmark pour evaluer l'IA dans la vie quotidienne\n    OpenAI : https://openai.com/index/lifeval\n- Cyberattaque massive sur les refrigerateurs des supermarches europeens\n    Next.ink : https://next.ink/265228/apres-la-france-des-pannes-de-frigos-dans-plusieurs-enseignes-en-europe/\n    Numerama : https://www.numerama.com/cyberguerre/2365835-la-cyberattaque-des-frigos-change-dechelle-et-frappe-desormais-des-supermarches-dans-toute-leurope.html\n    Hacker News : https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack\n- IA vocale : pourquoi les agents apprennent desormais a nous couper la parole\n    Underscore_ : https://www.youtube.com/watch?v=nj02jmGlZwc\n- Antarctique : IceCube capte des particules fantomes ultra-energetiques\n    ScienceDaily : https://www.sciencedaily.com/releases/2026/11/261101010533.htm\n\nGenere automatiquement par Culture G.",
+    "audio": "2026-11-02.mp3",
+    "bytes": 5242989,
+    "duration": 655.32,
+    "published": "2026-11-02T19:14:49.947349+00:00"
+  },
+  {
     "slug": "2026-11-01",
     "title": "Quand l'IA s'injecte dans le cerveau et monte en orbite",
     "teaser": "Des agents autonomes s'aventurent dans les tissus vivants pendant que Google expédie ses puces dans l'espace. Entre fantasmes de neurones biologiques, malwares dopés aux LLM et blé ancestral sauvé du grenier, tour d'horizon des vraies ruptures technologiques.",
@@ -458,15 +468,5 @@
     "bytes": 6328749,
     "duration": 791.04,
     "published": "2026-09-04T08:19:12.908797+00:00"
-  },
-  {
-    "slug": "2026-09-03",
-    "title": "Gemini 3.8 Flash, le piège RAG et le frein de la lumière",
-    "teaser": "Google accélère encore avec Gemini 3.8 Flash et sa version cyberdéfense, tandis que Firefox déploie son IA en France. En physique, une étude révèle qu'à 75 % de la vitesse de la lumière, les voiles solaires sont freinées par leurs propres photons.",
-    "notes": "Sources de cet episode :\n\n- Google dégaine Gemini 3.8 Flash et sa déclinaison Cyber\n    Google DeepMind : https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/\n    Ars Technica : https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks/\n    Hacker News : https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/\n- Firefox déploie sa « Fenêtre intelligente » dopée à l'IA en France\n    Numerama : https://www.numerama.com/tech/2323727-firefox-lance-smart-window-en-france-sa-nouvelle-fenetre-de-navigation-dopee-a-lia.html\n    Next.ink : https://next.ink/254095/firefox-155-apporte-sa-fenetre-intelligente-en-france-la-version-ios-bloque-la-publicite/\n- Trois sites fabriquent 215 000 faux comparatifs pour berner Perplexity\n    Hacker News : https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/\n- BepiColombo se scinde en deux avant son arrivée délicate sur Mercure\n    Numerama : https://www.numerama.com/sciences/2323869-apres-8-ans-et-des-milliards-de-km-la-sonde-bepicolombo-se-separe-en-deux-en-vue-de-sa-delicate-arrivee-sur-mercure.html\n- Voyage interstellaire : quand la lumière devient un frein pour les voiles solaires\n    ScienceDaily : https://www.sciencedaily.com/releases/2026/08/260831015157.htm\n\nGenere automatiquement par Culture G.",
-    "audio": "2026-09-03.mp3",
-    "bytes": 6176109,
-    "duration": 771.96,
-    "published": "2026-09-03T08:36:40.698862+00:00"
   }
 ]
