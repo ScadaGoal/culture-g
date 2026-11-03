@@ -8,7 +8,7 @@
     <atom:link href="https://scadagoal.github.io/culture-g/feed.xml" rel="self" type="application/rss+xml"/>
     <language>fr-FR</language>
     <description>Un condense quotidien de l'actualite de l'intelligence artificielle, de la tech et de la science, monte en dialogue et genere automatiquement. L'IA en fil rouge, mais on ouvre large : histoire, sciences dures, societe.</description>
-    <lastBuildDate>Mon, 02 Nov 2026 19:20:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 07:02:28 +0000</lastBuildDate>
     <generator>Culture G</generator>
     <itunes:author>Culture G</itunes:author>
     <itunes:subtitle>Votre veille IA, tech et science, chaque matin</itunes:subtitle>
@@ -20,6 +20,47 @@
     <itunes:owner>
       <itunes:name>Culture G</itunes:name>
     </itunes:owner>
+    <item>
+      <title>IA, Git et trous noirs : les limites repoussées</title>
+      <link>https://scadagoal.github.io/culture-g/</link>
+      <guid isPermaLink="false">culture-g-2026-11-03</guid>
+      <pubDate>Tue, 03 Nov 2026 06:59:45 +0000</pubDate>
+      <description>Decouvrez comment la consommation interne d'Anthropic depasse ses salaires, comment OpenAI et le MIT reinventent le code et l'espace des poids, et cette etude theorique sur les trous noirs.
+
+Sources de cet episode :
+
+- Anthropic dépense plus en tokens internes qu'en masse salariale
+    Hacker News : https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11
+- Sous le capot de l'IA : OpenAI réinvente Git et Astra modifie directement les poids des modèles
+    OpenAI : https://openai.com/index/scaling-git-at-openai
+    Hacker News : https://rikiyat.github.io/blog/weight-space-programming/
+- Subvocal : Parler à son ordinateur de manière totalement inaudible
+    Hacker News : https://news.ycombinator.com/item?id=50340088
+- Astrophysique : Une faille théorique permettrait aux trous noirs de se scinder en deux
+    ScienceDaily : https://www.sciencedaily.com/releases/2026/11/261101010525.htm
+
+Genere automatiquement par Culture G.</description>
+      <itunes:summary>Decouvrez comment la consommation interne d'Anthropic depasse ses salaires, comment OpenAI et le MIT reinventent le code et l'espace des poids, et cette etude theorique sur les trous noirs.
+
+Sources de cet episode :
+
+- Anthropic dépense plus en tokens internes qu'en masse salariale
+    Hacker News : https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11
+- Sous le capot de l'IA : OpenAI réinvente Git et Astra modifie directement les poids des modèles
+    OpenAI : https://openai.com/index/scaling-git-at-openai
+    Hacker News : https://rikiyat.github.io/blog/weight-space-programming/
+- Subvocal : Parler à son ordinateur de manière totalement inaudible
+    Hacker News : https://news.ycombinator.com/item?id=50340088
+- Astrophysique : Une faille théorique permettrait aux trous noirs de se scinder en deux
+    ScienceDaily : https://www.sciencedaily.com/releases/2026/11/261101010525.htm
+
+Genere automatiquement par Culture G.</itunes:summary>
+      <itunes:subtitle>Decouvrez comment la consommation interne d'Anthropic depasse ses salaires, comment OpenAI et le MIT reinventent le code et l'espace des poids, et cette etude theorique sur les trous noirs.</itunes:subtitle>
+      <itunes:duration>00:08:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://scadagoal.github.io/culture-g/episodes/2026-11-03.mp3" length="4047213" type="audio/mpeg"/>
+    </item>
     <item>
       <title>L'IA submerge le code et frappe les frigos d'Europe</title>
       <link>https://scadagoal.github.io/culture-g/</link>

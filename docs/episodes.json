@@ -1,5 +1,15 @@
 [
   {
+    "slug": "2026-11-03",
+    "title": "IA, Git et trous noirs : les limites repoussées",
+    "teaser": "Decouvrez comment la consommation interne d'Anthropic depasse ses salaires, comment OpenAI et le MIT reinventent le code et l'espace des poids, et cette etude theorique sur les trous noirs.",
+    "notes": "Sources de cet episode :\n\n- Anthropic dépense plus en tokens internes qu'en masse salariale\n    Hacker News : https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11\n- Sous le capot de l'IA : OpenAI réinvente Git et Astra modifie directement les poids des modèles\n    OpenAI : https://openai.com/index/scaling-git-at-openai\n    Hacker News : https://rikiyat.github.io/blog/weight-space-programming/\n- Subvocal : Parler à son ordinateur de manière totalement inaudible\n    Hacker News : https://news.ycombinator.com/item?id=50340088\n- Astrophysique : Une faille théorique permettrait aux trous noirs de se scinder en deux\n    ScienceDaily : https://www.sciencedaily.com/releases/2026/11/261101010525.htm\n\nGenere automatiquement par Culture G.",
+    "audio": "2026-11-03.mp3",
+    "bytes": 4047213,
+    "duration": 505.84,
+    "published": "2026-11-03T06:59:45.502300+00:00"
+  },
+  {
     "slug": "2026-11-02",
     "title": "L'IA submerge le code et frappe les frigos d'Europe",
     "teaser": "Entre l'avalanche de bugs dans PostgreSQL generes par l'intelligence artificielle et le sabotage informatique des systemes de refrigeration continentaux, l'actualite technologique bouscule nos certitudes. Nous revenons egalement sur les dernieres avancees des agents vocaux et des detecteurs de neutrinos en Antarctique.",
