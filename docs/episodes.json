@@ -1,5 +1,15 @@
 [
   {
+    "slug": "2026-11-05",
+    "title": "IA dans Linux, fronde anti-data centers et ratés nazis",
+    "teaser": "Neuf cent quarante-huit failles corrigées dans Linux par OpenAI, des électeurs américains qui ferment la porte aux data centers, et les cubes d'uranium d'Heisenberg. Un tour d'horizon de l'actualité de l'intelligence artificielle et de ses impacts.",
+    "notes": "Sources de cet episode :\n\n- OpenAI débusque et corrige 948 failles dans le noyau Linux grâce à un pipeline autonome\n    OpenAI : https://openai.com/index/a-thousand-fewer-paths-to-root\n- Kimi K3.1 Pro et Ripple-65B : le paysage des modèles open weights pour les agents s'accélère\n    Hacker News : https://huggingface.co/moonshotai/Kimi-K3.1-Pro\n    Hacker News : https://www.ricursive.com/ripple\n- Revers électoral pour les data centers IA : la population américaine vote contre leur expansion\n    Ars Technica : https://arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech/\n    MIT Tech Review : https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/\n    Hacker News : https://www.semafor.com/article/11/04/2026/us-voters-roundly-reject-data-centers-in-ballot-measures\n- Histoire scientifique : des cubes d'uranium révèlent l'erreur de calcul du projet nucléaire nazi\n    Ars Technica : https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/\n\nGenere automatiquement par Culture G.",
+    "audio": "2026-11-05.mp3",
+    "bytes": 4648557,
+    "duration": 581.0,
+    "published": "2026-11-05T06:59:08.296239+00:00"
+  },
+  {
     "slug": "2026-11-04",
     "title": "OpenAI, Google et la justice bousculent l'actualite",
     "teaser": "OpenAI deploie son modele de cybersécurité sur le cloud gouvernemental américain et Google automatise la découverte de médicaments. Pendant ce temps, le New York Times attaque le navigateur Brave en justice.",

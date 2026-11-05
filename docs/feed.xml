@@ -8,7 +8,7 @@
     <atom:link href="https://scadagoal.github.io/culture-g/feed.xml" rel="self" type="application/rss+xml"/>
     <language>fr-FR</language>
     <description>Un condense quotidien de l'actualite de l'intelligence artificielle, de la tech et de la science, monte en dialogue et genere automatiquement. L'IA en fil rouge, mais on ouvre large : histoire, sciences dures, societe.</description>
-    <lastBuildDate>Wed, 04 Nov 2026 17:00:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 07:06:52 +0000</lastBuildDate>
     <generator>Culture G</generator>
     <itunes:author>Culture G</itunes:author>
     <itunes:subtitle>Votre veille IA, tech et science, chaque matin</itunes:subtitle>
@@ -20,6 +20,51 @@
     <itunes:owner>
       <itunes:name>Culture G</itunes:name>
     </itunes:owner>
+    <item>
+      <title>IA dans Linux, fronde anti-data centers et ratés nazis</title>
+      <link>https://scadagoal.github.io/culture-g/</link>
+      <guid isPermaLink="false">culture-g-2026-11-05</guid>
+      <pubDate>Thu, 05 Nov 2026 06:59:08 +0000</pubDate>
+      <description>Neuf cent quarante-huit failles corrigées dans Linux par OpenAI, des électeurs américains qui ferment la porte aux data centers, et les cubes d'uranium d'Heisenberg. Un tour d'horizon de l'actualité de l'intelligence artificielle et de ses impacts.
+
+Sources de cet episode :
+
+- OpenAI débusque et corrige 948 failles dans le noyau Linux grâce à un pipeline autonome
+    OpenAI : https://openai.com/index/a-thousand-fewer-paths-to-root
+- Kimi K3.1 Pro et Ripple-65B : le paysage des modèles open weights pour les agents s'accélère
+    Hacker News : https://huggingface.co/moonshotai/Kimi-K3.1-Pro
+    Hacker News : https://www.ricursive.com/ripple
+- Revers électoral pour les data centers IA : la population américaine vote contre leur expansion
+    Ars Technica : https://arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech/
+    MIT Tech Review : https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/
+    Hacker News : https://www.semafor.com/article/11/04/2026/us-voters-roundly-reject-data-centers-in-ballot-measures
+- Histoire scientifique : des cubes d'uranium révèlent l'erreur de calcul du projet nucléaire nazi
+    Ars Technica : https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/
+
+Genere automatiquement par Culture G.</description>
+      <itunes:summary>Neuf cent quarante-huit failles corrigées dans Linux par OpenAI, des électeurs américains qui ferment la porte aux data centers, et les cubes d'uranium d'Heisenberg. Un tour d'horizon de l'actualité de l'intelligence artificielle et de ses impacts.
+
+Sources de cet episode :
+
+- OpenAI débusque et corrige 948 failles dans le noyau Linux grâce à un pipeline autonome
+    OpenAI : https://openai.com/index/a-thousand-fewer-paths-to-root
+- Kimi K3.1 Pro et Ripple-65B : le paysage des modèles open weights pour les agents s'accélère
+    Hacker News : https://huggingface.co/moonshotai/Kimi-K3.1-Pro
+    Hacker News : https://www.ricursive.com/ripple
+- Revers électoral pour les data centers IA : la population américaine vote contre leur expansion
+    Ars Technica : https://arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech/
+    MIT Tech Review : https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/
+    Hacker News : https://www.semafor.com/article/11/04/2026/us-voters-roundly-reject-data-centers-in-ballot-measures
+- Histoire scientifique : des cubes d'uranium révèlent l'erreur de calcul du projet nucléaire nazi
+    Ars Technica : https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/
+
+Genere automatiquement par Culture G.</itunes:summary>
+      <itunes:subtitle>Neuf cent quarante-huit failles corrigées dans Linux par OpenAI, des électeurs américains qui ferment la porte aux data centers, et les cubes d'uranium d'Heisenberg. Un tour d'horizon de l'actualité de l'intelligence artificielle et de ses impacts.</itunes:subtitle>
+      <itunes:duration>00:09:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://scadagoal.github.io/culture-g/episodes/2026-11-05.mp3" length="4648557" type="audio/mpeg"/>
+    </item>
     <item>
       <title>OpenAI, Google et la justice bousculent l'actualite</title>
       <link>https://scadagoal.github.io/culture-g/</link>
