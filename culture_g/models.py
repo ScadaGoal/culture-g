@@ -161,6 +161,10 @@ def make_client() -> Any:
     return genai.Client(
         api_key=key,
         http_options=types.HttpOptions(
+            # Le SDK 3.0 (6 novembre 2026) est passe par defaut a l'API v1, ou les
+            # modeles TTS n'existent pas : tous renvoyaient 404. La documentation
+            # Gemini cible v1beta, on la fixe pour ne plus dependre du defaut du SDK.
+            api_version="v1beta",
             retry_options=types.HttpRetryOptions(attempts=1, http_status_codes=[503]),
         ),
     )
