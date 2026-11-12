@@ -152,6 +152,29 @@ Le champ script contient uniquement le dialogue, sans preambule ni commentaire.
 """
 
 
+def _inline_tag_pattern() -> re.Pattern[str]:
+    tags = "|".join(re.escape(s.tag) for s in config.SPEAKERS)
+    # Etiquette precedee d'un debut de texte ou d'une fin de phrase (ou d'un simple
+    # blanc) : "... d'accord. Expert: Oui." -> deux repliques.
+    return re.compile(rf"(?:^|(?<=[\s.!?…»\"]))\**\s*({tags})\s*\**\s*:\s*")
+
+
+def split_turns(script: str) -> str:
+    """Remet une replique par ligne, meme si le modele les a collees bout a bout.
+
+    Arrive en pratique : la verification factuelle a renvoye le dialogue d'un seul
+    tenant. Le decoupage en segments ne trouvait plus aucune frontiere, la synthese
+    lisait dix minutes d'une traite (la voix derive) et les etiquettes se retrouvaient
+    en milieu de ligne, prononcees ou attribuees au mauvais locuteur.
+    """
+    text = _inline_tag_pattern().sub(lambda m: f"\n{m.group(1)}: ", script)
+    return "\n".join(l.strip() for l in text.splitlines() if l.strip())
+
+
+def sanitize(script: str) -> tuple[str, int]:
+    return _sanitize(split_turns(script))
+
+
 def _sanitize(script: str) -> tuple[str, int]:
     """Retire ce qui rendrait la synthese vocale bruyante.
 
@@ -225,7 +248,7 @@ def write_script(client: Any, model: str, headline: str, dossiers: list[dict],
     )
 
     episode = Episode.model_validate_json(interaction.output_text)
-    episode.script, fixes = _sanitize(episode.script)
+    episode.script, fixes = sanitize(episode.script)
 
     if not episode.script.strip():
         raise RuntimeError("Script vide apres nettoyage : rien a synthetiser.")

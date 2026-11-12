@@ -17,6 +17,7 @@ from typing import Any
 from pydantic import BaseModel, Field
 
 from .models import ladder, try_models
+from .script import sanitize
 
 log = logging.getLogger(__name__)
 
@@ -115,7 +116,9 @@ def verify(client: Any, model: str, script: str, dossiers: list[dict]) -> tuple[
         log.warning("Verification impossible (%s) : script publie sans relecture.", exc)
         return script, []
 
-    corrected = result.script_corrige.strip()
+    # Meme nettoyage que le script d'origine : le modele de verification a deja rendu
+    # le dialogue d'un seul tenant, sans retour a la ligne entre les repliques.
+    corrected, _ = sanitize(result.script_corrige)
 
     # Garde-fou : si la passe a ampute le script, on garde l'original. Une verification
     # qui detruit le contenu est pire que pas de verification du tout.
@@ -124,6 +127,16 @@ def verify(client: Any, model: str, script: str, dossiers: list[dict]) -> tuple[
         log.warning(
             "Verification rejetee : script reduit de %.0f %% (probable derapage). "
             "Version originale conservee.", (1 - ratio) * 100,
+        )
+        return script, []
+
+    # Meme garde-fou sur la structure : des repliques fusionnees ou perdues changent
+    # qui dit quoi, ce qu'aucune correction factuelle ne justifie.
+    before, after = len(script.splitlines()), len(corrected.splitlines())
+    if abs(after - before) > max(2, before * 0.15):
+        log.warning(
+            "Verification rejetee : %d repliques au lieu de %d. Version originale conservee.",
+            after, before,
         )
         return script, []
 

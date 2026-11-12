@@ -14,6 +14,7 @@ Deux choix structurants ici :
 from __future__ import annotations
 
 import base64
+import io
 import logging
 import os
 import shutil
@@ -23,6 +24,7 @@ from typing import Any
 
 from . import config
 from .models import CANDIDATES, try_models
+from .script import split_turns
 
 log = logging.getLogger(__name__)
 
@@ -48,7 +50,7 @@ def split_script(script: str, words_per_chunk: int = WORDS_PER_CHUNK) -> list[st
     milieu d'un developpement de l'expert. On coupe donc de preference juste avant une
     replique de l'animateur, des lors qu'on a atteint une longueur raisonnable.
     """
-    lines = [l for l in script.splitlines() if l.strip()]
+    lines = [l for l in split_turns(script).splitlines() if l.strip()]
     host_prefix = f"{config.HOST.tag}:"
 
     chunks: list[str] = []
@@ -80,12 +82,57 @@ def split_script(script: str, words_per_chunk: int = WORDS_PER_CHUNK) -> list[st
 
 
 def _speech_config() -> dict:
-    return {
-        "speakers": [
-            {"speaker": s.tag, "voice": s.voice, "language": config.TTS_LANGUAGE}
-            for s in config.SPEAKERS
-        ]
-    }
+    # La langue n'est plus un parametre : les modeles 3.8 la detectent sur le texte.
+    return {"speakers": [{"speaker": s.tag, "voice": s.voice} for s in config.SPEAKERS]}
+
+
+# Consigne de jeu courte et constante. Les modeles 3.8 lisent le texte mot pour mot :
+# une consigne glissee dans le transcript serait prononcee, et une consigne longue
+# ou changeante fait deriver la voix (documentation Gemini TTS).
+TURN_STYLE = "conversation de podcast, naturelle et posee"
+
+
+def _turns(text: str) -> list[dict]:
+    """Une entree par replique, le locuteur porte par speech_metadata.
+
+    Les modeles 3.8 n'interpretent plus les prefixes "Animateur:" dans le texte : ils
+    les liraient. Le locuteur passe donc en metadonnee, hors du transcript.
+    """
+    by_prefix = {f"{s.tag}:": s.tag for s in config.SPEAKERS}
+    items: list[dict] = []
+    for line in text.splitlines():
+        line = line.strip()
+        prefix = next((p for p in by_prefix if line.startswith(p)), None)
+        if prefix is None:
+            continue
+        spoken = line[len(prefix):].strip()
+        if not spoken:
+            continue
+        items.append({
+            "type": "text",
+            "text": spoken,
+            "annotations": [{
+                "type": "speech_metadata",
+                "speaker": by_prefix[prefix],
+                "style": TURN_STYLE,
+            }],
+        })
+    if not items:
+        raise RuntimeError("Segment sans replique etiquetee : rien a synthetiser.")
+    return items
+
+
+def _wav_to_pcm(blob: bytes) -> bytes:
+    """Extrait le PCM d'un WAV, en verifiant qu'il colle au format attendu."""
+    with wave.open(io.BytesIO(blob), "rb") as wf:
+        if (wf.getnchannels(), wf.getsampwidth(), wf.getframerate()) != (
+            1, 2, config.TTS_SAMPLE_RATE
+        ):
+            raise RuntimeError(
+                f"WAV inattendu : {wf.getnchannels()} canal(aux), "
+                f"{wf.getsampwidth() * 8} bits, {wf.getframerate()} Hz."
+            )
+        return wf.readframes(wf.getnframes())
 
 
 def _extract_pcm(interaction: Any) -> bytes:
@@ -94,40 +141,40 @@ def _extract_pcm(interaction: Any) -> bytes:
     if audio is None:
         raise RuntimeError("Reponse sans audio : le modele a probablement repondu en texte.")
 
-    # On concatene du PCM brut : si le modele renvoyait un format encapsule (WAV, MP3),
-    # coller les morceaux bout a bout produirait un fichier corrompu.
+    data = getattr(audio, "data", None)
+    if data is None:
+        raise RuntimeError("Champ audio present mais vide.")
+    if isinstance(data, str):
+        data = base64.b64decode(data)
+    if not isinstance(data, bytes):
+        raise RuntimeError(f"Type de donnees audio inattendu : {type(data).__name__}")
+
+    # On concatene du PCM brut. Les modeles 3.8 renvoient du WAV par defaut : son
+    # en-tete, colle entre deux segments, s'entendrait comme un clic. On le retire.
     mime = str(getattr(audio, "mime_type", "") or "")
+    if data[:4] == b"RIFF" or "wav" in mime:
+        return _wav_to_pcm(data)
     if mime and "l16" not in mime and "pcm" not in mime:
         raise RuntimeError(
             f"Format audio inattendu ({mime}) : la concatenation suppose du PCM brut."
         )
-
-    data = getattr(audio, "data", None)
-    if data is None:
-        raise RuntimeError("Champ audio present mais vide.")
-    if isinstance(data, bytes):
-        return data
-    if isinstance(data, str):
-        return base64.b64decode(data)
-    raise RuntimeError(f"Type de donnees audio inattendu : {type(data).__name__}")
+    return data
 
 
 def _synthesize_chunk(client: Any, models: list[str], text: str, index: int, total: int) -> bytes:
-    prompt = (
-        "Lis la conversation suivante a voix haute, en francais, sur un ton de podcast : "
-        "naturel, pose, avec les respirations d'une vraie discussion. "
-        "Ne lis pas les etiquettes de locuteur.\n\n" + text
-    )
+    turns = _turns(text)
 
     def call(model_id: str):
         return client.interactions.create(
             model=model_id,
-            input=prompt,
+            input=[{"type": "user_input", "content": turns}],
             response_modalities=["audio"],
-            # Pas de mime_type ici : le SDK expose le champ mais l'API le rejette
-            # ("Audio mime_type is not supported in response_format"). Le defaut est
-            # deja audio/l16 mono, soit exactement le PCM qu'on veut concatener.
-            response_format={"type": "audio", "sample_rate": config.TTS_SAMPLE_RATE},
+            # PCM brut explicite : sans mime_type, les modeles 3.8 rendent du WAV.
+            response_format={
+                "type": "audio",
+                "mime_type": "audio/l16",
+                "sample_rate": config.TTS_SAMPLE_RATE,
+            },
             generation_config={"speech_config": _speech_config()},
         )
 

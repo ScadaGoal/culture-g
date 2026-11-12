@@ -21,7 +21,6 @@ log = logging.getLogger(__name__)
 FLASH_LITE = [
     "gemini-3.5-flash-lite",
     "gemini-3.1-flash-lite",
-    "gemini-flash-lite-latest",
 ]
 
 # Cascades de candidats, du plus souhaitable au plus degrade. La resolution retient
@@ -43,7 +42,6 @@ CANDIDATES: dict[str, list[str]] = {
     "curate": [
         "gemini-3.6-flash",
         "gemini-3.7-flash",
-        "gemini-flash-latest",
         "gemini-3.5-flash",
         *FLASH_LITE,
     ],
@@ -51,7 +49,6 @@ CANDIDATES: dict[str, list[str]] = {
     "digest": [
         "gemini-3.6-flash",
         "gemini-3.5-flash",
-        "gemini-flash-latest",
         "gemini-3.7-flash",
         *FLASH_LITE,
     ],
@@ -60,7 +57,6 @@ CANDIDATES: dict[str, list[str]] = {
         "gemini-3.8-flash",
         "gemini-3.7-flash",
         "gemini-3.6-flash",
-        "gemini-flash-latest",
         "gemini-3.5-flash",
         *FLASH_LITE,
     ],
@@ -70,17 +66,18 @@ CANDIDATES: dict[str, list[str]] = {
         "gemini-3.7-flash",
         "gemini-3.8-flash",
         "gemini-3.6-flash",
-        "gemini-flash-latest",
         "gemini-3.5-flash",
         *FLASH_LITE,
     ],
     # Veille par recherche web : un bonus, qui ne doit pas entamer le quota des Flash.
     "grounding": [*FLASH_LITE],
-    # Synthese vocale multi-locuteurs.
+    # Synthese vocale multi-locuteurs. Les modeles preview (3.1 Flash TTS, 2.5 Flash et
+    # Pro TTS) renvoient 404 depuis le 6 novembre 2026 : remplaces par la gamme 3.8.
+    # Le Flash en tete pour la qualite (dialogue long, stabilite de la voix), le
+    # Flash-Lite en secours quand son quota est a sec.
     "tts": [
-        "gemini-3.1-flash-tts-preview",
-        "gemini-2.5-flash-preview-tts",
-        "gemini-2.5-pro-preview-tts",
+        "gemini-3.8-flash-tts",
+        "gemini-3.8-flash-lite-tts",
     ],
 }
 
