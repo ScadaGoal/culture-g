@@ -1,5 +1,15 @@
 [
   {
+    "slug": "2026-11-12",
+    "title": "Chute de Jensen Huang et accélération de Gemini 4 Hydrogen",
+    "teaser": "Le patron de Nvidia est évincé suite à un scandale de gouvernance majeur. Google riposte avec Gemini 4 Hydrogen, une IA taillée pour l'efficacité opérationnelle.",
+    "notes": "Sources de cet episode :\n\n- Jensen Huang démissionne de Nvidia\n    Numerama : https://www.numerama.com/tech/2373085-qui-est-colette-kress-qui-remplace-jensen-huang-a-la-tete-de-nvidia.html\n    Numerama : https://www.numerama.com/tech/2373021-cest-officiel-jensen-huang-demissionne-de-nvidia.html\n    Ars Technica : https://arstechnica.com/gadgets/2026/11/ceo-jensen-huangs-job-is-suddenly-on-the-line-at-nvidia/\n    Next.ink : https://next.ink/266926/nvidia-se-prepare-a-pousser-son-ceo-jensen-huang-vers-la-sortie/\n    Hacker News : https://www.reuters.com/live/nvidia-live-board-meets-fate-ceo-jensen-huang-after-affair-reports-2026-11-12/\n    Hacker News : https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f\n    Hacker News : https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad\n    Hacker News : https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html\n- Google présente Gemini 4 Hydrogen\n    Google DeepMind : https://deepmind.google/blog/introducing-gemini-4-hydrogen/\n- L'IA face à ses limites d'usage\n    Next.ink : https://next.ink/267253/united-airlines-ferme-ses-reservations-aux-agents-ia/\n    Hacker News : https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/\n    Next.ink : https://next.ink/266858/dix-lignes-de-code-ia-dans-big-walk-pourraient-le-priver-dun-titre-de-jeu-de-lannee/\n    Ars Technica : https://arstechnica.com/gaming/2026/11/big-walk-used-ai-to-fix-a-bug-now-the-indie-gaming-world-is-having-a-reckoning/\n- L'origine de l'eau sur Terre : une nouvelle théorie\n    ScienceDaily : https://www.sciencedaily.com/releases/2026/11/261110042549.htm\n- TSMC investit 1 milliard dans Anthropic et OpenAI\n    Ars Technica : https://arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai/\n\nGenere automatiquement par Culture G.",
+    "audio": "2026-11-12.mp3",
+    "bytes": 3573356,
+    "duration": 446.6,
+    "published": "2026-11-12T18:53:30.310551+00:00"
+  },
+  {
     "slug": "2026-11-05",
     "title": "IA dans Linux, fronde anti-data centers et ratés nazis",
     "teaser": "Neuf cent quarante-huit failles corrigées dans Linux par OpenAI, des électeurs américains qui ferment la porte aux data centers, et les cubes d'uranium d'Heisenberg. Un tour d'horizon de l'actualité de l'intelligence artificielle et de ses impacts.",
@@ -418,65 +428,5 @@
     "bytes": 6660333,
     "duration": 832.48,
     "published": "2026-09-15T09:18:09.971017+00:00"
-  },
-  {
-    "slug": "2026-09-13",
-    "title": "Chine contre ASML, chaîne de pensée et l'effet Ozempic",
-    "teaser": "Pendant que Pékin bouscule le quasi-monopole des puces pour l'IA, les laboratoires s'interrogent sur l'opacité grandissante du raisonnement de leurs modèles. Du débat sur le ralentissement technologique à la théorie de l'information appliquée au jeu, tour d'horizon des faits marquants.",
-    "notes": "Sources de cet episode :\n\n- Semi-conducteurs : la Chine face au monopole d'ASML sur les puces IA\n    Grand Angle Nova : https://www.youtube.com/watch?v=yJX7lZjRu48\n- La chaîne de pensée : le mécanisme qui fait raisonner l'IA (et inquiète les chercheurs)\n    Numerama : https://www.numerama.com/tech/2330615-elle-rend-lia-plus-intelligente-mais-devient-de-plus-en-plus-difficile-a-surveiller-cest-quoi-la-chaine-de-pensee.html\n- Faut-il ralentir la frontière de l'IA ? Le grand débat entre sécurité et Open Source\n    Hacker News : https://darioamodei.com/post/we-must-pace-the-frontier\n    Hacker News : https://jacob.gold/posts/open-letter-to-dario-amodei-about-open-weights/\n    Hacker News : https://xeiaso.net/notes/2026/everyone-slowdown-but-me/\n- Mathématiques : battre Wordle à 99 % grâce à l'entropie de Shannon\n    ScienceDaily : https://www.sciencedaily.com/releases/2026/09/260911204910.htm\n- Longévité : l'Ozempic ralentirait directement le vieillissement cellulaire\n    ScienceDaily : https://www.sciencedaily.com/releases/2026/09/260911214238.htm\n\nGenere automatiquement par Culture G.",
-    "audio": "2026-09-13.mp3",
-    "bytes": 5766957,
-    "duration": 720.8,
-    "published": "2026-09-13T08:30:48.910873+00:00"
-  },
-  {
-    "slug": "2026-09-12",
-    "title": "GPT-6 Astra, piratage par essaim et robotaxis à Zagreb",
-    "teaser": "OpenAI promet l'autonomie totale du code avec son modèle GPT-6 Astra, mais les tests indépendants révèlent un gaspillage massif de ressources sans valeur produite. Pendant que des essaims d'agents IA s'attaquent au web et que l'Europe teste ses premiers robotaxis sans conducteur, les scientifiques découvrent dans un caca de dinosaure le secret de la survie des oiseaux.",
-    "notes": "Sources de cet episode :\n\n- GPT-6 Astra : OpenAI pousse l'autonomie des agents de programmation\n    OpenAI : https://openai.com/index/perplexity-improving-accuracy-with-astra\n    OpenAI : https://openai.com/index/cognition-devin-testing-with-astra\n    Hacker News : https://lucumr.pocoo.org/2026/9/7/astra-why/\n- Quand des essaims d'agents IA s'attaquent en meute aux infrastructures web\n    Numerama : https://www.numerama.com/cyberguerre/2331261-un-essaim-dagents-ia-sacharne-sur-ce-logiciel-et-pirate-395-organisations-dans-48-pays.html\n    Hacker News : https://www.rubyhack.ai/\n- Véhicules autonomes : Première européenne sans aucun superviseur à Zagreb\n    Numerama : https://www.numerama.com/vroom/2331067-a-zagreb-des-robotaxis-roulent-sans-personne-a-bord-pour-la-premiere-fois-en-europe.html\n- Histoire & Science : Une plume dans un caca de dinosaure explique la survie des oiseaux\n    ScienceDaily : https://www.sciencedaily.com/releases/2026/09/260911003849.htm\n\nGenere automatiquement par Culture G.",
-    "audio": "2026-09-12.mp3",
-    "bytes": 5505837,
-    "duration": 688.16,
-    "published": "2026-09-12T08:34:38.361554+00:00"
-  },
-  {
-    "slug": "2026-09-11",
-    "title": "SWE-2, crise chez les mathématiciens et physique sous IA",
-    "teaser": "Des modèles de code plus rapides et économiques secouent le secteur, tandis que l'infiltration de l'IA dans la recherche suscite autant d'exploits en physique que de controverses chez les mathématiciens. Entre détection massive de failles et débats d'attribution, voyage au cœur d'une science en plein saut technologique.",
-    "notes": "Sources de cet episode :\n\n- Nouvelle vague de modèles : DeepSeek v4.1 Flash et Cognition SWE-2 secouent l'IA\n    Hacker News : https://twitter.com/deepseek_ai/status/2097930608790167907\n    Hacker News : https://cognition.com/blog/swe-2\n- Une avancée majeure en physique décryptée\n    Vision IA : https://www.youtube.com/watch?v=XCRU3MU03Lw\n- OpenAI accusée de pillage scientifique par des mathématiciens\n    Next.ink : https://next.ink/255578/openai-accusee-de-mauvaises-pratiques-scientifiques-pour-resoudre-un-probleme-de-maths/\n    Hacker News : https://mathstodon.xyz/@andreasthom/117240535270608201\n- Le théorème des quatre couleurs s'offre une nouvelle démonstration\n    Quanta Magazine : https://www.quantamagazine.org/the-four-color-theorem-gets-a-rare-new-proof-20260910/\n- Claude Mythos et la cybersécurité : 26 000 failles trouvées, mais l'humain ne suit pas\n    Numerama : https://www.numerama.com/cyberguerre/2330439-bilan-apres-5-mois-claude-mythos-a-repere-26-000-failles-mais-moins-de-1-ont-ete-reparees.html\n    Next.ink : https://next.ink/brief-article/lagence-de-cybersecurite-de-la-commission-europeenne-peut-maintenant-utiliser-mythos/\n\nGenere automatiquement par Culture G.",
-    "audio": "2026-09-11.mp3",
-    "bytes": 6145197,
-    "duration": 768.08,
-    "published": "2026-09-11T08:20:31.900919+00:00"
-  },
-  {
-    "slug": "2026-09-08",
-    "title": "Mistral pèse 21 milliards, OpenAI face à l'Alien Mind",
-    "teaser": "Mistral AI boucle une levée historique de trois milliards d'euros pendant qu'OpenAI peine à déchiffrer la logique interne de ses modèles de réflexion. Tour d'horizon complet des secousses de l'IA et de la tech.",
-    "notes": "Sources de cet episode :\n\n- Mistral AI lève 3 milliards d'euros et franchit un cap de valorisation à 21 milliards\n    Hacker News : https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/\n- OpenAI avoue ne plus réussir à décoder le raisonnement de ses puces de réflexion\n    Numerama : https://www.numerama.com/tech/2326859-le-directeur-scientifique-dopenai-indique-perdre-le-controle-sur-le-raisonnement-de-ses-ia.html\n- L'effet de boucle de NVIDIA : 99 milliards de dollars réinvestis chez ses propres clients\n    Next.ink : https://next.ink/255220/ia-nvidia-a-investi-99-milliards-de-dollars-pour-lessentiel-chez-ses-clients/\n- Ce que l'IA change concrètement au métier de développeur dans une boîte tech\n    Underscore_ : https://www.youtube.com/watch?v=AiytemqB_F0\n- La physique au service de l'urinoir sans éclaboussures récompensée par un Ig Nobel\n    Numerama : https://www.numerama.com/sciences/2326525-99-declaboussures-en-moins-lurinoir-parfait-existe-et-la-recherche-en-physique-a-aide-a-le-denicher.html\n    Hacker News : https://academic.oup.com/pnasnexus/article/4/4/pgaf087/8098745?login=false\n\nGenere automatiquement par Culture G.",
-    "audio": "2026-09-08.mp3",
-    "bytes": 6109293,
-    "duration": 763.6,
-    "published": "2026-09-08T08:19:20.010182+00:00"
-  },
-  {
-    "slug": "2026-09-07",
-    "title": "GPT-6 Astra : le gouffre financier de l'IA",
-    "teaser": "Trente-trois dollars la requête : le modèle GPT-6 Astra illustre l'explosion spectaculaire des coûts de calcul chez OpenAI. Dans le même temps, la start-up allemande Isar Aerospace signe un tir orbital historique depuis le sol européen.",
-    "notes": "Sources de cet episode :\n\n- GPT-6 Astra : l'explosion des coûts d'inférence pose la question du modèle économique de l'IA\n    Next.ink : https://next.ink/255028/gpt-6-astra-jusqua-33-dollars-pour-un-prompt-et-ce-nest-pas-le-plus-cher-dopenai/\n    OpenAI : https://openai.com/index/research-acceleration-view-inside-openai\n- Espace : la start-up allemande Isar Aerospace entre dans l'histoire spatiale européenne\n    Numerama : https://www.numerama.com/sciences/2326373-cest-historique-pour-leurope-une-fusee-a-reussi-a-rejoindre-lorbite-des-son-2e-vol-et-depuis-le-sol-europeen.html\n    Ars Technica : https://arstechnica.com/space/2026/09/german-company-becomes-first-in-europe-to-launch-fully-commercial-orbital-rocket/\n    Hacker News : https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight\n- L'envers du décor de l'IA : serveurs Linux saturés par le web scraping et marché noir d'accès Claude\n    Numerama : https://www.numerama.com/cyberguerre/2325799-des-pacemakers-coupes-du-suivi-medical-linux-etouffe-par-les-ia-et-des-comptes-claude-pirates-et-revendus-on-vous-raconte-la-semaine-cyberguerre.html\n- Des data centers spatiaux armés de canons à micro-ondes pour contrer l'espionnage\n    Numerama : https://www.numerama.com/tech/2322197-des-data-centers-dans-lespace-seront-proteges-par-des-armes-a-micro-ondes-pour-griller-les-satellites-trop-curieux.html\n- Santé : la tyrosine, ce nootropique populaire lié à une réduction de la longévité masculine\n    ScienceDaily : https://www.sciencedaily.com/releases/2026/09/260904000330.htm\n\nGenere automatiquement par Culture G.",
-    "audio": "2026-09-07.mp3",
-    "bytes": 5080557,
-    "duration": 635.0,
-    "published": "2026-09-07T09:02:31.868701+00:00"
-  },
-  {
-    "slug": "2026-09-06",
-    "title": "Fusion et médecine : l'IA bat la vitesse humaine",
-    "teaser": "De la fusion nucléaire stabilisée en vingt millisecondes aux vaccins à ARN conçus sur mesure contre le cancer, l'intelligence artificielle passe un cap physique. Tour d'horizon des avancées concrètes du jour, de l'orbite européenne aux pointes de flèches vieilles de 80 000 ans.",
-    "notes": "Sources de cet episode :\n\n- Fusion nucléaire : une IA contrôle le plasma à une vitesse hors de portée humaine\n    ScienceDaily : https://www.sciencedaily.com/releases/2026/09/260903064215.htm\n- L'IA médicale passe du laboratoire au terrain plus vite que prévu\n    Vision IA : https://www.youtube.com/watch?v=ZI8uRhys3tA\n- Le paradoxe de l'automatisation : quand l'IA gère les pannes, les ingénieurs perdent le fil\n    Hacker News : https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems\n- Une fusée privée allemande atteint l'orbite depuis le sol européen\n    Hacker News : https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket\n- Des armatures de flèches de 80 000 ans réécrivent l'histoire de la technologie humaine\n    ScienceDaily : https://www.sciencedaily.com/releases/2026/09/260903064233.htm\n\nGenere automatiquement par Culture G.",
-    "audio": "2026-09-06.mp3",
-    "bytes": 6121197,
-    "duration": 765.08,
-    "published": "2026-09-06T08:04:46.866280+00:00"
   }
 ]
