@@ -8,7 +8,7 @@
     <atom:link href="https://scadagoal.github.io/culture-g/feed.xml" rel="self" type="application/rss+xml"/>
     <language>fr-FR</language>
     <description>Un condense quotidien de l'actualite de l'intelligence artificielle, de la tech et de la science, monte en dialogue et genere automatiquement. L'IA en fil rouge, mais on ouvre large : histoire, sciences dures, societe.</description>
-    <lastBuildDate>Thu, 12 Nov 2026 18:55:12 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 07:16:54 +0000</lastBuildDate>
     <generator>Culture G</generator>
     <itunes:author>Culture G</itunes:author>
     <itunes:subtitle>Votre veille IA, tech et science, chaque matin</itunes:subtitle>
@@ -20,6 +20,49 @@
     <itunes:owner>
       <itunes:name>Culture G</itunes:name>
     </itunes:owner>
+    <item>
+      <title>Gemini 4 Hydrogen, traçabilité Nvidia et cerveaux d'exception</title>
+      <link>https://scadagoal.github.io/culture-g/</link>
+      <guid isPermaLink="false">culture-g-2026-11-13</guid>
+      <pubDate>Fri, 13 Nov 2026 07:14:29 +0000</pubDate>
+      <description>Google lance son modèle léger Gemini 4 Hydrogen, Nvidia confirme pouvoir tracer ses puces IA, et la science explore les secrets des prothèses visuelles et de l'intelligence des corbeaux.
+
+Sources de cet episode :
+
+- Google remplace Gemini 3.8 Flash par le nouveau Gemini 4 Hydrogen
+    Ars Technica : https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/
+    Hacker News : https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/
+    Hacker News : https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/
+- Géopolitique des semi-conducteurs : Nvidia concède pouvoir tracer ses puces IA
+    MIT Tech Review : https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/
+- Prothèses visuelles : l'IA personnalise la stimulation cérébrale de l'œil bionique
+    ScienceDaily : https://www.sciencedaily.com/releases/2026/11/261110042553.htm
+- Neurosciences animales : le cerveau des corbeaux décide deux fois plus vite que le nôtre
+    ScienceDaily : https://www.sciencedaily.com/releases/2026/11/261111005850.htm
+
+Genere automatiquement par Culture G.</description>
+      <itunes:summary>Google lance son modèle léger Gemini 4 Hydrogen, Nvidia confirme pouvoir tracer ses puces IA, et la science explore les secrets des prothèses visuelles et de l'intelligence des corbeaux.
+
+Sources de cet episode :
+
+- Google remplace Gemini 3.8 Flash par le nouveau Gemini 4 Hydrogen
+    Ars Technica : https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/
+    Hacker News : https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/
+    Hacker News : https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/
+- Géopolitique des semi-conducteurs : Nvidia concède pouvoir tracer ses puces IA
+    MIT Tech Review : https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/
+- Prothèses visuelles : l'IA personnalise la stimulation cérébrale de l'œil bionique
+    ScienceDaily : https://www.sciencedaily.com/releases/2026/11/261110042553.htm
+- Neurosciences animales : le cerveau des corbeaux décide deux fois plus vite que le nôtre
+    ScienceDaily : https://www.sciencedaily.com/releases/2026/11/261111005850.htm
+
+Genere automatiquement par Culture G.</itunes:summary>
+      <itunes:subtitle>Google lance son modèle léger Gemini 4 Hydrogen, Nvidia confirme pouvoir tracer ses puces IA, et la science explore les secrets des prothèses visuelles et de l'intelligence des corbeaux.</itunes:subtitle>
+      <itunes:duration>00:09:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://scadagoal.github.io/culture-g/episodes/2026-11-13.mp3" length="4771436" type="audio/mpeg"/>
+    </item>
     <item>
       <title>Chute de Jensen Huang et accélération de Gemini 4 Hydrogen</title>
       <link>https://scadagoal.github.io/culture-g/</link>

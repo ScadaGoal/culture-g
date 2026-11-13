@@ -1,5 +1,15 @@
 [
   {
+    "slug": "2026-11-13",
+    "title": "Gemini 4 Hydrogen, traçabilité Nvidia et cerveaux d'exception",
+    "teaser": "Google lance son modèle léger Gemini 4 Hydrogen, Nvidia confirme pouvoir tracer ses puces IA, et la science explore les secrets des prothèses visuelles et de l'intelligence des corbeaux.",
+    "notes": "Sources de cet episode :\n\n- Google remplace Gemini 3.8 Flash par le nouveau Gemini 4 Hydrogen\n    Ars Technica : https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/\n    Hacker News : https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/\n    Hacker News : https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/\n- Géopolitique des semi-conducteurs : Nvidia concède pouvoir tracer ses puces IA\n    MIT Tech Review : https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/\n- Prothèses visuelles : l'IA personnalise la stimulation cérébrale de l'œil bionique\n    ScienceDaily : https://www.sciencedaily.com/releases/2026/11/261110042553.htm\n- Neurosciences animales : le cerveau des corbeaux décide deux fois plus vite que le nôtre\n    ScienceDaily : https://www.sciencedaily.com/releases/2026/11/261111005850.htm\n\nGenere automatiquement par Culture G.",
+    "audio": "2026-11-13.mp3",
+    "bytes": 4771436,
+    "duration": 596.36,
+    "published": "2026-11-13T07:14:29.669922+00:00"
+  },
+  {
     "slug": "2026-11-12",
     "title": "Chute de Jensen Huang et accélération de Gemini 4 Hydrogen",
     "teaser": "Le patron de Nvidia est évincé suite à un scandale de gouvernance majeur. Google riposte avec Gemini 4 Hydrogen, une IA taillée pour l'efficacité opérationnelle.",
