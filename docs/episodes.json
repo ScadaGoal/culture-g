@@ -1,5 +1,15 @@
 [
   {
+    "slug": "2026-11-14",
+    "title": "ChatGPT Wallet, carnets de Gödel et apocalypse évitée",
+    "teaser": "OpenAI dévoile ChatGPT Wallet pour permettre aux agents de payer en ligne pendant que l'IA résout des énigmes mathématiques vieilles de quatre-vingts ans dans les notes de Gödel. Retour également sur la version 1.0.0 de llama.cpp et l'étrange prophétie démographique de 1960 pour ce mois de novembre 2026.",
+    "notes": "Sources de cet episode :\n\n- Google lance Gemini 4 Hydrogen et OpenAI présente ChatGPT Wallet\n    OpenAI : https://openai.com/index/introducing-chatgpt-wallet\n- L'IA déchiffre les carnets sténographiés de Kurt Gödel et y révèle des théorèmes inédits\n    Hacker News : https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths\n- llama.cpp franchit le cap de la v1.0.0, pilier de l'IA locale et souveraine\n    Hugging Face : https://huggingface.co/blog/ggml-org/llama-cpp-v1\n- La prophétie scientifique de 1960 qui calculait la fin du monde pour aujourd'hui même\n    Ars Technica : https://arstechnica.com/science/2026/11/its-the-end-of-the-world-as-we-know-it-per-a-physicists-1960-prediction/\n    Numerama : https://www.numerama.com/sciences/2373805-une-etude-de-1960-avait-calcule-la-fin-du-monde-pour-aujourdhui-le-vendredi-13-novembre-2026.html\n\nGenere automatiquement par Culture G.",
+    "audio": "2026-11-14.mp3",
+    "bytes": 5290412,
+    "duration": 661.24,
+    "published": "2026-11-14T07:08:37.016437+00:00"
+  },
+  {
     "slug": "2026-11-13",
     "title": "Gemini 4 Hydrogen, traçabilité Nvidia et cerveaux d'exception",
     "teaser": "Google lance son modèle léger Gemini 4 Hydrogen, Nvidia confirme pouvoir tracer ses puces IA, et la science explore les secrets des prothèses visuelles et de l'intelligence des corbeaux.",

@@ -8,7 +8,7 @@
     <atom:link href="https://scadagoal.github.io/culture-g/feed.xml" rel="self" type="application/rss+xml"/>
     <language>fr-FR</language>
     <description>Un condense quotidien de l'actualite de l'intelligence artificielle, de la tech et de la science, monte en dialogue et genere automatiquement. L'IA en fil rouge, mais on ouvre large : histoire, sciences dures, societe.</description>
-    <lastBuildDate>Fri, 13 Nov 2026 07:16:54 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 07:10:48 +0000</lastBuildDate>
     <generator>Culture G</generator>
     <itunes:author>Culture G</itunes:author>
     <itunes:subtitle>Votre veille IA, tech et science, chaque matin</itunes:subtitle>
@@ -20,6 +20,47 @@
     <itunes:owner>
       <itunes:name>Culture G</itunes:name>
     </itunes:owner>
+    <item>
+      <title>ChatGPT Wallet, carnets de Gödel et apocalypse évitée</title>
+      <link>https://scadagoal.github.io/culture-g/</link>
+      <guid isPermaLink="false">culture-g-2026-11-14</guid>
+      <pubDate>Sat, 14 Nov 2026 07:08:37 +0000</pubDate>
+      <description>OpenAI dévoile ChatGPT Wallet pour permettre aux agents de payer en ligne pendant que l'IA résout des énigmes mathématiques vieilles de quatre-vingts ans dans les notes de Gödel. Retour également sur la version 1.0.0 de llama.cpp et l'étrange prophétie démographique de 1960 pour ce mois de novembre 2026.
+
+Sources de cet episode :
+
+- Google lance Gemini 4 Hydrogen et OpenAI présente ChatGPT Wallet
+    OpenAI : https://openai.com/index/introducing-chatgpt-wallet
+- L'IA déchiffre les carnets sténographiés de Kurt Gödel et y révèle des théorèmes inédits
+    Hacker News : https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths
+- llama.cpp franchit le cap de la v1.0.0, pilier de l'IA locale et souveraine
+    Hugging Face : https://huggingface.co/blog/ggml-org/llama-cpp-v1
+- La prophétie scientifique de 1960 qui calculait la fin du monde pour aujourd'hui même
+    Ars Technica : https://arstechnica.com/science/2026/11/its-the-end-of-the-world-as-we-know-it-per-a-physicists-1960-prediction/
+    Numerama : https://www.numerama.com/sciences/2373805-une-etude-de-1960-avait-calcule-la-fin-du-monde-pour-aujourdhui-le-vendredi-13-novembre-2026.html
+
+Genere automatiquement par Culture G.</description>
+      <itunes:summary>OpenAI dévoile ChatGPT Wallet pour permettre aux agents de payer en ligne pendant que l'IA résout des énigmes mathématiques vieilles de quatre-vingts ans dans les notes de Gödel. Retour également sur la version 1.0.0 de llama.cpp et l'étrange prophétie démographique de 1960 pour ce mois de novembre 2026.
+
+Sources de cet episode :
+
+- Google lance Gemini 4 Hydrogen et OpenAI présente ChatGPT Wallet
+    OpenAI : https://openai.com/index/introducing-chatgpt-wallet
+- L'IA déchiffre les carnets sténographiés de Kurt Gödel et y révèle des théorèmes inédits
+    Hacker News : https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths
+- llama.cpp franchit le cap de la v1.0.0, pilier de l'IA locale et souveraine
+    Hugging Face : https://huggingface.co/blog/ggml-org/llama-cpp-v1
+- La prophétie scientifique de 1960 qui calculait la fin du monde pour aujourd'hui même
+    Ars Technica : https://arstechnica.com/science/2026/11/its-the-end-of-the-world-as-we-know-it-per-a-physicists-1960-prediction/
+    Numerama : https://www.numerama.com/sciences/2373805-une-etude-de-1960-avait-calcule-la-fin-du-monde-pour-aujourdhui-le-vendredi-13-novembre-2026.html
+
+Genere automatiquement par Culture G.</itunes:summary>
+      <itunes:subtitle>OpenAI dévoile ChatGPT Wallet pour permettre aux agents de payer en ligne pendant que l'IA résout des énigmes mathématiques vieilles de quatre-vingts ans dans les notes de Gödel. Retour également sur la version 1.0.0 de llama.cpp et l'étrange prophétie dé</itunes:subtitle>
+      <itunes:duration>00:11:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://scadagoal.github.io/culture-g/episodes/2026-11-14.mp3" length="5290412" type="audio/mpeg"/>
+    </item>
     <item>
       <title>Gemini 4 Hydrogen, traçabilité Nvidia et cerveaux d'exception</title>
       <link>https://scadagoal.github.io/culture-g/</link>
