@@ -1,5 +1,15 @@
 [
   {
+    "slug": "2026-11-15",
+    "title": "Mechazilla attrape Starship et sommes-nous transhumanistes ?",
+    "teaser": "SpaceX réalise une première mondiale en attrapant le vaisseau Starship au vol avec sa tour Mechazilla. Pendant ce temps, entre nos smartphones prothèses et les dérives du vibe coding, la technologie redéfinit notre autonomie.",
+    "notes": "Sources de cet episode :\n\n- Exploit inédit : Mechazilla attrape le vaisseau Starship en plein vol\n    Numerama : https://www.numerama.com/sciences/2374713-mechazilla-a-attrape-le-starship-spacex-reussit-lexploit-inedit-de-capturer-le-vaisseau-en-plein-vol-avec-la-tour.html\n    Hacker News : https://www.spacex.com/launches/starship-flight-15\n    Ars Technica : https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/\n- Grand Angle Nova : Sommes-nous déjà tous transhumanistes ?\n    Grand Angle Nova : https://www.youtube.com/watch?v=miTWm8FrdUU\n- L'architecture de DeepSeek V3 résumée en 200 lignes de code Jax\n    Hacker News : https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax\n- Dérives du 'Vibe Coding' : des milliers de données personnelles exposées par des apps Lovable\n    Hacker News : https://www.crissyfield.de/research/lovable-en/\n- Espace et superstitions : pourquoi les astronautes de Soyouz ne voient jamais leur fusée avant le tir\n    Numerama : https://www.numerama.com/sciences/2371751-ils-vont-monter-a-bord-mais-les-astronautes-nont-pas-le-droit-de-la-voir-le-rituel-le-plus-paradoxal-des-lancements-soyouz.html\n\nGenere automatiquement par Culture G.",
+    "audio": "2026-11-15.mp3",
+    "bytes": 6008492,
+    "duration": 751.0,
+    "published": "2026-11-15T15:59:38.559162+00:00"
+  },
+  {
     "slug": "2026-11-14",
     "title": "ChatGPT Wallet, carnets de Gödel et apocalypse évitée",
     "teaser": "OpenAI dévoile ChatGPT Wallet pour permettre aux agents de payer en ligne pendant que l'IA résout des énigmes mathématiques vieilles de quatre-vingts ans dans les notes de Gödel. Retour également sur la version 1.0.0 de llama.cpp et l'étrange prophétie démographique de 1960 pour ce mois de novembre 2026.",
@@ -438,15 +448,5 @@
     "bytes": 4646253,
     "duration": 580.72,
     "published": "2026-09-17T08:56:38.927799+00:00"
-  },
-  {
-    "slug": "2026-09-15",
-    "title": "IA : la pause refusée et les mystères de la matière",
-    "teaser": "Aujourd'hui, nous analysons le refus de la Maison-Blanche face aux géants de l'IA qui demandent un ralentissement des modèles. Nous revenons aussi sur des agents autonomes devenus lanceurs d'alerte et sur d'étonnantes découvertes en chimie et en astrophysique.",
-    "notes": "Sources de cet episode :\n\n- L'appel inédit des labos d'IA pour ralentir la course aux modèles\n    Numerama : https://www.numerama.com/cyberguerre/2332801-dario-a-raison-ce-que-pourrait-cacher-letrange-union-sacree-des-geants-de-lia.html\n    Next.ink : https://next.ink/256165/anthropic-openai-et-elon-musk-veulent-ralentir-sur-lia-la-maison-blanche-dit-non/\n    MIT Tech Review : https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/\n    Ars Technica : https://arstechnica.com/ai/2026/09/ai-leaders-want-to-hit-the-brakes-after-years-of-reckless-speed/\n- Quand des agents IA deviennent lanceurs d'alerte contre leurs pairs\n    MIT Tech Review : https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/\n- Dans les coulisses du métier de cybernégociateur\n    Underscore_ : https://www.youtube.com/watch?v=EAIr6CO2Q6k\n- Un dogme centenaire de la chimie fondamentale remis en question\n    ScienceDaily : https://www.sciencedaily.com/releases/2026/09/260913082157.htm\n- Les « petits points rouges » de James Webb : trous noirs ou étoiles monstrueuses ?\n    Quanta Magazine : https://www.quantamagazine.org/black-holes-or-black-hole-stars-astronomers-spar-over-webb-telescopes-little-red-dots-20260914/\n\nGenere automatiquement par Culture G.",
-    "audio": "2026-09-15.mp3",
-    "bytes": 6660333,
-    "duration": 832.48,
-    "published": "2026-09-15T09:18:09.971017+00:00"
   }
 ]
