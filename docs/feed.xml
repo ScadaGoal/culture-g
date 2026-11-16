@@ -8,7 +8,7 @@
     <atom:link href="https://scadagoal.github.io/culture-g/feed.xml" rel="self" type="application/rss+xml"/>
     <language>fr-FR</language>
     <description>Un condense quotidien de l'actualite de l'intelligence artificielle, de la tech et de la science, monte en dialogue et genere automatiquement. L'IA en fil rouge, mais on ouvre large : histoire, sciences dures, societe.</description>
-    <lastBuildDate>Sun, 15 Nov 2026 16:02:28 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 07:42:27 +0000</lastBuildDate>
     <generator>Culture G</generator>
     <itunes:author>Culture G</itunes:author>
     <itunes:subtitle>Votre veille IA, tech et science, chaque matin</itunes:subtitle>
@@ -20,6 +20,51 @@
     <itunes:owner>
       <itunes:name>Culture G</itunes:name>
     </itunes:owner>
+    <item>
+      <title>Du modèle Qwen4-Max aux preuves scientifiques par OpenAI</title>
+      <link>https://scadagoal.github.io/culture-g/</link>
+      <guid isPermaLink="false">culture-g-2026-11-16</guid>
+      <pubDate>Mon, 16 Nov 2026 07:40:17 +0000</pubDate>
+      <description>De l'annonce du modèle Qwen4-Max d'Alibaba aux preuves théoriques publiées par OpenAI en physique quantique, l'intelligence artificielle accélère sa transition vers des rôles d'agent scientifique et de coéquipier. Nous analysons également l'audit du chiffrement de Signal par 80 agents IA, la rapidité cérébrale des corbeaux et les grenades oubliées de la mission Apollo 14.
+
+Sources de cet episode :
+
+- Alibaba lance Qwen4-Max, son nouveau modèle de frontière
+    Hacker News : https://qwen.ai/blog?id=qwen4-max
+- OpenAI s'attaque à la physique fondamentale avec GPT-6 Astra
+    OpenAI : https://openai.com/index/step-toward-defining-the-standard-model
+    OpenAI : https://openai.com/index/our-new-blog-for-science
+- Cybersécurité : Google déploie 80 agents IA pour auditer le chiffrement de Signal
+    Numerama : https://www.numerama.com/tech/2374157-microsoft-bloque-des-mails-sans-prevenir-google-fait-prouver-la-securite-de-signal-par-80-agents-openai-installe-un-bouton-stop-sur-ses-ia-on-vous-raconte-la-semaine-cyberguerre.html
+- Neurologie animale : les corbeaux prennent des décisions plus rapidement que les humains
+    Hacker News : https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html
+- Histoire des sciences : pourquoi des missions Apollo embarquaient-elles des lance-grenades ?
+    Hacker News : https://space.stackexchange.com/questions/37775
+
+Genere automatiquement par Culture G.</description>
+      <itunes:summary>De l'annonce du modèle Qwen4-Max d'Alibaba aux preuves théoriques publiées par OpenAI en physique quantique, l'intelligence artificielle accélère sa transition vers des rôles d'agent scientifique et de coéquipier. Nous analysons également l'audit du chiffrement de Signal par 80 agents IA, la rapidité cérébrale des corbeaux et les grenades oubliées de la mission Apollo 14.
+
+Sources de cet episode :
+
+- Alibaba lance Qwen4-Max, son nouveau modèle de frontière
+    Hacker News : https://qwen.ai/blog?id=qwen4-max
+- OpenAI s'attaque à la physique fondamentale avec GPT-6 Astra
+    OpenAI : https://openai.com/index/step-toward-defining-the-standard-model
+    OpenAI : https://openai.com/index/our-new-blog-for-science
+- Cybersécurité : Google déploie 80 agents IA pour auditer le chiffrement de Signal
+    Numerama : https://www.numerama.com/tech/2374157-microsoft-bloque-des-mails-sans-prevenir-google-fait-prouver-la-securite-de-signal-par-80-agents-openai-installe-un-bouton-stop-sur-ses-ia-on-vous-raconte-la-semaine-cyberguerre.html
+- Neurologie animale : les corbeaux prennent des décisions plus rapidement que les humains
+    Hacker News : https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html
+- Histoire des sciences : pourquoi des missions Apollo embarquaient-elles des lance-grenades ?
+    Hacker News : https://space.stackexchange.com/questions/37775
+
+Genere automatiquement par Culture G.</itunes:summary>
+      <itunes:subtitle>De l'annonce du modèle Qwen4-Max d'Alibaba aux preuves théoriques publiées par OpenAI en physique quantique, l'intelligence artificielle accélère sa transition vers des rôles d'agent scientifique et de coéquipier. Nous analysons également l'audit du chiff</itunes:subtitle>
+      <itunes:duration>00:10:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://scadagoal.github.io/culture-g/episodes/2026-11-16.mp3" length="5224748" type="audio/mpeg"/>
+    </item>
     <item>
       <title>Mechazilla attrape Starship et sommes-nous transhumanistes ?</title>
       <link>https://scadagoal.github.io/culture-g/</link>
