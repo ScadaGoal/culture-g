@@ -1,5 +1,15 @@
 [
   {
+    "slug": "2026-11-17",
+    "title": "La course aux modeles geants, turbulences chez Nvidia et autonomie des agents IA",
+    "teaser": "Alibaba devoile Qwen4-Max et son architecture hybride pendant que la Silicon Valley s'active pour Jensen Huang et que ChatGPT gagne une carte bancaire.",
+    "notes": "Sources de cet episode :\n\n- Alibaba devoile Qwen4-Max et ses 2 400 milliards de parametres\n    Next.ink : https://next.ink/267802/alibaba-qwen4-max-2-400-milliards-de-parametres-et-une-table-n-gram-de-328-milliards/\n- La Silicon Valley mobilisee pour faire revenir Jensen Huang a la tete de Nvidia\n    MIT Tech Review : https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/\n    Ars Technica : https://arstechnica.com/ai/2026/11/jensen-huang-allies-build-a-war-room-to-get-him-back-at-nvidia/\n    Next.ink : https://next.ink/267741/une-campagne-appelle-a-faire-revenir-jensen-huang-a-la-tete-de-nvidia/\n- Quand ChatGPT recoit une carte bancaire et gagne en autonomie\n    Next.ink : https://next.ink/267861/avec-chatgpt-wallet-openai-donne-une-carte-bancaire-a-ses-agents-dots/\n    MIT Tech Review : https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/\n- 22 millions de Francais potentiellement exposes dans la cyberattaque de Maileva\n    Next.ink : https://next.ink/267710/cyberattaque-sur-maileva-filiale-de-la-poste-22-millions-de-personnes-exposees/\n- 245 animaux decouverts vivants au cœur d'une unique roche abyssale\n    ScienceDaily : https://www.sciencedaily.com/releases/2026/11/261114202133.htm\n\nGenere automatiquement par Culture G.",
+    "audio": "2026-11-17.mp3",
+    "bytes": 4135916,
+    "duration": 516.92,
+    "published": "2026-11-17T08:10:32.173532+00:00"
+  },
+  {
     "slug": "2026-11-16",
     "title": "Du modèle Qwen4-Max aux preuves scientifiques par OpenAI",
     "teaser": "De l'annonce du modèle Qwen4-Max d'Alibaba aux preuves théoriques publiées par OpenAI en physique quantique, l'intelligence artificielle accélère sa transition vers des rôles d'agent scientifique et de coéquipier. Nous analysons également l'audit du chiffrement de Signal par 80 agents IA, la rapidité cérébrale des corbeaux et les grenades oubliées de la mission Apollo 14.",
@@ -448,15 +458,5 @@
     "bytes": 6243309,
     "duration": 780.36,
     "published": "2026-09-19T08:26:38.673051+00:00"
-  },
-  {
-    "slug": "2026-09-17",
-    "title": "Mistral s'invite dans Firefox et OpenAI active la pub interactive",
-    "teaser": "Mistral AI s'associe à Mozilla pour équiper 200 millions d'utilisateurs de Firefox. Pendant ce temps, OpenAI teste des chatbots publicitaires et la communauté open source se révolta contre le code généré par IA.",
-    "notes": "Sources de cet episode :\n\n- Mistral AI et Mozilla intègrent l'IA privée au cœur du navigateur Firefox\n    Hacker News : https://mistral.ai/news/mistral-x-mozilla/\n    Next.ink : https://next.ink/brief-article/mistral-et-mozilla-officialisent-leur-partenariat-dans-la-fenetre-intelligente-de-firefox/\n- OpenAI esquisse son modèle publicitaire avec les « agents sponsorisés »\n    OpenAI : https://openai.com/index/reimagining-advertising-with-ai\n    Next.ink : https://next.ink/brief-article/openai-teste-les-chatbots-publicitaires-dans-chatgpt/\n- Mathématiciens et développeurs en colère contre le « parasitisme » des LLM\n    Next.ink : https://next.ink/256363/lia-menace-la-pratique-scientifique-deplorent-des-milliers-de-mathematiciens/\n    Hacker News : https://frvr.com/blog/news/ps5-linux-lead-quits-as-open-source-projects-have-become-a-bunch-of-noobs-using-llms-that-they-dont-even-understand/\n- Nvidia adopte Rust pour programmer ses processeurs graphiques\n    Hacker News : https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/\n\nGenere automatiquement par Culture G.",
-    "audio": "2026-09-17.mp3",
-    "bytes": 4646253,
-    "duration": 580.72,
-    "published": "2026-09-17T08:56:38.927799+00:00"
   }
 ]

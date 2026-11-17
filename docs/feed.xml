@@ -8,7 +8,7 @@
     <atom:link href="https://scadagoal.github.io/culture-g/feed.xml" rel="self" type="application/rss+xml"/>
     <language>fr-FR</language>
     <description>Un condense quotidien de l'actualite de l'intelligence artificielle, de la tech et de la science, monte en dialogue et genere automatiquement. L'IA en fil rouge, mais on ouvre large : histoire, sciences dures, societe.</description>
-    <lastBuildDate>Mon, 16 Nov 2026 07:42:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 08:12:26 +0000</lastBuildDate>
     <generator>Culture G</generator>
     <itunes:author>Culture G</itunes:author>
     <itunes:subtitle>Votre veille IA, tech et science, chaque matin</itunes:subtitle>
@@ -20,6 +20,55 @@
     <itunes:owner>
       <itunes:name>Culture G</itunes:name>
     </itunes:owner>
+    <item>
+      <title>La course aux modeles geants, turbulences chez Nvidia et autonomie des agents IA</title>
+      <link>https://scadagoal.github.io/culture-g/</link>
+      <guid isPermaLink="false">culture-g-2026-11-17</guid>
+      <pubDate>Tue, 17 Nov 2026 08:10:32 +0000</pubDate>
+      <description>Alibaba devoile Qwen4-Max et son architecture hybride pendant que la Silicon Valley s'active pour Jensen Huang et que ChatGPT gagne une carte bancaire.
+
+Sources de cet episode :
+
+- Alibaba devoile Qwen4-Max et ses 2 400 milliards de parametres
+    Next.ink : https://next.ink/267802/alibaba-qwen4-max-2-400-milliards-de-parametres-et-une-table-n-gram-de-328-milliards/
+- La Silicon Valley mobilisee pour faire revenir Jensen Huang a la tete de Nvidia
+    MIT Tech Review : https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/
+    Ars Technica : https://arstechnica.com/ai/2026/11/jensen-huang-allies-build-a-war-room-to-get-him-back-at-nvidia/
+    Next.ink : https://next.ink/267741/une-campagne-appelle-a-faire-revenir-jensen-huang-a-la-tete-de-nvidia/
+- Quand ChatGPT recoit une carte bancaire et gagne en autonomie
+    Next.ink : https://next.ink/267861/avec-chatgpt-wallet-openai-donne-une-carte-bancaire-a-ses-agents-dots/
+    MIT Tech Review : https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/
+- 22 millions de Francais potentiellement exposes dans la cyberattaque de Maileva
+    Next.ink : https://next.ink/267710/cyberattaque-sur-maileva-filiale-de-la-poste-22-millions-de-personnes-exposees/
+- 245 animaux decouverts vivants au cœur d'une unique roche abyssale
+    ScienceDaily : https://www.sciencedaily.com/releases/2026/11/261114202133.htm
+
+Genere automatiquement par Culture G.</description>
+      <itunes:summary>Alibaba devoile Qwen4-Max et son architecture hybride pendant que la Silicon Valley s'active pour Jensen Huang et que ChatGPT gagne une carte bancaire.
+
+Sources de cet episode :
+
+- Alibaba devoile Qwen4-Max et ses 2 400 milliards de parametres
+    Next.ink : https://next.ink/267802/alibaba-qwen4-max-2-400-milliards-de-parametres-et-une-table-n-gram-de-328-milliards/
+- La Silicon Valley mobilisee pour faire revenir Jensen Huang a la tete de Nvidia
+    MIT Tech Review : https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/
+    Ars Technica : https://arstechnica.com/ai/2026/11/jensen-huang-allies-build-a-war-room-to-get-him-back-at-nvidia/
+    Next.ink : https://next.ink/267741/une-campagne-appelle-a-faire-revenir-jensen-huang-a-la-tete-de-nvidia/
+- Quand ChatGPT recoit une carte bancaire et gagne en autonomie
+    Next.ink : https://next.ink/267861/avec-chatgpt-wallet-openai-donne-une-carte-bancaire-a-ses-agents-dots/
+    MIT Tech Review : https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/
+- 22 millions de Francais potentiellement exposes dans la cyberattaque de Maileva
+    Next.ink : https://next.ink/267710/cyberattaque-sur-maileva-filiale-de-la-poste-22-millions-de-personnes-exposees/
+- 245 animaux decouverts vivants au cœur d'une unique roche abyssale
+    ScienceDaily : https://www.sciencedaily.com/releases/2026/11/261114202133.htm
+
+Genere automatiquement par Culture G.</itunes:summary>
+      <itunes:subtitle>Alibaba devoile Qwen4-Max et son architecture hybride pendant que la Silicon Valley s'active pour Jensen Huang et que ChatGPT gagne une carte bancaire.</itunes:subtitle>
+      <itunes:duration>00:08:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://scadagoal.github.io/culture-g/episodes/2026-11-17.mp3" length="4135916" type="audio/mpeg"/>
+    </item>
     <item>
       <title>Du modèle Qwen4-Max aux preuves scientifiques par OpenAI</title>
       <link>https://scadagoal.github.io/culture-g/</link>
@@ -2090,51 +2139,6 @@ Genere automatiquement par Culture G.</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <enclosure url="https://scadagoal.github.io/culture-g/episodes/2026-09-19.mp3" length="6243309" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Mistral s'invite dans Firefox et OpenAI active la pub interactive</title>
-      <link>https://scadagoal.github.io/culture-g/</link>
-      <guid isPermaLink="false">culture-g-2026-09-17</guid>
-      <pubDate>Thu, 17 Sep 2026 08:56:38 +0000</pubDate>
-      <description>Mistral AI s'associe à Mozilla pour équiper 200 millions d'utilisateurs de Firefox. Pendant ce temps, OpenAI teste des chatbots publicitaires et la communauté open source se révolta contre le code généré par IA.
-
-Sources de cet episode :
-
-- Mistral AI et Mozilla intègrent l'IA privée au cœur du navigateur Firefox
-    Hacker News : https://mistral.ai/news/mistral-x-mozilla/
-    Next.ink : https://next.ink/brief-article/mistral-et-mozilla-officialisent-leur-partenariat-dans-la-fenetre-intelligente-de-firefox/
-- OpenAI esquisse son modèle publicitaire avec les « agents sponsorisés »
-    OpenAI : https://openai.com/index/reimagining-advertising-with-ai
-    Next.ink : https://next.ink/brief-article/openai-teste-les-chatbots-publicitaires-dans-chatgpt/
-- Mathématiciens et développeurs en colère contre le « parasitisme » des LLM
-    Next.ink : https://next.ink/256363/lia-menace-la-pratique-scientifique-deplorent-des-milliers-de-mathematiciens/
-    Hacker News : https://frvr.com/blog/news/ps5-linux-lead-quits-as-open-source-projects-have-become-a-bunch-of-noobs-using-llms-that-they-dont-even-understand/
-- Nvidia adopte Rust pour programmer ses processeurs graphiques
-    Hacker News : https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/
-
-Genere automatiquement par Culture G.</description>
-      <itunes:summary>Mistral AI s'associe à Mozilla pour équiper 200 millions d'utilisateurs de Firefox. Pendant ce temps, OpenAI teste des chatbots publicitaires et la communauté open source se révolta contre le code généré par IA.
-
-Sources de cet episode :
-
-- Mistral AI et Mozilla intègrent l'IA privée au cœur du navigateur Firefox
-    Hacker News : https://mistral.ai/news/mistral-x-mozilla/
-    Next.ink : https://next.ink/brief-article/mistral-et-mozilla-officialisent-leur-partenariat-dans-la-fenetre-intelligente-de-firefox/
-- OpenAI esquisse son modèle publicitaire avec les « agents sponsorisés »
-    OpenAI : https://openai.com/index/reimagining-advertising-with-ai
-    Next.ink : https://next.ink/brief-article/openai-teste-les-chatbots-publicitaires-dans-chatgpt/
-- Mathématiciens et développeurs en colère contre le « parasitisme » des LLM
-    Next.ink : https://next.ink/256363/lia-menace-la-pratique-scientifique-deplorent-des-milliers-de-mathematiciens/
-    Hacker News : https://frvr.com/blog/news/ps5-linux-lead-quits-as-open-source-projects-have-become-a-bunch-of-noobs-using-llms-that-they-dont-even-understand/
-- Nvidia adopte Rust pour programmer ses processeurs graphiques
-    Hacker News : https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/
-
-Genere automatiquement par Culture G.</itunes:summary>
-      <itunes:subtitle>Mistral AI s'associe à Mozilla pour équiper 200 millions d'utilisateurs de Firefox. Pendant ce temps, OpenAI teste des chatbots publicitaires et la communauté open source se révolta contre le code généré par IA.</itunes:subtitle>
-      <itunes:duration>00:09:41</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <enclosure url="https://scadagoal.github.io/culture-g/episodes/2026-09-17.mp3" length="4646253" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
