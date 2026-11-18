@@ -1,5 +1,15 @@
 [
   {
+    "slug": "2026-11-18",
+    "title": "GPT-6.2, séisme chez Nvidia et vitesse de la lumière",
+    "teaser": "OpenAI lance sa famille de modèles GPT-6.2 tandis que Nvidia traverse une tempête de gouvernance historique. Nous reviendrons aussi sur la première mesure de la vitesse de la lumière il y a trois cent cinquante ans.",
+    "notes": "Sources de cet episode :\n\n- OpenAI officialise la famille de modèles GPT-6.2 Astra et Sol\n    OpenAI : https://openai.com/index/introducing-gpt-6-2-astra-sol\n    Next.ink : https://next.ink/brief-article/avec-gpt-6-2-sol-et-astra-openai-promet-de-la-qualite-et-des-economies/\n- Nvidia prépare l'après-Jensen Huang sur fond de crise de gouvernance\n    Ars Technica : https://arstechnica.com/tech-policy/2026/11/trump-was-in-bed-with-jensen-critics-balk-at-huangs-wish-to-return-to-nvidia/\n    Numerama : https://www.numerama.com/tech/2377211-je-serais-honore-de-revenir-jensen-huang-sort-du-silence-apres-le-scandale-chez-nvidia.html\n    Next.ink : https://next.ink/268087/nvidia-prepare-lapres-jensen-huang-et-renforce-ses-controles/\n- Underscore_ : La quête du détecteur d'images IA idéal\n    Underscore_ : https://www.youtube.com/watch?v=D-NRC_wnJbc\n- Olala : OVHcloud entre dans le jeu des modèles de langage open source\n    Next.ink : https://next.ink/267996/ovhcloud-donne-un-avant-gout-de-son-premier-modele-olala/\n- Histoire des sciences : il y a 350 ans, Ole Rømer prouvait que la lumière a une vitesse finie\n    Hacker News : https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969\n\nGenere automatiquement par Culture G.",
+    "audio": "2026-11-18.mp3",
+    "bytes": 4196396,
+    "duration": 524.48,
+    "published": "2026-11-18T07:48:22.626760+00:00"
+  },
+  {
     "slug": "2026-11-17",
     "title": "La course aux modeles geants, turbulences chez Nvidia et autonomie des agents IA",
     "teaser": "Alibaba devoile Qwen4-Max et son architecture hybride pendant que la Silicon Valley s'active pour Jensen Huang et que ChatGPT gagne une carte bancaire.",
