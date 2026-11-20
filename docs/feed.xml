@@ -8,7 +8,7 @@
     <atom:link href="https://scadagoal.github.io/culture-g/feed.xml" rel="self" type="application/rss+xml"/>
     <language>fr-FR</language>
     <description>Un condense quotidien de l'actualite de l'intelligence artificielle, de la tech et de la science, monte en dialogue et genere automatiquement. L'IA en fil rouge, mais on ouvre large : histoire, sciences dures, societe.</description>
-    <lastBuildDate>Thu, 19 Nov 2026 18:17:24 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 08:15:53 +0000</lastBuildDate>
     <generator>Culture G</generator>
     <itunes:author>Culture G</itunes:author>
     <itunes:subtitle>Votre veille IA, tech et science, chaque matin</itunes:subtitle>
@@ -20,6 +20,47 @@
     <itunes:owner>
       <itunes:name>Culture G</itunes:name>
     </itunes:owner>
+    <item>
+      <title>Anthropic entre physique quantique et Bourse</title>
+      <link>https://scadagoal.github.io/culture-g/</link>
+      <guid isPermaLink="false">culture-g-2026-11-20</guid>
+      <pubDate>Fri, 20 Nov 2026 08:14:32 +0000</pubDate>
+      <description>Claude résout des mystères sur les trous noirs tandis qu'Anthropic fait son entrée au Nasdaq, aux côtés des avancées de Google et des ratés de la surveillance par intelligence artificielle.
+
+Sources de cet episode :
+
+- Anthropic : Claude résout des problèmes de physique théorique et réussit son entrée au Nasdaq
+    Hacker News : https://www.anthropic.com/research/claude-black-hole-physics
+    Hacker News : https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/
+- Puce Willow : Google franchit un cap décisif dans l'informatique quantique
+    Numerama : https://www.numerama.com/sciences/2379073-983-de-victoires-la-puce-quantique-de-google-pulverise-un-plafond-logique-classique.html
+- Alerte armée par IA : quand un paquet de Doritos déclenche une intervention policière
+    Ars Technica : https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/
+- Performance Factory : comment OpenAI garde ChatGPT fluide en coulisses
+    OpenAI : https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast
+
+Genere automatiquement par Culture G.</description>
+      <itunes:summary>Claude résout des mystères sur les trous noirs tandis qu'Anthropic fait son entrée au Nasdaq, aux côtés des avancées de Google et des ratés de la surveillance par intelligence artificielle.
+
+Sources de cet episode :
+
+- Anthropic : Claude résout des problèmes de physique théorique et réussit son entrée au Nasdaq
+    Hacker News : https://www.anthropic.com/research/claude-black-hole-physics
+    Hacker News : https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/
+- Puce Willow : Google franchit un cap décisif dans l'informatique quantique
+    Numerama : https://www.numerama.com/sciences/2379073-983-de-victoires-la-puce-quantique-de-google-pulverise-un-plafond-logique-classique.html
+- Alerte armée par IA : quand un paquet de Doritos déclenche une intervention policière
+    Ars Technica : https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/
+- Performance Factory : comment OpenAI garde ChatGPT fluide en coulisses
+    OpenAI : https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast
+
+Genere automatiquement par Culture G.</itunes:summary>
+      <itunes:subtitle>Claude résout des mystères sur les trous noirs tandis qu'Anthropic fait son entrée au Nasdaq, aux côtés des avancées de Google et des ratés de la surveillance par intelligence artificielle.</itunes:subtitle>
+      <itunes:duration>00:06:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://scadagoal.github.io/culture-g/episodes/2026-11-20.mp3" length="3127532" type="audio/mpeg"/>
+    </item>
     <item>
       <title>Gemini 4 Neon, cyberattaque agentique et foie hors du corps</title>
       <link>https://scadagoal.github.io/culture-g/</link>

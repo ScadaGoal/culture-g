@@ -1,5 +1,15 @@
 [
   {
+    "slug": "2026-11-20",
+    "title": "Anthropic entre physique quantique et Bourse",
+    "teaser": "Claude résout des mystères sur les trous noirs tandis qu'Anthropic fait son entrée au Nasdaq, aux côtés des avancées de Google et des ratés de la surveillance par intelligence artificielle.",
+    "notes": "Sources de cet episode :\n\n- Anthropic : Claude résout des problèmes de physique théorique et réussit son entrée au Nasdaq\n    Hacker News : https://www.anthropic.com/research/claude-black-hole-physics\n    Hacker News : https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/\n- Puce Willow : Google franchit un cap décisif dans l'informatique quantique\n    Numerama : https://www.numerama.com/sciences/2379073-983-de-victoires-la-puce-quantique-de-google-pulverise-un-plafond-logique-classique.html\n- Alerte armée par IA : quand un paquet de Doritos déclenche une intervention policière\n    Ars Technica : https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/\n- Performance Factory : comment OpenAI garde ChatGPT fluide en coulisses\n    OpenAI : https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast\n\nGenere automatiquement par Culture G.",
+    "audio": "2026-11-20.mp3",
+    "bytes": 3127532,
+    "duration": 390.88,
+    "published": "2026-11-20T08:14:32.802332+00:00"
+  },
+  {
     "slug": "2026-11-19",
     "title": "Gemini 4 Neon, cyberattaque agentique et foie hors du corps",
     "teaser": "Google DeepMind revoit sa gamme avec Gemini 4 Neon et Genie 4 pendant qu'une IA autonome frappe les institutions européennes. Au sommaire également : un foie maintenu en vie sept semaines et le mystère géologique du Grand Canyon.",
