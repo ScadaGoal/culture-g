@@ -1,5 +1,15 @@
 [
   {
+    "slug": "2026-11-21",
+    "title": "Riemann bousculé par l'IA et le mur de Nvidia",
+    "teaser": "Un chercheur affirme avoir résolu l'hypothèse de Riemann avec Claude, tandis que les limites physiques du silicium menacent le quasi-monopole de Nvidia. Nous verrons aussi comment des modèles parviennent à réécrire leurs propres poids en pleine exécution.",
+    "notes": "Sources de cet episode :\n\n- Un chercheur d'Anthropic affirme avoir résolu l'hypothèse de Riemann grâce à Claude\n    Numerama : https://www.numerama.com/tech/2380265-un-graal-des-maths-tombe-un-chercheur-danthropic-revendique-avoir-resolu-lhypothese-de-riemann-avec-lia-claude.html\n    Hacker News : https://alpo.ge/remark.pdf\n    Hacker News : https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/\n    Hacker News : https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/\n- Les limites physiques du silicium qui menacent le règne de Nvidia\n    Underscore_ : https://www.youtube.com/watch?v=7Jk8FFFqLW0\n- Vers des IA capables de réécrire leurs propres poids en temps réel\n    Hacker News : https://arxiv.org/abs/2611.21885\n- Capacités des IA : la nouvelle mise à jour du graphique de référence par METR\n    MIT Tech Review : https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/\n- Espace : Voyager 1 atteint un délai d'une journée-lumière avec la Terre\n    ScienceDaily : https://www.sciencedaily.com/releases/2026/11/261120075554.htm\n\nGenere automatiquement par Culture G.",
+    "audio": "2026-11-21.mp3",
+    "bytes": 6632492,
+    "duration": 829.0,
+    "published": "2026-11-21T07:54:57.616066+00:00"
+  },
+  {
     "slug": "2026-11-20",
     "title": "Anthropic entre physique quantique et Bourse",
     "teaser": "Claude résout des mystères sur les trous noirs tandis qu'Anthropic fait son entrée au Nasdaq, aux côtés des avancées de Google et des ratés de la surveillance par intelligence artificielle.",
