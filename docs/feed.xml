@@ -8,7 +8,7 @@
     <atom:link href="https://scadagoal.github.io/culture-g/feed.xml" rel="self" type="application/rss+xml"/>
     <language>fr-FR</language>
     <description>Un condense quotidien de l'actualite de l'intelligence artificielle, de la tech et de la science, monte en dialogue et genere automatiquement. L'IA en fil rouge, mais on ouvre large : histoire, sciences dures, societe.</description>
-    <lastBuildDate>Sat, 21 Nov 2026 07:57:42 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 07:06:44 +0000</lastBuildDate>
     <generator>Culture G</generator>
     <itunes:author>Culture G</itunes:author>
     <itunes:subtitle>Votre veille IA, tech et science, chaque matin</itunes:subtitle>
@@ -20,6 +20,47 @@
     <itunes:owner>
       <itunes:name>Culture G</itunes:name>
     </itunes:owner>
+    <item>
+      <title>IA et maths : l'hypothèse de Riemann vacille</title>
+      <link>https://scadagoal.github.io/culture-g/</link>
+      <guid isPermaLink="false">culture-g-2026-11-22</guid>
+      <pubDate>Sun, 22 Nov 2026 07:04:44 +0000</pubDate>
+      <description>En vingt-quatre heures, l'hypothèse de Riemann a fait l'objet de deux démonstrations concurrentes, l'une portée par une IA et l'autre 100 % humaine. Nous analysons également les avancées de Neuralink dans le jeu vidéo, l'IA militaire à l'ONU et la superposition quantique du temps.
+
+Sources de cet episode :
+
+- Mathématiques et IA : L'hypothèse de Riemann au cœur d'une course folle
+    Hacker News : https://leanprover-community.github.io/blog/posts/riemann-hypothesis/
+    Numerama : https://www.numerama.com/sciences/2380525-lhumain-contre-attaque-sur-lhypothese-de-riemann-un-chercheur-aurait-craque-lenigme-avant-lia-claude.html
+- Neuralink : Un joueur tétraplégique contrôle un jeu vidéo complexe uniquement par la pensée
+    Numerama : https://www.numerama.com/pop-culture/2380513-gta-6-tetraplegique-il-joue-sans-manette-uniquement-par-la-pensee.html
+- Robots tueurs et IA militaire : Ce que les armées délèguent réellement aux algorithmes
+    Numerama : https://www.numerama.com/tech/2379739-robots-tueurs-autonomes-ou-en-sommes-nous-vraiment.html
+- Physique quantique : Peut-on mesurer plusieurs écoulements du temps simultanés ?
+    ScienceDaily : https://www.sciencedaily.com/releases/2026/11/261120075558.htm
+
+Genere automatiquement par Culture G.</description>
+      <itunes:summary>En vingt-quatre heures, l'hypothèse de Riemann a fait l'objet de deux démonstrations concurrentes, l'une portée par une IA et l'autre 100 % humaine. Nous analysons également les avancées de Neuralink dans le jeu vidéo, l'IA militaire à l'ONU et la superposition quantique du temps.
+
+Sources de cet episode :
+
+- Mathématiques et IA : L'hypothèse de Riemann au cœur d'une course folle
+    Hacker News : https://leanprover-community.github.io/blog/posts/riemann-hypothesis/
+    Numerama : https://www.numerama.com/sciences/2380525-lhumain-contre-attaque-sur-lhypothese-de-riemann-un-chercheur-aurait-craque-lenigme-avant-lia-claude.html
+- Neuralink : Un joueur tétraplégique contrôle un jeu vidéo complexe uniquement par la pensée
+    Numerama : https://www.numerama.com/pop-culture/2380513-gta-6-tetraplegique-il-joue-sans-manette-uniquement-par-la-pensee.html
+- Robots tueurs et IA militaire : Ce que les armées délèguent réellement aux algorithmes
+    Numerama : https://www.numerama.com/tech/2379739-robots-tueurs-autonomes-ou-en-sommes-nous-vraiment.html
+- Physique quantique : Peut-on mesurer plusieurs écoulements du temps simultanés ?
+    ScienceDaily : https://www.sciencedaily.com/releases/2026/11/261120075558.htm
+
+Genere automatiquement par Culture G.</itunes:summary>
+      <itunes:subtitle>En vingt-quatre heures, l'hypothèse de Riemann a fait l'objet de deux démonstrations concurrentes, l'une portée par une IA et l'autre 100 % humaine. Nous analysons également les avancées de Neuralink dans le jeu vidéo, l'IA militaire à l'ONU et la superpo</itunes:subtitle>
+      <itunes:duration>00:11:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://scadagoal.github.io/culture-g/episodes/2026-11-22.mp3" length="5354156" type="audio/mpeg"/>
+    </item>
     <item>
       <title>Riemann bousculé par l'IA et le mur de Nvidia</title>
       <link>https://scadagoal.github.io/culture-g/</link>

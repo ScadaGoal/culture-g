@@ -1,5 +1,15 @@
 [
   {
+    "slug": "2026-11-22",
+    "title": "IA et maths : l'hypothèse de Riemann vacille",
+    "teaser": "En vingt-quatre heures, l'hypothèse de Riemann a fait l'objet de deux démonstrations concurrentes, l'une portée par une IA et l'autre 100 % humaine. Nous analysons également les avancées de Neuralink dans le jeu vidéo, l'IA militaire à l'ONU et la superposition quantique du temps.",
+    "notes": "Sources de cet episode :\n\n- Mathématiques et IA : L'hypothèse de Riemann au cœur d'une course folle\n    Hacker News : https://leanprover-community.github.io/blog/posts/riemann-hypothesis/\n    Numerama : https://www.numerama.com/sciences/2380525-lhumain-contre-attaque-sur-lhypothese-de-riemann-un-chercheur-aurait-craque-lenigme-avant-lia-claude.html\n- Neuralink : Un joueur tétraplégique contrôle un jeu vidéo complexe uniquement par la pensée\n    Numerama : https://www.numerama.com/pop-culture/2380513-gta-6-tetraplegique-il-joue-sans-manette-uniquement-par-la-pensee.html\n- Robots tueurs et IA militaire : Ce que les armées délèguent réellement aux algorithmes\n    Numerama : https://www.numerama.com/tech/2379739-robots-tueurs-autonomes-ou-en-sommes-nous-vraiment.html\n- Physique quantique : Peut-on mesurer plusieurs écoulements du temps simultanés ?\n    ScienceDaily : https://www.sciencedaily.com/releases/2026/11/261120075558.htm\n\nGenere automatiquement par Culture G.",
+    "audio": "2026-11-22.mp3",
+    "bytes": 5354156,
+    "duration": 669.2,
+    "published": "2026-11-22T07:04:44.114973+00:00"
+  },
+  {
     "slug": "2026-11-21",
     "title": "Riemann bousculé par l'IA et le mur de Nvidia",
     "teaser": "Un chercheur affirme avoir résolu l'hypothèse de Riemann avec Claude, tandis que les limites physiques du silicium menacent le quasi-monopole de Nvidia. Nous verrons aussi comment des modèles parviennent à réécrire leurs propres poids en pleine exécution.",
