@@ -1,5 +1,15 @@
 [
   {
+    "slug": "2026-11-23",
+    "title": "Anthropic en Bourse, facture CO2 et la preuve de Riemann",
+    "teaser": "Anthropic prépare une entrée en Bourse historique mais dévoile une dépendance massive aux énergies fossiles pour ses serveurs. Dans le même temps, la démonstration de l'Hypothèse de Riemann passe sous la vérification formelle de dix-sept millions de lignes de code.",
+    "notes": "Sources de cet episode :\n\n- L'entrée en bourse d'Anthropic et le coût énergétique secret des datacenters IA\n    Hacker News : https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/\n    Numerama : https://www.numerama.com/pop-culture/2380403-piratage-de-gta-6-ipo-danthropic-et-face-unlock-sur-iphone-duo-le-recap-tech-de-la-semaine.html\n    Next.ink : https://next.ink/268395/pres-dun-francais-sur-deux-habite-a-moins-de-10-km-dun-datacenter/\n- La conjecture de Riemann soumise à la vérification formelle assistée par IA\n    Hacker News : https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3\n    Hacker News : https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/\n    Vision IA : https://www.youtube.com/watch?v=Bc3Ku-yCOKQ\n- Le paradoxe des voiles solaires interstellaires freinement par la lumière\n    ScienceDaily : https://www.sciencedaily.com/releases/2026/11/261120071305.htm\n- Coupure imminente du service DNS Quad9 en France\n    Numerama : https://www.numerama.com/tech/2379931-internet-cessera-de-fonctionner-sans-explication-attention-le-service-quad9-coupe-en-france-ce-mardi-verifiez-si-vous-lutilisez.html\n- Stryx AI lève 7,7 millions d'euros pour développer des drones d'interception autonomes\n    Numerama : https://www.numerama.com/tech/2379779-cest-quoi-stryx-ai-cette-start-up-francaise-qui-veut-intercepter-les-drones.html\n\nGenere automatiquement par Culture G.",
+    "audio": "2026-11-23.mp3",
+    "bytes": 6770156,
+    "duration": 846.2,
+    "published": "2026-11-23T08:21:38.122811+00:00"
+  },
+  {
     "slug": "2026-11-22",
     "title": "IA et maths : l'hypothèse de Riemann vacille",
     "teaser": "En vingt-quatre heures, l'hypothèse de Riemann a fait l'objet de deux démonstrations concurrentes, l'une portée par une IA et l'autre 100 % humaine. Nous analysons également les avancées de Neuralink dans le jeu vidéo, l'IA militaire à l'ONU et la superposition quantique du temps.",
@@ -478,15 +488,5 @@
     "bytes": 5615277,
     "duration": 701.84,
     "published": "2026-09-25T09:32:16.832691+00:00"
-  },
-  {
-    "slug": "2026-09-23",
-    "title": "Modèles bradés, Enigma vaincue et bavure algorithmique",
-    "teaser": "OpenAI et Anthropic déclenchent une guerre des prix inédite sur leurs modèles phares pendant qu'un système d'IA résout une énigme cryptographique vieille de quatre-vingts ans. Nous analyserons aussi le premier rapport officiel du Pentagone admettant une frappe tragique causée par la surconfiance dans un algorithme.",
-    "notes": "Sources de cet episode :\n\n- Claude Opus 5.5 vs GPT-6 Sol et Luna : la guerre des prix et de l'efficience est lancée\n    OpenAI : https://openai.com/index/introducing-gpt-6-sol-and-luna\n    Next.ink : https://next.ink/257658/claude-opus-5-5-gpt-6-sol-et-luna-anthropic-et-openai-se-battent-sur-les-prix/\n    Ars Technica : https://arstechnica.com/ai/2026/09/new-anthropic-openai-models-make-same-promise-a-little-more-for-a-lot-less-money/\n    Numerama : https://www.numerama.com/tech/2338131-claude-opus-5-5-et-gpt-6-sol-sortent-le-meme-jour-anthropic-et-openai-ont-du-mal-a-ralentir-lia.html\n    Hacker News : https://www.anthropic.com/claude-opus-5-5\n- Cryptographie : GPT-6 Astra déchiffre un message Enigma inviolé depuis 2005\n    Hacker News : https://www.cryptocellar.org/bgac/the-mvueh-break.html\n- Défense : le Pentagone admet qu'une surconfiance dans l'IA a causé une frappe tragique en Iran\n    Hacker News : https://www.bloomberg.com/graphics/2026-iran-school-attack/\n- Histoire & Science : un cratère météoritique de 390 millions d'années découvert via des cartes satellites\n    ScienceDaily : https://www.sciencedaily.com/releases/2026/09/260921081101.htm\n\nGenere automatiquement par Culture G.",
-    "audio": "2026-09-23.mp3",
-    "bytes": 6179373,
-    "duration": 772.36,
-    "published": "2026-09-23T08:54:13.826279+00:00"
   }
 ]
