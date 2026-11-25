@@ -1,5 +1,15 @@
 [
   {
+    "slug": "2026-11-25",
+    "title": "GPT-6 aux frontières des sciences et le ménage de Tidal",
+    "teaser": "OpenAI tente de prouver la valeur scientifique de GPT-6 en biologie et en mathématiques fondamentales, malgré d'importantes nuances techniques. Pendant ce temps, Tidal supprime 27 millions de morceaux 100 % synthétiques pour défendre les revenus des artistes.",
+    "notes": "Sources de cet episode :\n\n- OpenAI : GPT-6 conçoit des protéines et révolutionne l'algèbre linéaire\n    OpenAI : https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities\n    Hacker News : https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf\n- Tidal bannit la musique générée par IA et purge 27 millions de morceaux\n    Next.ink : https://next.ink/269736/tidal-interdit-les-morceaux-entierement-generes-par-ia/\n    Ars Technica : https://arstechnica.com/ai/2026/11/tidal-will-ban-fully-ai-generated-music-on-december-9/\n    Hacker News : https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/\n- Astronomie : Des trous noirs atomiques dévoreraient des étoiles de l'intérieur\n    ScienceDaily : https://www.sciencedaily.com/releases/2026/11/261122060332.htm\n- L'essor des agents IA : Anthropic automatise le code, Signal tente de leur bloquer la vue\n    Next.ink : https://next.ink/269751/signal-veut-empecher-les-agents-ia-de-lire-les-messages/\n    Next.ink : https://next.ink/brief-article/avec-claude-ship-anthropic-sattaque-a-la-correction-automatique-des-pull-requests/\n\nGenere automatiquement par Culture G.",
+    "audio": "2026-11-25.mp3",
+    "bytes": 5394668,
+    "duration": 674.28,
+    "published": "2026-11-25T08:52:39.772246+00:00"
+  },
+  {
     "slug": "2026-11-24",
     "title": "GLM-5.4 boucle ses couches et DeepMind vise le quantique",
     "teaser": "Z.ai dévoile l'architecture Loop Transformer avec GLM-5.4, tandis que Google DeepMind s'associe à Lean pour optimiser les algorithmes quantiques. Nous revenons aussi sur les annonces de Free Mobile, le navigateur Ladybird et la naissance d'étoiles dans notre Galaxie.",

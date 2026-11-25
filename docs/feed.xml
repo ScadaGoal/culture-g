@@ -8,7 +8,7 @@
     <atom:link href="https://scadagoal.github.io/culture-g/feed.xml" rel="self" type="application/rss+xml"/>
     <language>fr-FR</language>
     <description>Un condense quotidien de l'actualite de l'intelligence artificielle, de la tech et de la science, monte en dialogue et genere automatiquement. L'IA en fil rouge, mais on ouvre large : histoire, sciences dures, societe.</description>
-    <lastBuildDate>Tue, 24 Nov 2026 10:29:35 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 08:55:18 +0000</lastBuildDate>
     <generator>Culture G</generator>
     <itunes:author>Culture G</itunes:author>
     <itunes:subtitle>Votre veille IA, tech et science, chaque matin</itunes:subtitle>
@@ -20,6 +20,53 @@
     <itunes:owner>
       <itunes:name>Culture G</itunes:name>
     </itunes:owner>
+    <item>
+      <title>GPT-6 aux frontières des sciences et le ménage de Tidal</title>
+      <link>https://scadagoal.github.io/culture-g/</link>
+      <guid isPermaLink="false">culture-g-2026-11-25</guid>
+      <pubDate>Wed, 25 Nov 2026 08:52:39 +0000</pubDate>
+      <description>OpenAI tente de prouver la valeur scientifique de GPT-6 en biologie et en mathématiques fondamentales, malgré d'importantes nuances techniques. Pendant ce temps, Tidal supprime 27 millions de morceaux 100 % synthétiques pour défendre les revenus des artistes.
+
+Sources de cet episode :
+
+- OpenAI : GPT-6 conçoit des protéines et révolutionne l'algèbre linéaire
+    OpenAI : https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities
+    Hacker News : https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf
+- Tidal bannit la musique générée par IA et purge 27 millions de morceaux
+    Next.ink : https://next.ink/269736/tidal-interdit-les-morceaux-entierement-generes-par-ia/
+    Ars Technica : https://arstechnica.com/ai/2026/11/tidal-will-ban-fully-ai-generated-music-on-december-9/
+    Hacker News : https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/
+- Astronomie : Des trous noirs atomiques dévoreraient des étoiles de l'intérieur
+    ScienceDaily : https://www.sciencedaily.com/releases/2026/11/261122060332.htm
+- L'essor des agents IA : Anthropic automatise le code, Signal tente de leur bloquer la vue
+    Next.ink : https://next.ink/269751/signal-veut-empecher-les-agents-ia-de-lire-les-messages/
+    Next.ink : https://next.ink/brief-article/avec-claude-ship-anthropic-sattaque-a-la-correction-automatique-des-pull-requests/
+
+Genere automatiquement par Culture G.</description>
+      <itunes:summary>OpenAI tente de prouver la valeur scientifique de GPT-6 en biologie et en mathématiques fondamentales, malgré d'importantes nuances techniques. Pendant ce temps, Tidal supprime 27 millions de morceaux 100 % synthétiques pour défendre les revenus des artistes.
+
+Sources de cet episode :
+
+- OpenAI : GPT-6 conçoit des protéines et révolutionne l'algèbre linéaire
+    OpenAI : https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities
+    Hacker News : https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf
+- Tidal bannit la musique générée par IA et purge 27 millions de morceaux
+    Next.ink : https://next.ink/269736/tidal-interdit-les-morceaux-entierement-generes-par-ia/
+    Ars Technica : https://arstechnica.com/ai/2026/11/tidal-will-ban-fully-ai-generated-music-on-december-9/
+    Hacker News : https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/
+- Astronomie : Des trous noirs atomiques dévoreraient des étoiles de l'intérieur
+    ScienceDaily : https://www.sciencedaily.com/releases/2026/11/261122060332.htm
+- L'essor des agents IA : Anthropic automatise le code, Signal tente de leur bloquer la vue
+    Next.ink : https://next.ink/269751/signal-veut-empecher-les-agents-ia-de-lire-les-messages/
+    Next.ink : https://next.ink/brief-article/avec-claude-ship-anthropic-sattaque-a-la-correction-automatique-des-pull-requests/
+
+Genere automatiquement par Culture G.</itunes:summary>
+      <itunes:subtitle>OpenAI tente de prouver la valeur scientifique de GPT-6 en biologie et en mathématiques fondamentales, malgré d'importantes nuances techniques. Pendant ce temps, Tidal supprime 27 millions de morceaux 100 % synthétiques pour défendre les revenus des artis</itunes:subtitle>
+      <itunes:duration>00:11:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://scadagoal.github.io/culture-g/episodes/2026-11-25.mp3" length="5394668" type="audio/mpeg"/>
+    </item>
     <item>
       <title>GLM-5.4 boucle ses couches et DeepMind vise le quantique</title>
       <link>https://scadagoal.github.io/culture-g/</link>
