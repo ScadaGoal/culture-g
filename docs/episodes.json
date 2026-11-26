@@ -1,5 +1,15 @@
 [
   {
+    "slug": "2026-11-26",
+    "title": "Algorithmes, applications locales et datacenters spatiaux",
+    "teaser": "Google repousse les limites de l'informatique théorique, Claude lance ses applications de bureau locales et SpaceX vise un million de satellites.",
+    "notes": "Sources de cet episode :\n\n- Nouveaux sommets en informatique théorique : multiplication matricielle et travaux de Google\n    Hacker News : https://scottaaronson.blog/?p=10379\n    Hacker News : https://github.com/google-research/google-research/tree/master/cogentic_research_papers\n- Claude franchit le cap des applications locales autonomes sur ordinateur\n    Next.ink : https://next.ink/270124/claude-sait-maintenant-produire-des-applications-a-partir-dartefacts/\n- Un datacenter spatial : SpaceX autorisé à déployer 1 million de satellites\n    Next.ink : https://next.ink/270110/datacenter-spatial-spacex-veut-multiplier-par-50-le-nombre-de-satellites-en-orbite/\n    Ars Technica : https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites/\n- Physique fondamentale : piéger l'antimatière pour comprendre l'origine de l'Univers\n    ScienceDaily : https://www.sciencedaily.com/releases/2026/11/261124055849.htm\n\nGenere automatiquement par Culture G.",
+    "audio": "2026-11-26.mp3",
+    "bytes": 4210796,
+    "duration": 526.28,
+    "published": "2026-11-26T08:39:15.582738+00:00"
+  },
+  {
     "slug": "2026-11-25",
     "title": "GPT-6 aux frontières des sciences et le ménage de Tidal",
     "teaser": "OpenAI tente de prouver la valeur scientifique de GPT-6 en biologie et en mathématiques fondamentales, malgré d'importantes nuances techniques. Pendant ce temps, Tidal supprime 27 millions de morceaux 100 % synthétiques pour défendre les revenus des artistes.",

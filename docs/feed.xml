@@ -8,7 +8,7 @@
     <atom:link href="https://scadagoal.github.io/culture-g/feed.xml" rel="self" type="application/rss+xml"/>
     <language>fr-FR</language>
     <description>Un condense quotidien de l'actualite de l'intelligence artificielle, de la tech et de la science, monte en dialogue et genere automatiquement. L'IA en fil rouge, mais on ouvre large : histoire, sciences dures, societe.</description>
-    <lastBuildDate>Wed, 25 Nov 2026 08:55:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 08:41:04 +0000</lastBuildDate>
     <generator>Culture G</generator>
     <itunes:author>Culture G</itunes:author>
     <itunes:subtitle>Votre veille IA, tech et science, chaque matin</itunes:subtitle>
@@ -20,6 +20,49 @@
     <itunes:owner>
       <itunes:name>Culture G</itunes:name>
     </itunes:owner>
+    <item>
+      <title>Algorithmes, applications locales et datacenters spatiaux</title>
+      <link>https://scadagoal.github.io/culture-g/</link>
+      <guid isPermaLink="false">culture-g-2026-11-26</guid>
+      <pubDate>Thu, 26 Nov 2026 08:39:15 +0000</pubDate>
+      <description>Google repousse les limites de l'informatique théorique, Claude lance ses applications de bureau locales et SpaceX vise un million de satellites.
+
+Sources de cet episode :
+
+- Nouveaux sommets en informatique théorique : multiplication matricielle et travaux de Google
+    Hacker News : https://scottaaronson.blog/?p=10379
+    Hacker News : https://github.com/google-research/google-research/tree/master/cogentic_research_papers
+- Claude franchit le cap des applications locales autonomes sur ordinateur
+    Next.ink : https://next.ink/270124/claude-sait-maintenant-produire-des-applications-a-partir-dartefacts/
+- Un datacenter spatial : SpaceX autorisé à déployer 1 million de satellites
+    Next.ink : https://next.ink/270110/datacenter-spatial-spacex-veut-multiplier-par-50-le-nombre-de-satellites-en-orbite/
+    Ars Technica : https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites/
+- Physique fondamentale : piéger l'antimatière pour comprendre l'origine de l'Univers
+    ScienceDaily : https://www.sciencedaily.com/releases/2026/11/261124055849.htm
+
+Genere automatiquement par Culture G.</description>
+      <itunes:summary>Google repousse les limites de l'informatique théorique, Claude lance ses applications de bureau locales et SpaceX vise un million de satellites.
+
+Sources de cet episode :
+
+- Nouveaux sommets en informatique théorique : multiplication matricielle et travaux de Google
+    Hacker News : https://scottaaronson.blog/?p=10379
+    Hacker News : https://github.com/google-research/google-research/tree/master/cogentic_research_papers
+- Claude franchit le cap des applications locales autonomes sur ordinateur
+    Next.ink : https://next.ink/270124/claude-sait-maintenant-produire-des-applications-a-partir-dartefacts/
+- Un datacenter spatial : SpaceX autorisé à déployer 1 million de satellites
+    Next.ink : https://next.ink/270110/datacenter-spatial-spacex-veut-multiplier-par-50-le-nombre-de-satellites-en-orbite/
+    Ars Technica : https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites/
+- Physique fondamentale : piéger l'antimatière pour comprendre l'origine de l'Univers
+    ScienceDaily : https://www.sciencedaily.com/releases/2026/11/261124055849.htm
+
+Genere automatiquement par Culture G.</itunes:summary>
+      <itunes:subtitle>Google repousse les limites de l'informatique théorique, Claude lance ses applications de bureau locales et SpaceX vise un million de satellites.</itunes:subtitle>
+      <itunes:duration>00:08:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://scadagoal.github.io/culture-g/episodes/2026-11-26.mp3" length="4210796" type="audio/mpeg"/>
+    </item>
     <item>
       <title>GPT-6 aux frontières des sciences et le ménage de Tidal</title>
       <link>https://scadagoal.github.io/culture-g/</link>
