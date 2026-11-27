@@ -8,7 +8,7 @@
     <atom:link href="https://scadagoal.github.io/culture-g/feed.xml" rel="self" type="application/rss+xml"/>
     <language>fr-FR</language>
     <description>Un condense quotidien de l'actualite de l'intelligence artificielle, de la tech et de la science, monte en dialogue et genere automatiquement. L'IA en fil rouge, mais on ouvre large : histoire, sciences dures, societe.</description>
-    <lastBuildDate>Thu, 26 Nov 2026 08:41:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 08:53:24 +0000</lastBuildDate>
     <generator>Culture G</generator>
     <itunes:author>Culture G</itunes:author>
     <itunes:subtitle>Votre veille IA, tech et science, chaque matin</itunes:subtitle>
@@ -20,6 +20,55 @@
     <itunes:owner>
       <itunes:name>Culture G</itunes:name>
     </itunes:owner>
+    <item>
+      <title>OpenAI réduit la voilure et le toucher bionique devient réalité</title>
+      <link>https://scadagoal.github.io/culture-g/</link>
+      <guid isPermaLink="false">culture-g-2026-11-27</guid>
+      <pubDate>Fri, 27 Nov 2026 08:51:01 +0000</pubDate>
+      <description>OpenAI restreint brutalement les quotas de ses utilisateurs sous couvert d'ajustement technique pendant que la science redonne le toucher aux prothèses. Nous revenons aussi sur le bannissement des compagnons IA et les progrès d'AMD dans l'open source.
+
+Sources de cet episode :
+
+- OpenAI passe en mode réduction des coûts et réduit les quotas de ses modèles
+    Numerama : https://www.numerama.com/tech/2385489-on-a-fait-une-erreur-de-facturation-openai-corrige-le-tir-et-vos-quotas-gpt-6-2-vont-fondre-jusqua-40-plus-vite.html
+    Hacker News : https://micjm.com/blog/openai-is-in-cost-control-mode/
+- Des prothèses bioniques directement reliées au système nerveux redonnent le sens du toucher
+    MIT Tech Review : https://www.technologyreview.com/2026/11/26/1149923/the-next-generation-of-bionic-hands-is-here-and-they-can-feel/
+- Chatbots de compagnie et jouets IA : la réaction des autorités et stores face aux dérives sur les mineurs
+    Next.ink : https://next.ink/270438/messages-sexuels-et-chantage-affectif-apple-retire-le-chatbot-talkie-de-lapp-store/
+    Next.ink : https://next.ink/269533/associations-et-experts-exhortent-amazon-et-ebay-a-retirer-les-jouets-dotes-de-chatbots-ia/
+- L'alternative open source à Nvidia s'accélère : llama.cpp sur-mesure pour les puces AMD
+    Hacker News : https://devnull.land/amd-specific-llama-cpp
+    Hugging Face : https://huggingface.co/blog/ggml-org/llamacpp-amd-bench
+- Neurosciences : la plupart de nos neurones sont en réalité polyvalents
+    ScienceDaily : https://www.sciencedaily.com/releases/2026/11/261125045302.htm
+
+Genere automatiquement par Culture G.</description>
+      <itunes:summary>OpenAI restreint brutalement les quotas de ses utilisateurs sous couvert d'ajustement technique pendant que la science redonne le toucher aux prothèses. Nous revenons aussi sur le bannissement des compagnons IA et les progrès d'AMD dans l'open source.
+
+Sources de cet episode :
+
+- OpenAI passe en mode réduction des coûts et réduit les quotas de ses modèles
+    Numerama : https://www.numerama.com/tech/2385489-on-a-fait-une-erreur-de-facturation-openai-corrige-le-tir-et-vos-quotas-gpt-6-2-vont-fondre-jusqua-40-plus-vite.html
+    Hacker News : https://micjm.com/blog/openai-is-in-cost-control-mode/
+- Des prothèses bioniques directement reliées au système nerveux redonnent le sens du toucher
+    MIT Tech Review : https://www.technologyreview.com/2026/11/26/1149923/the-next-generation-of-bionic-hands-is-here-and-they-can-feel/
+- Chatbots de compagnie et jouets IA : la réaction des autorités et stores face aux dérives sur les mineurs
+    Next.ink : https://next.ink/270438/messages-sexuels-et-chantage-affectif-apple-retire-le-chatbot-talkie-de-lapp-store/
+    Next.ink : https://next.ink/269533/associations-et-experts-exhortent-amazon-et-ebay-a-retirer-les-jouets-dotes-de-chatbots-ia/
+- L'alternative open source à Nvidia s'accélère : llama.cpp sur-mesure pour les puces AMD
+    Hacker News : https://devnull.land/amd-specific-llama-cpp
+    Hugging Face : https://huggingface.co/blog/ggml-org/llamacpp-amd-bench
+- Neurosciences : la plupart de nos neurones sont en réalité polyvalents
+    ScienceDaily : https://www.sciencedaily.com/releases/2026/11/261125045302.htm
+
+Genere automatiquement par Culture G.</itunes:summary>
+      <itunes:subtitle>OpenAI restreint brutalement les quotas de ses utilisateurs sous couvert d'ajustement technique pendant que la science redonne le toucher aux prothèses. Nous revenons aussi sur le bannissement des compagnons IA et les progrès d'AMD dans l'open source.</itunes:subtitle>
+      <itunes:duration>00:11:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://scadagoal.github.io/culture-g/episodes/2026-11-27.mp3" length="5609900" type="audio/mpeg"/>
+    </item>
     <item>
       <title>Algorithmes, applications locales et datacenters spatiaux</title>
       <link>https://scadagoal.github.io/culture-g/</link>
