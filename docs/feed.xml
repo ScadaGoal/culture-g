@@ -8,7 +8,7 @@
     <atom:link href="https://scadagoal.github.io/culture-g/feed.xml" rel="self" type="application/rss+xml"/>
     <language>fr-FR</language>
     <description>Un condense quotidien de l'actualite de l'intelligence artificielle, de la tech et de la science, monte en dialogue et genere automatiquement. L'IA en fil rouge, mais on ouvre large : histoire, sciences dures, societe.</description>
-    <lastBuildDate>Fri, 27 Nov 2026 08:53:24 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 08:21:54 +0000</lastBuildDate>
     <generator>Culture G</generator>
     <itunes:author>Culture G</itunes:author>
     <itunes:subtitle>Votre veille IA, tech et science, chaque matin</itunes:subtitle>
@@ -20,6 +20,47 @@
     <itunes:owner>
       <itunes:name>Culture G</itunes:name>
     </itunes:owner>
+    <item>
+      <title>Google repense les Transformers et le NYT bannit Photoshop</title>
+      <link>https://scadagoal.github.io/culture-g/</link>
+      <guid isPermaLink="false">culture-g-2026-11-28</guid>
+      <pubDate>Sat, 28 Nov 2026 08:19:45 +0000</pubDate>
+      <description>Google Research dévoile DeepCrossAttention pour tripler la vitesse d'apprentissage des modèles sans gonfler leur taille. Pendant ce temps, le New York Times interdit Photoshop 2027 à ses reporters pour protéger la vérité du terrain.
+
+Sources de cet episode :
+
+- DeepCrossAttention : Google repense les connexions des Transformers pour accélérer l'IA
+    Hacker News : https://research.google/blog/supercharging-transformer-residual-connections/
+- Le New York Times interdit Photoshop 2027 à ses photographes
+    Next.ink : https://next.ink/brief-article/le-new-york-times-interdit-photoshop-2027-a-ses-photographes-a-cause-de-lia/
+- Piratage d'ampleur au cœur du cloud de l'US Air Force
+    Numerama : https://www.numerama.com/cyberguerre/2386483-serie-noire-aux-etats-unis-des-pirates-se-sont-infiltres-dans-cloud-one-la-plateforme-cloud-geante-de-lus-air-force.html
+    Hacker News : https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163
+- Le secret d'ingénierie naturelle caché dans la défense du narval
+    ScienceDaily : https://www.sciencedaily.com/releases/2026/11/261126063316.htm
+
+Genere automatiquement par Culture G.</description>
+      <itunes:summary>Google Research dévoile DeepCrossAttention pour tripler la vitesse d'apprentissage des modèles sans gonfler leur taille. Pendant ce temps, le New York Times interdit Photoshop 2027 à ses reporters pour protéger la vérité du terrain.
+
+Sources de cet episode :
+
+- DeepCrossAttention : Google repense les connexions des Transformers pour accélérer l'IA
+    Hacker News : https://research.google/blog/supercharging-transformer-residual-connections/
+- Le New York Times interdit Photoshop 2027 à ses photographes
+    Next.ink : https://next.ink/brief-article/le-new-york-times-interdit-photoshop-2027-a-ses-photographes-a-cause-de-lia/
+- Piratage d'ampleur au cœur du cloud de l'US Air Force
+    Numerama : https://www.numerama.com/cyberguerre/2386483-serie-noire-aux-etats-unis-des-pirates-se-sont-infiltres-dans-cloud-one-la-plateforme-cloud-geante-de-lus-air-force.html
+    Hacker News : https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163
+- Le secret d'ingénierie naturelle caché dans la défense du narval
+    ScienceDaily : https://www.sciencedaily.com/releases/2026/11/261126063316.htm
+
+Genere automatiquement par Culture G.</itunes:summary>
+      <itunes:subtitle>Google Research dévoile DeepCrossAttention pour tripler la vitesse d'apprentissage des modèles sans gonfler leur taille. Pendant ce temps, le New York Times interdit Photoshop 2027 à ses reporters pour protéger la vérité du terrain.</itunes:subtitle>
+      <itunes:duration>00:11:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://scadagoal.github.io/culture-g/episodes/2026-11-28.mp3" length="5611052" type="audio/mpeg"/>
+    </item>
     <item>
       <title>OpenAI réduit la voilure et le toucher bionique devient réalité</title>
       <link>https://scadagoal.github.io/culture-g/</link>
